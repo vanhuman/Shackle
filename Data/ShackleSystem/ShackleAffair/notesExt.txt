@@ -1,0 +1,73 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+[low]
+
+<*BOLT>
+[hectic]
+
+<*BOW>
+[airy]
+
+<*CHAIN>
+[solo and accompaniment]
+
+<*CHOICE>
+[text]
+
+<*CLIP>
+[broken beats] 
+
+<*CUFF>
+[slow noise]
+
+<*EYE>
+[sine tones]
+
+<*FORGE>
+[clicks & pops]
+
+<*IMAGINE>
+[pianissimo]
+
+<*LIMIT>
+[hot noise] 
+
+<*LOOP>
+[loops]
+
+<*PIN>
+[choppy]
+
+<*RIG>
+[D minor David Lynch]
+
+<*SCREW>
+[bend]
+
+<*SHACKLE>
+[free improv]
+
+<*SNAP>
+[sparse]
+
+<*THIMBLE>
+[fast licks]
+
+<*TORQUE>
+[sustained spit]
+
+<*TWIST>
+[some silences]
+
+<*ZIPPER>
+[melody]
+
+<*END>
+
++++
+
+
+

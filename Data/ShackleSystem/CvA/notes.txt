@@ -1,0 +1,63 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+ANCHOR:
+
+Low 
+
+<*BOLT>
+BOLT:
+
+Fast staccato
+
+<*DENT>
+DENT:
+
+Contrasts
+
+<*EYE>
+EYE:
+
+Sine tones
+
+<*FASTEN>
+FASTEN:
+
+No pitch
+
+<*FORGE>
+FORGE:
+
+Clicks & pops
+
+<*IMAGINE>
+IMAGINE:
+
+Pianissimo
+
+<*LOOP>
+LOOP:
+
+Loops
+
+<*PIN>
+PIN:
+
+Short sounds, long pauses
+ 
+<*SPINE>
+SPINE:
+
+Tingly, prickely
+
+<*END>
+END: 
+
+Make an ending
+
++++
+
+
+

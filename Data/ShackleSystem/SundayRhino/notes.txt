@@ -1,0 +1,57 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*INTRO>
+[ Bbmmaj7 ] -- LPK P1
+
+drones and Sauer organ notes 
+F-Bb liggen, speel F-Eb-Db (soms A)
+stop before HANDE starts
+
+<*H€NDE>
+
+voice and Verschuren:
+In Deine Hande from the balcony
+At the end start green11 (keyset3) 
+decimate!
+
+<*EDNAH>
+
+retrogade version In Deine Hande
+stop green11 / start green12 (keyset3)
+joystick selects registers!
+
+<*PATTERNS>
+
+voice and chest organ: 
+    PATTERNS score
+laptop: pulse after couple of secs
+
+<*STATIC>
+[ Fmmaj7 ]
+cello, voice and Sauer:
+    long notes with internal movement 
+    started by Michael
+laptop: live sampling
+ 
+<*LISPER>
+[ Bbmmaj7  Bbm7  Bmaj7/D# ]
+voice starts: cut-up text
+Sauer: interrupted hits after some time
+laptop: live sampling / keypex on voice 
+    (efx b1-2 B1 left B2 full right)
+
+<*LAMENT>
+[ Bbm7 ]
+(pedal volume open!!!)
+cello & voice: meditative loop
+Sauer: playing synth (hatswitch back 2x)
+laptop: joystick modulation
+
+<*END>
+ 
++++
+
+
+

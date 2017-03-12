@@ -1,0 +1,43 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*PRELUDE>
+Start sample collage 
+Keyset 2 green1
+
+<*APOLLO>
+P5 (slider HALF!): D-G-Bes-F-Es-D 
+2nd time add P8
+3rd time add joy Rot+X
+goto P7 climax
+P3 end
+
+<*DIONYSUS>
+Interrupted by Sauer
+
+<*ARMAGED>
+Sampling Sauer
+Hectic improv
+
+<*CYGNUS>
+ Leftover sample Sauer LPF
+ Tremolo/pitch shift on Sauer
+ Samples: LV2.8 / blue2.6
+ Zone8 pitch up
+ Later: blue2.11
+ 
+<*SPHERE>
+P6 with decimate
+add P3, end on P8
+E-A-C-D / E-F-A-E / F-G-B-G-F-E
+later green2.2 for MIDI playback
+bassline A-F-G-E
+
+<*END>
+ make an ending
+ 
++++
+
+
+

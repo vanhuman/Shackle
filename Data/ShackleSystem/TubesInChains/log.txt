@@ -1,0 +1,1054 @@
+
+Sun Mar 24 13:08:29 2013 Generator started
+Sun Mar 24 13:08:44 2013 Part BAR with length 147 sec and transition crossfade 
+Sun Mar 24 13:08:45 2013 Generator stopped
+
+Sun Mar 24 13:09:16 2013 Generator started
+Sun Mar 24 13:09:31 2013 Part BAR with length 141 sec and transition crossfade 
+Sun Mar 24 13:11:52 2013 Part FETTER with length 121 sec and transition crossfade 
+Sun Mar 24 13:13:53 2013 Part TRAMMEL with length 77 sec and transition crossfade 
+Sun Mar 24 13:15:10 2013 Part CURB with length 149 sec and transition hardcut 
+Sun Mar 24 13:17:39 2013 Part BILBOES with length 155 sec and transition free 
+Sun Mar 24 13:20:14 2013 Part CRCKDWN with length 129 sec and transition hardcut 
+Sun Mar 24 13:22:23 2013 Part HOG-TIE with length 90 sec and transition free 
+Sun Mar 24 13:23:53 2013 Part TETHER with length 155 sec and transition hardcut 
+Sun Mar 24 13:26:28 2013 Part YOKE with length 92 sec and transition free 
+Sun Mar 24 13:28:00 2013 Part HALTER with length 102 sec and transition free 
+Sun Mar 24 13:29:42 2013 Part BARRED with length 178 sec and transition hardcut 
+Sun Mar 24 13:32:40 2013 Part END with length 315 sec and transition hardcut 
+Sun Mar 24 13:37:05 2013 Generator stopped
+
+Sun Mar 24 13:37:41 2013 Generator started
+Sun Mar 24 13:37:56 2013 Part BAR with length 172 sec and transition crossfade 
+Sun Mar 24 13:40:48 2013 Part FETTER with length 107 sec and transition crossfade 
+Sun Mar 24 13:42:35 2013 Part TRAMMEL with length 75 sec and transition free 
+Sun Mar 24 13:43:50 2013 Part CURB with length 128 sec and transition hardcut 
+Sun Mar 24 13:45:58 2013 Part BILBOES with length 133 sec and transition free 
+Sun Mar 24 13:48:11 2013 Part CRCKDWN with length 135 sec and transition hardcut 
+Sun Mar 24 13:50:26 2013 Part HOG-TIE with length 97 sec and transition hardcut 
+Sun Mar 24 13:52:03 2013 Part TETHER with length 156 sec and transition hardcut 
+Sun Mar 24 13:54:39 2013 Part YOKE with length 131 sec and transition hardcut 
+Sun Mar 24 13:56:50 2013 Part HALTER with length 78 sec and transition hardcut 
+Sun Mar 24 13:58:08 2013 Part BARRED with length 191 sec and transition hardcut 
+Sun Mar 24 14:01:19 2013 Part END with length 315 sec and transition crossfade 
+Sun Mar 24 14:01:21 2013 Generator stopped
+
+Sun Mar 24 14:03:04 2013 Generator started
+Sun Mar 24 14:03:08 2013 Generator stopped
+
+Sun Mar 24 14:03:46 2013 Generator started
+Sun Mar 24 14:04:01 2013 Part BAR with length 141 sec and transition free 
+Sun Mar 24 14:04:13 2013 <nextPart>
+Sun Mar 24 14:04:15 2013 <cancelled>
+Sun Mar 24 14:04:15 2013 Part BAR with length 83 sec and transition free 
+Sun Mar 24 14:04:19 2013 Generator stopped
+
+Sun Mar 24 14:04:24 2013 Generator started
+Sun Mar 24 14:04:29 2013 Part FETTER with length 16 sec and transition crossfade 
+Sun Mar 24 14:04:34 2013 Generator stopped
+
+Sun Mar 24 14:06:46 2013 Generator started
+Sun Mar 24 14:07:01 2013 Part BAR with length 147 sec and transition free 
+Sun Mar 24 14:07:22 2013 Generator stopped
+
+Sun Mar 24 14:07:42 2013 Generator started
+Sun Mar 24 14:07:53 2013 Generator stopped
+
+Sun Mar 24 14:07:54 2013 Generator started
+Sun Mar 24 14:07:57 2013 Generator stopped
+
+Sun Mar 24 14:15:43 2013 Generator started
+Sun Mar 24 14:15:58 2013 Part BAR with length 138 sec and transition hardcut 
+Sun Mar 24 14:16:15 2013 Generator stopped
+
+Sun Mar 24 14:16:26 2013 Generator started
+Sun Mar 24 14:16:26 2013 Generator stopped
+
+Sun Mar 24 14:17:09 2013 Generator started
+Sun Mar 24 14:17:09 2013 Generator stopped
+
+Sun Mar 24 14:17:57 2013 Generator started
+Sun Mar 24 14:17:58 2013 Generator stopped
+
+Sun Mar 24 14:18:57 2013 Generator started
+Sun Mar 24 14:19:02 2013 Part BAR with length 20 sec and transition free 
+Sun Mar 24 14:19:17 2013 Generator stopped
+
+Sun Mar 24 14:19:39 2013 Generator started
+Sun Mar 24 14:19:45 2013 Generator stopped
+
+Sun Mar 24 14:20:18 2013 Generator started
+Sun Mar 24 14:20:26 2013 Generator stopped
+
+Sun Mar 24 14:20:44 2013 Generator started
+Sun Mar 24 14:20:59 2013 Part BAR with length 158 sec and transition hardcut 
+Sun Mar 24 14:21:11 2013 Generator stopped
+
+Sun Mar 24 14:21:47 2013 Generator started
+Sun Mar 24 14:21:59 2013 Generator stopped
+
+Sun Mar 24 14:22:43 2013 Generator started
+Sun Mar 24 14:22:51 2013 Generator stopped
+
+Sun Mar 24 14:23:46 2013 Generator started
+Sun Mar 24 14:24:00 2013 Generator stopped
+
+Sun Mar 24 14:26:57 2013 Generator started
+Sun Mar 24 14:27:00 2013 Generator stopped
+
+Sun Mar 24 14:27:10 2013 Generator started
+Sun Mar 24 14:27:21 2013 Generator stopped
+
+Sun Mar 24 14:27:27 2013 Generator started
+Sun Mar 24 14:27:31 2013 Generator stopped
+
+Sun Mar 24 14:27:42 2013 Generator started
+Sun Mar 24 14:27:49 2013 Generator stopped
+
+Sun Mar 24 14:34:08 2013 Generator started
+Sun Mar 24 14:34:15 2013 Generator stopped
+
+Sun Mar 24 14:34:23 2013 Generator started
+Sun Mar 24 14:34:29 2013 Generator stopped
+
+Sun Mar 24 14:35:18 2013 Generator started
+Sun Mar 24 14:35:20 2013 Generator stopped
+
+Sun Mar 24 14:35:39 2013 Generator started
+Sun Mar 24 14:35:40 2013 Generator stopped
+
+Sun Mar 24 14:35:56 2013 Generator started
+Sun Mar 24 14:35:58 2013 Generator stopped
+
+Sun Mar 24 16:46:13 2013 Generator started
+Sun Mar 24 16:46:14 2013 Generator stopped
+
+Sun Mar 24 17:06:33 2013 Generator started
+Sun Mar 24 17:06:46 2013 Generator stopped
+
+Sun Mar 24 17:07:08 2013 Generator started
+Sun Mar 24 17:07:13 2013 Generator stopped
+
+Sun Mar 24 17:07:27 2013 Generator started
+Sun Mar 24 17:07:30 2013 Generator stopped
+
+Sun Mar 24 17:08:57 2013 Generator started
+Sun Mar 24 17:09:00 2013 Generator stopped
+
+Sun Mar 24 17:09:29 2013 Generator started
+Sun Mar 24 17:09:33 2013 Generator stopped
+
+Mon Mar 25 20:22:33 2013 Generator started
+Mon Mar 25 20:22:38 2013 Part BAR with length 21 sec and transition hardcut 
+Mon Mar 25 20:22:40 2013 <nextPart>
+Mon Mar 25 20:22:45 2013 Part FETTER with length 11 sec and transition crossfade 
+Mon Mar 25 20:22:47 2013 <nextPart>
+Mon Mar 25 20:22:52 2013 Part TRAMMEL with length 15 sec and transition crossfade 
+Mon Mar 25 20:22:54 2013 <nextPart>
+Mon Mar 25 20:22:59 2013 Part CURB with length 18 sec and transition hardcut 
+Mon Mar 25 20:23:17 2013 Part BILBOES with length 15 sec and transition free 
+Mon Mar 25 20:23:32 2013 Part CRCKDWN with length 13 sec and transition crossfade 
+Mon Mar 25 20:23:45 2013 Part HOG-TIE with length 14 sec and transition crossfade 
+Mon Mar 25 20:23:49 2013 <nextPart>
+Mon Mar 25 20:23:54 2013 Part TETHER with length 19 sec and transition crossfade 
+Mon Mar 25 20:23:56 2013 <nextPart>
+Mon Mar 25 20:24:01 2013 Part YOKE with length 15 sec and transition crossfade 
+Mon Mar 25 20:24:03 2013 <nextPart>
+Mon Mar 25 20:24:08 2013 Part HALTER with length 11 sec and transition crossfade 
+Mon Mar 25 20:24:10 2013 <nextPart>
+Mon Mar 25 20:24:15 2013 Part BARRED with length 18 sec and transition hardcut 
+Mon Mar 25 20:24:17 2013 <nextPart>
+Mon Mar 25 20:24:22 2013 Part END with length 35 sec and transition free 
+Mon Mar 25 20:24:27 2013 Generator stopped
+
+Mon Mar 25 20:24:29 2013 Generator started
+Mon Mar 25 20:24:32 2013 Generator stopped
+
+Mon Mar 25 20:24:34 2013 Generator started
+Mon Mar 25 20:24:37 2013 Generator stopped
+
+Mon Mar 25 20:42:25 2013 Generator started
+Mon Mar 25 20:42:29 2013 Generator stopped
+
+Mon Mar 25 20:43:45 2013 Generator started
+Mon Mar 25 20:43:50 2013 Generator stopped
+
+Mon Mar 25 20:45:03 2013 Generator started
+Mon Mar 25 20:45:05 2013 Generator stopped
+
+Mon Mar 25 20:46:00 2013 Generator started
+Mon Mar 25 20:46:02 2013 Generator stopped
+
+Mon Mar 25 20:46:16 2013 Generator started
+Mon Mar 25 20:46:19 2013 Generator stopped
+
+Mon Mar 25 20:46:39 2013 Generator started
+Mon Mar 25 20:46:48 2013 Generator stopped
+
+Mon Mar 25 20:50:02 2013 Generator started
+Mon Mar 25 20:50:04 2013 Generator stopped
+
+Mon Mar 25 20:50:47 2013 Generator started
+Mon Mar 25 20:51:02 2013 Part BAR with length 158 sec and transition crossfade 
+Mon Mar 25 20:51:09 2013 Generator stopped
+
+Mon Mar 25 20:51:44 2013 Generator started
+Mon Mar 25 20:51:56 2013 Generator stopped
+
+Mon Mar 25 20:52:46 2013 Generator started
+Mon Mar 25 20:52:49 2013 Generator stopped
+
+Mon Mar 25 20:53:00 2013 Generator started
+Mon Mar 25 20:53:05 2013 Generator stopped
+
+Mon Mar 25 20:53:21 2013 Generator started
+Mon Mar 25 20:53:30 2013 Generator stopped
+
+Mon Mar 25 20:53:47 2013 Generator started
+Mon Mar 25 20:53:50 2013 Generator stopped
+
+Mon Mar 25 20:53:54 2013 Generator started
+Mon Mar 25 20:53:58 2013 Generator stopped
+
+Mon Mar 25 20:54:14 2013 Generator started
+Mon Mar 25 20:54:17 2013 Generator stopped
+
+Mon Mar 25 20:54:18 2013 Generator started
+Mon Mar 25 20:54:22 2013 Generator stopped
+
+Mon Mar 25 20:54:31 2013 Generator started
+Mon Mar 25 20:54:33 2013 Generator stopped
+
+Mon Mar 25 20:54:34 2013 Generator started
+Mon Mar 25 20:54:36 2013 Generator stopped
+
+Mon Mar 25 20:54:54 2013 Generator started
+Mon Mar 25 20:54:58 2013 Generator stopped
+
+Mon Mar 25 20:55:06 2013 Generator started
+Mon Mar 25 20:55:10 2013 Generator stopped
+
+Mon Mar 25 20:55:17 2013 Generator started
+Mon Mar 25 20:55:22 2013 Generator stopped
+
+Mon Mar 25 20:55:27 2013 Generator started
+Mon Mar 25 20:55:42 2013 Part BAR with length 175 sec and transition free 
+Mon Mar 25 20:56:36 2013 Generator stopped
+
+Mon Mar 25 20:56:40 2013 Generator started
+Mon Mar 25 20:56:42 2013 <cancelled>
+Mon Mar 25 20:56:42 2013 Part BAR with length 176 sec and transition hardcut 
+Mon Mar 25 20:56:43 2013 <nextPart>
+Mon Mar 25 20:56:46 2013 <cancelled>
+Mon Mar 25 20:56:46 2013 Part BAR with length 185 sec and transition hardcut 
+Mon Mar 25 20:56:47 2013 <nextPart>
+Mon Mar 25 20:56:50 2013 <cancelled>
+Mon Mar 25 20:56:50 2013 Part BAR with length 144 sec and transition hardcut 
+Mon Mar 25 20:56:51 2013 <nextPart>
+Mon Mar 25 20:56:56 2013 Part FETTER with length 14 sec and transition hardcut 
+Mon Mar 25 20:57:03 2013 <nextPart>
+Mon Mar 25 20:57:16 2013 <cancelled>
+Mon Mar 25 20:57:16 2013 Part FETTER with length 74 sec and transition hardcut 
+Mon Mar 25 20:57:17 2013 <nextPart>
+Mon Mar 25 20:57:20 2013 Generator stopped
+
+Mon Mar 25 20:57:51 2013 Generator started
+Mon Mar 25 20:57:53 2013 Generator stopped
+
+Mon Mar 25 20:58:00 2013 Generator started
+Mon Mar 25 20:58:05 2013 Generator stopped
+
+Mon Mar 25 20:58:26 2013 Generator started
+Mon Mar 25 20:58:29 2013 Generator stopped
+
+Mon Mar 25 20:58:30 2013 Generator started
+Mon Mar 25 20:58:33 2013 Generator stopped
+
+Mon Mar 25 20:58:47 2013 Generator started
+Mon Mar 25 20:58:50 2013 Generator stopped
+
+Mon Mar 25 20:58:51 2013 Generator started
+Mon Mar 25 20:58:54 2013 Generator stopped
+
+Mon Mar 25 21:02:57 2013 Generator started
+Mon Mar 25 21:02:59 2013 <cancelled>
+Mon Mar 25 21:02:59 2013 Part END with length 315 sec and transition free 
+Mon Mar 25 21:03:00 2013 <nextPart>
+Mon Mar 25 21:03:01 2013 <cancelled>
+Mon Mar 25 21:03:01 2013 Part END with length 315 sec and transition crossfade 
+Mon Mar 25 21:03:02 2013 <nextPart>
+Mon Mar 25 21:03:04 2013 Generator stopped
+
+Mon Mar 25 21:03:14 2013 Generator started
+Mon Mar 25 21:03:21 2013 Generator stopped
+
+Tue Mar 26 08:50:44 2013 Generator started
+Tue Mar 26 08:50:52 2013 Generator stopped
+
+Tue Mar 26 08:51:11 2013 Generator started
+Tue Mar 26 08:51:14 2013 Generator stopped
+
+Tue Mar 26 08:51:16 2013 Generator started
+Tue Mar 26 08:51:16 2013 Generator stopped
+
+Tue Mar 26 08:51:37 2013 Generator started
+Tue Mar 26 08:51:40 2013 Generator stopped
+
+Tue Mar 26 08:51:42 2013 Generator started
+Tue Mar 26 08:51:57 2013 Part BAR with length 166 sec and transition free 
+Tue Mar 26 08:52:39 2013 <nextPart>
+Tue Mar 26 08:52:52 2013 Generator stopped
+
+Tue Mar 26 08:54:25 2013 Generator started
+Tue Mar 26 08:54:39 2013 Generator stopped
+
+Tue Mar 26 08:55:12 2013 Generator started
+Tue Mar 26 08:55:16 2013 Generator stopped
+
+Tue Mar 26 08:55:36 2013 Generator started
+Tue Mar 26 08:55:42 2013 Generator stopped
+
+Tue Mar 26 08:55:42 2013 Generator started
+Tue Mar 26 08:55:47 2013 Generator stopped
+
+Tue Mar 26 08:55:56 2013 Generator started
+Tue Mar 26 08:56:05 2013 Generator stopped
+
+Tue Mar 26 08:57:26 2013 Generator started
+Tue Mar 26 08:57:30 2013 Generator stopped
+
+Tue Mar 26 08:57:42 2013 Generator started
+Tue Mar 26 08:57:48 2013 Generator stopped
+
+Tue Mar 26 08:57:49 2013 Generator started
+Tue Mar 26 08:57:57 2013 Generator stopped
+
+Tue Mar 26 08:58:08 2013 Generator started
+Tue Mar 26 08:58:17 2013 Generator stopped
+
+Tue Mar 26 08:58:18 2013 Generator started
+Tue Mar 26 08:58:27 2013 Generator stopped
+
+Tue Mar 26 08:58:34 2013 Generator started
+Tue Mar 26 08:58:42 2013 Generator stopped
+
+Tue Mar 26 08:58:46 2013 Generator started
+Tue Mar 26 08:58:53 2013 Generator stopped
+
+Tue Mar 26 08:58:59 2013 Generator started
+Tue Mar 26 08:59:14 2013 Part BAR with length 193 sec and transition crossfade 
+Tue Mar 26 08:59:16 2013 Generator stopped
+
+Tue Mar 26 08:59:24 2013 Generator started
+Tue Mar 26 08:59:34 2013 Generator stopped
+
+Tue Mar 26 08:59:52 2013 Generator started
+Tue Mar 26 08:59:59 2013 Generator stopped
+
+Tue Mar 26 09:00:03 2013 Generator started
+Tue Mar 26 09:00:06 2013 <cancelled>
+Tue Mar 26 09:00:06 2013 Part HALTER with length 78 sec and transition hardcut 
+Tue Mar 26 09:00:07 2013 <nextPart>
+Tue Mar 26 09:00:13 2013 Part BARRED with length 21 sec and transition crossfade 
+Tue Mar 26 09:00:18 2013 <nextPart>
+Tue Mar 26 09:00:20 2013 <cancelled>
+Tue Mar 26 09:00:20 2013 Part BARRED with length 14 sec and transition hardcut 
+Tue Mar 26 09:00:34 2013 Part END with length 35 sec and transition crossfade 
+Tue Mar 26 09:00:48 2013 <nextPart>
+Tue Mar 26 09:00:49 2013 Generator stopped
+
+Tue Mar 26 09:00:50 2013 Generator started
+Tue Mar 26 09:00:54 2013 Generator stopped
+
+Tue Mar 26 09:01:03 2013 Generator started
+Tue Mar 26 09:01:05 2013 Generator stopped
+
+Tue Mar 26 09:01:06 2013 Generator started
+Tue Mar 26 09:01:07 2013 Generator stopped
+
+Tue Mar 26 09:01:15 2013 Generator started
+Tue Mar 26 09:01:24 2013 Part BAR with length 21 sec and transition crossfade 
+Tue Mar 26 09:01:26 2013 <nextPart>
+Tue Mar 26 09:01:29 2013 Generator stopped
+
+Tue Mar 26 09:04:31 2013 Generator started
+Tue Mar 26 09:04:36 2013 Part BAR with length 21 sec and transition hardcut 
+Tue Mar 26 09:04:56 2013 Generator stopped
+
+Tue Mar 26 09:05:19 2013 Generator started
+Tue Mar 26 09:05:34 2013 Part BAR with length 152 sec and transition free 
+Tue Mar 26 09:05:40 2013 <nextPart>
+Tue Mar 26 09:05:50 2013 <cancelled>
+Tue Mar 26 09:05:50 2013 Part BAR with length 88 sec and transition crossfade 
+Tue Mar 26 09:05:53 2013 <nextPart>
+Tue Mar 26 09:05:55 2013 <cancelled>
+Tue Mar 26 09:05:55 2013 Part BAR with length 91 sec and transition crossfade 
+Tue Mar 26 09:05:58 2013 <nextPart>
+Tue Mar 26 09:06:01 2013 <cancelled>
+Tue Mar 26 09:06:01 2013 Part BAR with length 85 sec and transition crossfade 
+Tue Mar 26 09:06:03 2013 <nextPart>
+Tue Mar 26 09:06:06 2013 <cancelled>
+Tue Mar 26 09:06:06 2013 Part BAR with length 102 sec and transition crossfade 
+Tue Mar 26 09:06:08 2013 <nextPart>
+Tue Mar 26 09:06:15 2013 <cancelled>
+Tue Mar 26 09:06:15 2013 Part BAR with length 98 sec and transition hardcut 
+Tue Mar 26 09:06:15 2013 Generator stopped
+
+Tue Mar 26 09:09:22 2013 Generator started
+Tue Mar 26 09:09:26 2013 <cancelled>
+Tue Mar 26 09:09:26 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 09:09:27 2013 <nextPart>
+Tue Mar 26 09:09:32 2013 Part BAR with length 22 sec and transition free 
+Tue Mar 26 09:09:37 2013 <nextPart>
+Tue Mar 26 09:09:38 2013 <cancelled>
+Tue Mar 26 09:09:38 2013 Part BAR with length 12 sec and transition crossfade 
+Tue Mar 26 09:09:41 2013 <nextPart>
+Tue Mar 26 09:09:46 2013 Part FETTER with length 13 sec and transition hardcut 
+Tue Mar 26 09:09:48 2013 <nextPart>
+Tue Mar 26 09:09:50 2013 <cancelled>
+Tue Mar 26 09:09:50 2013 Part FETTER with length 10 sec and transition hardcut 
+Tue Mar 26 09:10:00 2013 Part TRAMMEL with length 12 sec and transition free 
+Tue Mar 26 09:10:02 2013 <nextPart>
+Tue Mar 26 09:10:06 2013 <cancelled>
+Tue Mar 26 09:10:06 2013 Part TRAMMEL with length 11 sec and transition crossfade 
+Tue Mar 26 09:10:08 2013 <nextPart>
+Tue Mar 26 09:10:13 2013 <cancelled>
+Tue Mar 26 09:10:13 2013 Part TRAMMEL with length 9 sec and transition hardcut 
+Tue Mar 26 09:10:18 2013 Generator stopped
+
+Tue Mar 26 09:10:23 2013 Generator started
+Tue Mar 26 09:10:28 2013 Part HOG-TIE with length 16 sec and transition crossfade 
+Tue Mar 26 09:10:32 2013 Generator stopped
+
+Tue Mar 26 09:10:33 2013 Generator started
+Tue Mar 26 09:10:35 2013 <cancelled>
+Tue Mar 26 09:10:35 2013 Part HOG-TIE with length 12 sec and transition crossfade 
+Tue Mar 26 09:10:36 2013 <nextPart>
+Tue Mar 26 09:10:39 2013 <cancelled>
+Tue Mar 26 09:10:39 2013 Part HOG-TIE with length 17 sec and transition hardcut 
+Tue Mar 26 09:10:40 2013 <nextPart>
+Tue Mar 26 09:10:41 2013 Generator stopped
+
+Tue Mar 26 09:11:22 2013 Generator started
+Tue Mar 26 09:11:37 2013 Part BAR with length 180 sec and transition crossfade 
+Tue Mar 26 09:11:46 2013 <nextPart>
+Tue Mar 26 09:12:01 2013 Part END with length 315 sec and transition crossfade 
+Tue Mar 26 09:12:02 2013 Generator stopped
+
+Tue Mar 26 09:15:41 2013 Generator started
+Tue Mar 26 09:15:56 2013 Part BAR with length 178 sec and transition free 
+Tue Mar 26 09:16:04 2013 Generator stopped
+
+Tue Mar 26 09:16:33 2013 Generator started
+Tue Mar 26 09:16:42 2013 Generator stopped
+
+Tue Mar 26 09:20:12 2013 Generator started
+Tue Mar 26 09:20:27 2013 Part BAR with length 142 sec and transition free 
+Tue Mar 26 09:20:31 2013 <nextPart>
+Tue Mar 26 09:20:46 2013 Part FETTER with length 109 sec and transition hardcut 
+Tue Mar 26 09:20:57 2013 <nextPart>
+Tue Mar 26 09:21:12 2013 Part TRAMMEL with length 78 sec and transition crossfade 
+Tue Mar 26 09:21:14 2013 <nextPart>
+Tue Mar 26 09:21:29 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 09:21:30 2013 Generator stopped
+
+Tue Mar 26 09:21:45 2013 Generator started
+Tue Mar 26 09:21:50 2013 Part BAR with length 20 sec and transition crossfade 
+Tue Mar 26 09:21:54 2013 <nextPart>
+Tue Mar 26 09:21:56 2013 Generator stopped
+
+Tue Mar 26 09:22:04 2013 Generator started
+Tue Mar 26 09:22:05 2013 Generator stopped
+
+Tue Mar 26 09:22:11 2013 Generator started
+Tue Mar 26 09:22:26 2013 Part BAR with length 144 sec and transition free 
+Tue Mar 26 09:24:35 2013 <nextPart>
+Tue Mar 26 09:24:50 2013 Part FETTER with length 80 sec and transition crossfade 
+Tue Mar 26 09:25:01 2013 Generator stopped
+
+Tue Mar 26 09:26:38 2013 Generator started
+Tue Mar 26 09:26:47 2013 Generator stopped
+
+Tue Mar 26 09:27:09 2013 Generator started
+Tue Mar 26 09:27:24 2013 Part BAR with length 174 sec and transition free 
+Tue Mar 26 09:27:28 2013 Generator stopped
+
+Tue Mar 26 09:27:37 2013 Generator started
+Tue Mar 26 09:27:52 2013 Part BAR with length 175 sec and transition crossfade 
+Tue Mar 26 09:27:56 2013 <nextPart>
+Tue Mar 26 09:28:05 2013 Generator stopped
+
+Tue Mar 26 09:28:05 2013 Generator started
+Tue Mar 26 09:28:12 2013 Generator stopped
+
+Tue Mar 26 09:28:15 2013 Generator started
+Tue Mar 26 09:28:21 2013 Generator stopped
+
+Tue Mar 26 09:28:25 2013 Generator started
+Tue Mar 26 09:28:29 2013 Generator stopped
+
+Tue Mar 26 09:28:30 2013 Generator started
+Tue Mar 26 09:28:31 2013 Generator stopped
+
+Tue Mar 26 09:30:21 2013 Generator started
+Tue Mar 26 09:30:36 2013 Part BAR with length 194 sec and transition free 
+Tue Mar 26 09:30:39 2013 <nextPart>
+Tue Mar 26 09:30:54 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 09:30:55 2013 Generator stopped
+
+Tue Mar 26 09:30:57 2013 Generator started
+Tue Mar 26 09:31:01 2013 <cancelled>
+Tue Mar 26 09:31:01 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 09:31:02 2013 <nextPart>
+Tue Mar 26 09:31:11 2013 <cancelled>
+Tue Mar 26 09:31:11 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 09:31:12 2013 <nextPart>
+Tue Mar 26 09:31:16 2013 Generator stopped
+
+Tue Mar 26 09:31:17 2013 Generator started
+Tue Mar 26 09:31:28 2013 Generator stopped
+
+Tue Mar 26 09:31:42 2013 Generator started
+Tue Mar 26 09:31:47 2013 Part BAR with length 17 sec and transition free 
+Tue Mar 26 09:31:54 2013 <nextPart>
+Tue Mar 26 09:31:59 2013 Part FETTER with length 15 sec and transition hardcut 
+Tue Mar 26 09:32:01 2013 <nextPart>
+Tue Mar 26 09:32:06 2013 Part END with length 35 sec and transition crossfade 
+Tue Mar 26 09:32:07 2013 Generator stopped
+
+Tue Mar 26 09:32:13 2013 Generator started
+Tue Mar 26 09:32:16 2013 Generator stopped
+
+Tue Mar 26 09:32:17 2013 Generator started
+Tue Mar 26 09:32:22 2013 Part BAR with length 23 sec and transition free 
+Tue Mar 26 09:32:24 2013 <nextPart>
+Tue Mar 26 09:32:26 2013 Generator stopped
+
+Tue Mar 26 09:32:28 2013 Generator started
+Tue Mar 26 09:32:30 2013 Generator stopped
+
+Tue Mar 26 09:32:33 2013 Generator started
+Tue Mar 26 09:32:48 2013 Part BAR with length 141 sec and transition crossfade 
+Tue Mar 26 09:32:50 2013 <nextPart>
+Tue Mar 26 09:32:55 2013 Generator stopped
+
+Tue Mar 26 09:32:56 2013 Generator started
+Tue Mar 26 09:33:01 2013 Part FETTER with length 14 sec and transition hardcut 
+Tue Mar 26 09:33:06 2013 Generator stopped
+
+Tue Mar 26 09:33:12 2013 Generator started
+Tue Mar 26 09:33:17 2013 Part TRAMMEL with length 11 sec and transition free 
+Tue Mar 26 09:33:22 2013 <nextPart>
+Tue Mar 26 09:33:25 2013 Generator stopped
+
+Tue Mar 26 09:43:16 2013 Generator started
+Tue Mar 26 09:43:19 2013 <cancelled>
+Tue Mar 26 09:43:19 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 09:43:20 2013 <nextPart>
+Tue Mar 26 09:43:25 2013 Part BAR with length 18 sec and transition hardcut 
+Tue Mar 26 09:43:30 2013 <nextPart>
+Tue Mar 26 09:43:32 2013 Generator stopped
+
+Tue Mar 26 11:33:49 2013 Generator started
+Tue Mar 26 11:33:51 2013 Generator stopped
+
+Tue Mar 26 12:38:42 2013 Generator started
+Tue Mar 26 12:38:45 2013 <cancelled>
+Tue Mar 26 12:38:45 2013 Part END with length 315 sec and transition hardcut 
+Tue Mar 26 12:38:46 2013 <nextPart>
+Tue Mar 26 12:38:54 2013 <cancelled>
+Tue Mar 26 12:38:54 2013 Part END with length 315 sec and transition crossfade 
+Tue Mar 26 12:38:55 2013 <nextPart>
+Tue Mar 26 12:39:00 2013 Part BAR with length 22 sec and transition hardcut 
+Tue Mar 26 12:39:05 2013 <nextPart>
+Tue Mar 26 12:39:08 2013 <cancelled>
+Tue Mar 26 12:39:08 2013 Part BAR with length 13 sec and transition free 
+Tue Mar 26 12:39:10 2013 <nextPart>
+Tue Mar 26 12:39:13 2013 <cancelled>
+Tue Mar 26 12:39:13 2013 Part BAR with length 13 sec and transition free 
+Tue Mar 26 12:39:16 2013 Generator stopped
+
+Wed Mar 27 08:40:41 2013 Generator started
+Wed Mar 27 08:40:45 2013 <cancelled>
+Wed Mar 27 08:40:45 2013 Part END with length 315 sec and transition crossfade 
+Wed Mar 27 08:40:46 2013 <nextPart>
+Wed Mar 27 08:41:01 2013 Part BAR with length 181 sec and transition hardcut 
+Wed Mar 27 08:41:06 2013 <nextPart>
+Wed Mar 27 08:41:21 2013 Part FETTER with length 86 sec and transition crossfade 
+Wed Mar 27 08:41:28 2013 <nextPart>
+Wed Mar 27 08:41:43 2013 Part TRAMMEL with length 110 sec and transition crossfade 
+Wed Mar 27 08:41:49 2013 Generator stopped
+
+Tue Apr  2 16:14:46 2013 Generator started
+Tue Apr  2 16:14:51 2013 Part BAR with length 22 sec and transition hardcut 
+Tue Apr  2 16:14:52 2013 <nextPart>
+Tue Apr  2 16:14:57 2013 Part FETTER with length 14 sec and transition crossfade 
+Tue Apr  2 16:14:59 2013 <nextPart>
+Tue Apr  2 16:15:04 2013 Part TRAMMEL with length 15 sec and transition crossfade 
+Tue Apr  2 16:15:06 2013 <nextPart>
+Tue Apr  2 16:15:11 2013 Part CURB with length 18 sec and transition crossfade 
+Tue Apr  2 16:15:13 2013 <nextPart>
+Tue Apr  2 16:15:18 2013 Part BILBOES with length 19 sec and transition hardcut 
+Tue Apr  2 16:15:20 2013 <nextPart>
+Tue Apr  2 16:15:25 2013 Part CRCKDWN with length 11 sec and transition free 
+Tue Apr  2 16:15:27 2013 <nextPart>
+Tue Apr  2 16:15:32 2013 Part HOG-TIE with length 15 sec and transition free 
+Tue Apr  2 16:15:34 2013 <nextPart>
+Tue Apr  2 16:15:39 2013 Part TETHER with length 18 sec and transition free 
+Tue Apr  2 16:15:41 2013 <nextPart>
+Tue Apr  2 16:15:44 2013 <cancelled>
+Tue Apr  2 16:15:44 2013 Part TETHER with length 11 sec and transition crossfade 
+Tue Apr  2 16:15:46 2013 <nextPart>
+Tue Apr  2 16:15:51 2013 Part YOKE with length 14 sec and transition free 
+Tue Apr  2 16:15:53 2013 <nextPart>
+Tue Apr  2 16:15:58 2013 Part HALTER with length 12 sec and transition free 
+Tue Apr  2 16:16:01 2013 <nextPart>
+Tue Apr  2 16:16:06 2013 Part BAR with length 18 sec and transition hardcut 
+Tue Apr  2 16:16:11 2013 <nextPart>
+Tue Apr  2 16:16:13 2013 Generator stopped
+
+Tue Apr  2 16:16:29 2013 Generator started
+Tue Apr  2 16:16:33 2013 <cancelled>
+Tue Apr  2 16:16:33 2013 Part HALTER with length 13 sec and transition crossfade 
+Tue Apr  2 16:16:34 2013 <nextPart>
+Tue Apr  2 16:16:35 2013 Generator stopped
+
+Tue Apr  2 16:16:41 2013 Generator started
+Tue Apr  2 16:16:46 2013 Part HALTER with length 16 sec and transition free 
+Tue Apr  2 16:16:48 2013 <nextPart>
+Tue Apr  2 16:16:53 2013 Part END with length 35 sec and transition hardcut 
+Tue Apr  2 16:16:55 2013 Generator stopped
+
+Thu Sep 12 14:16:01 2013 Generator started
+Thu Sep 12 14:16:08 2013 <cancelled>
+Thu Sep 12 14:16:08 2013 Part END with length 315 sec and transition free 
+Thu Sep 12 14:16:09 2013 <nextPart>
+Thu Sep 12 14:16:24 2013 Part BAR with length 198 sec and transition hardcut 
+Thu Sep 12 14:16:58 2013 Generator stopped
+
+Mon Sep 23 08:52:35 2013 Generator started
+Mon Sep 23 08:52:37 2013 Generator stopped
+
+Mon Sep 23 08:52:41 2013 Generator started
+Mon Sep 23 08:52:44 2013 Generator stopped
+
+Mon Sep 23 08:52:45 2013 Generator started
+Mon Sep 23 08:52:45 2013 Generator stopped
+
+Mon Sep 23 08:52:50 2013 Generator started
+Mon Sep 23 08:53:00 2013 Generator stopped
+
+Mon Sep 23 08:53:04 2013 Generator started
+Mon Sep 23 08:53:09 2013 Generator stopped
+
+Mon Sep 23 08:53:10 2013 Generator started
+Mon Sep 23 08:53:10 2013 Generator stopped
+
+Mon Sep 23 08:53:13 2013 Generator started
+Mon Sep 23 08:53:19 2013 Generator stopped
+
+Mon Sep 23 08:53:26 2013 Generator started
+Mon Sep 23 08:53:31 2013 Part BAR with length 20 sec and transition hardcut 
+Mon Sep 23 08:53:32 2013 <nextPart>
+Mon Sep 23 08:53:37 2013 Part FETTER with length 16 sec and transition free 
+Mon Sep 23 08:53:42 2013 Generator stopped
+
+Wed Sep 25 11:40:42 2013 Generator started
+Wed Sep 25 11:40:57 2013 Part BAR with length 211 sec and transition crossfade 
+Wed Sep 25 11:42:18 2013 <nextPart>
+Wed Sep 25 11:42:33 2013 Part FETTER with length 218 sec and transition free 
+Wed Sep 25 11:43:55 2013 <nextPart>
+Wed Sep 25 11:44:10 2013 Part TRAMMEL with length 111 sec and transition crossfade 
+Wed Sep 25 11:46:01 2013 Part CURB with length 160 sec and transition free 
+Wed Sep 25 11:47:07 2013 <nextPart>
+Wed Sep 25 11:47:19 2013 Generator stopped
+
+Thu Sep 26 11:24:17 2013 Generator started
+Thu Sep 26 11:24:32 2013 Part BAR with length 182 sec and transition crossfade 
+Thu Sep 26 11:26:38 2013 <cancelled>
+Thu Sep 26 11:26:38 2013 Part BAR with length 103 sec and transition hardcut 
+Thu Sep 26 11:28:21 2013 Part FETTER with length 168 sec and transition crossfade 
+Thu Sep 26 11:30:18 2013 <nextPart>
+Thu Sep 26 11:30:33 2013 Part TRAMMEL with length 123 sec and transition free 
+Thu Sep 26 11:31:39 2013 <nextPart>
+Thu Sep 26 11:31:54 2013 Part CURB with length 155 sec and transition crossfade 
+Thu Sep 26 11:34:29 2013 Part BILBOES with length 150 sec and transition crossfade 
+Thu Sep 26 11:34:37 2013 <nextPart>
+Thu Sep 26 11:34:52 2013 Part CRCKDWN with length 106 sec and transition crossfade 
+Thu Sep 26 11:36:11 2013 Generator stopped
+
+Thu Sep 26 11:36:11 2013 Generator started
+Thu Sep 26 11:36:16 2013 Part BAR with length 25 sec and transition crossfade 
+Thu Sep 26 11:36:20 2013 <nextPart>
+Thu Sep 26 11:36:25 2013 Part FETTER with length 22 sec and transition hardcut 
+Thu Sep 26 11:36:25 2013 Generator stopped
+
+Fri Sep 27 11:08:02 2013 Generator started
+Fri Sep 27 11:08:07 2013 Part BAR with length 22 sec and transition free 
+Fri Sep 27 11:08:09 2013 <nextPart>
+Fri Sep 27 11:08:14 2013 Part BILBOES with length 20 sec and transition free 
+Fri Sep 27 11:08:16 2013 <nextPart>
+Fri Sep 27 11:08:21 2013 Part TRAMMEL with length 16 sec and transition hardcut 
+Fri Sep 27 11:08:23 2013 <nextPart>
+Fri Sep 27 11:08:28 2013 Part CURB with length 20 sec and transition hardcut 
+Fri Sep 27 11:08:30 2013 <nextPart>
+Fri Sep 27 11:08:35 2013 Part FETTER with length 23 sec and transition hardcut 
+Fri Sep 27 11:08:37 2013 <nextPart>
+Fri Sep 27 11:08:42 2013 Part YOKE with length 24 sec and transition crossfade 
+Fri Sep 27 11:08:47 2013 <nextPart>
+Fri Sep 27 11:08:52 2013 Part CRCKDWN with length 17 sec and transition free 
+Fri Sep 27 11:08:54 2013 <nextPart>
+Fri Sep 27 11:08:59 2013 Part HOG-TIE with length 19 sec and transition crossfade 
+Fri Sep 27 11:09:01 2013 <nextPart>
+Fri Sep 27 11:09:06 2013 Part TETHER with length 16 sec and transition hardcut 
+Fri Sep 27 11:09:08 2013 <nextPart>
+Fri Sep 27 11:09:13 2013 Part HALTER with length 17 sec and transition hardcut 
+Fri Sep 27 11:09:17 2013 <nextPart>
+Fri Sep 27 11:09:22 2013 Part END with length 35 sec and transition free 
+Fri Sep 27 11:09:44 2013 Generator stopped
+
+Fri Sep 27 11:09:48 2013 Generator started
+Fri Sep 27 11:09:53 2013 Part BAR with length 25 sec and transition hardcut 
+Fri Sep 27 11:09:55 2013 <nextPart>
+Fri Sep 27 11:10:00 2013 Part BILBOES with length 18 sec and transition hardcut 
+
+Fri Sep 27 11:10:35 2013 Generator started
+Fri Sep 27 11:10:40 2013 Part BAR with length 21 sec and transition free 
+Fri Sep 27 11:10:45 2013 <nextPart>
+Fri Sep 27 11:10:50 2013 Part BILBOES with length 18 sec and transition free 
+Fri Sep 27 11:10:52 2013 Generator stopped
+
+Fri Sep 27 11:12:26 2013 Generator started
+Fri Sep 27 11:12:31 2013 Part BAR with length 21 sec and transition crossfade 
+Fri Sep 27 11:12:36 2013 <nextPart>
+Fri Sep 27 11:12:41 2013 Part BILBOES with length 17 sec and transition free 
+Fri Sep 27 11:12:45 2013 <nextPart>
+Fri Sep 27 11:12:49 2013 <cancelled>
+Fri Sep 27 11:12:49 2013 Part BILBOES with length 12 sec and transition crossfade 
+Fri Sep 27 11:12:51 2013 <nextPart>
+Fri Sep 27 11:12:56 2013 Part TRAMMEL with length 14 sec and transition crossfade 
+Fri Sep 27 11:13:01 2013 <nextPart>
+Fri Sep 27 11:13:06 2013 Part CURB with length 19 sec and transition hardcut 
+Fri Sep 27 11:13:10 2013 <nextPart>
+Fri Sep 27 11:13:15 2013 Part FETTER with length 23 sec and transition hardcut 
+Fri Sep 27 11:13:17 2013 <nextPart>
+Fri Sep 27 11:13:20 2013 <cancelled>
+Fri Sep 27 11:13:20 2013 Part FETTER with length 13 sec and transition free 
+Fri Sep 27 11:13:23 2013 <nextPart>
+Fri Sep 27 11:13:28 2013 Part YOKE with length 22 sec and transition hardcut 
+Fri Sep 27 11:13:40 2013 <nextPart>
+Fri Sep 27 11:13:45 2013 Part CRCKDWN with length 15 sec and transition crossfade 
+Fri Sep 27 11:13:49 2013 Generator stopped
+
+Fri Sep 27 11:17:12 2013 Generator started
+Fri Sep 27 11:17:17 2013 Part BAR with length 21 sec and transition free 
+Fri Sep 27 11:17:19 2013 <nextPart>
+Fri Sep 27 11:17:21 2013 <cancelled>
+Fri Sep 27 11:17:21 2013 Part BAR with length 14 sec and transition hardcut 
+Fri Sep 27 11:17:24 2013 <nextPart>
+Fri Sep 27 11:17:29 2013 Part BILBOES with length 17 sec and transition hardcut 
+Fri Sep 27 11:17:31 2013 <nextPart>
+Fri Sep 27 11:17:36 2013 Part TRAMMEL with length 14 sec and transition crossfade 
+Fri Sep 27 11:17:37 2013 <nextPart>
+Fri Sep 27 11:17:42 2013 Part CURB with length 19 sec and transition hardcut 
+Fri Sep 27 11:17:43 2013 <nextPart>
+Fri Sep 27 11:17:48 2013 Part FETTER with length 21 sec and transition hardcut 
+Fri Sep 27 11:17:50 2013 <nextPart>
+Fri Sep 27 11:17:55 2013 Part YOKE with length 20 sec and transition free 
+Fri Sep 27 11:17:56 2013 Generator stopped
+
+Fri Sep 27 11:21:19 2013 Generator started
+Fri Sep 27 11:21:24 2013 Part BAR with length 25 sec and transition hardcut 
+Fri Sep 27 11:21:27 2013 <nextPart>
+Fri Sep 27 11:21:32 2013 Part FETTER with length 22 sec and transition free 
+Fri Sep 27 11:21:34 2013 <nextPart>
+Fri Sep 27 11:21:36 2013 <cancelled>
+Fri Sep 27 11:21:36 2013 Part FETTER with length 15 sec and transition crossfade 
+Fri Sep 27 11:21:38 2013 <nextPart>
+Fri Sep 27 11:21:43 2013 Part TRAMMEL with length 13 sec and transition free 
+Fri Sep 27 11:21:44 2013 <nextPart>
+Fri Sep 27 11:21:49 2013 Part CURB with length 19 sec and transition crossfade 
+Fri Sep 27 11:21:51 2013 <nextPart>
+Fri Sep 27 11:21:56 2013 Part BILBOES with length 20 sec and transition free 
+Fri Sep 27 11:21:58 2013 <nextPart>
+Fri Sep 27 11:22:03 2013 Part CRCKDWN with length 16 sec and transition crossfade 
+Fri Sep 27 11:22:19 2013 Part HOG-TIE with length 17 sec and transition hardcut 
+Fri Sep 27 11:22:36 2013 Part TETHER with length 15 sec and transition crossfade 
+Fri Sep 27 11:22:51 2013 Part YOKE with length 22 sec and transition free 
+Fri Sep 27 11:23:13 2013 Part HALTER with length 16 sec and transition crossfade 
+Fri Sep 27 11:23:19 2013 <nextPart>
+Fri Sep 27 11:23:24 2013 Part END with length 35 sec and transition free 
+Fri Sep 27 11:23:27 2013 <nextPart>
+Fri Sep 27 11:23:32 2013 Part BAR with length 25 sec and transition hardcut 
+Fri Sep 27 11:23:34 2013 <nextPart>
+Fri Sep 27 11:23:39 2013 Part FETTER with length 23 sec and transition free 
+Fri Sep 27 11:23:41 2013 <nextPart>
+Fri Sep 27 11:23:46 2013 Part TRAMMEL with length 12 sec and transition crossfade 
+Fri Sep 27 11:23:47 2013 <nextPart>
+Fri Sep 27 11:23:50 2013 <cancelled>
+Fri Sep 27 11:23:50 2013 Part TRAMMEL with length 9 sec and transition crossfade 
+Fri Sep 27 11:23:52 2013 <nextPart>
+Fri Sep 27 11:23:57 2013 Part CURB with length 18 sec and transition crossfade 
+Fri Sep 27 11:24:01 2013 <nextPart>
+Fri Sep 27 11:24:06 2013 Part BILBOES with length 17 sec and transition free 
+Fri Sep 27 11:24:16 2013 <nextPart>
+Fri Sep 27 11:24:21 2013 Part CRCKDWN with length 16 sec and transition free 
+Fri Sep 27 11:24:24 2013 <nextPart>
+Fri Sep 27 11:24:26 2013 <cancelled>
+Fri Sep 27 11:24:26 2013 Part CRCKDWN with length 11 sec and transition hardcut 
+Fri Sep 27 11:24:32 2013 Generator stopped
+
+Fri Sep 27 11:30:22 2013 Generator started
+Fri Sep 27 11:30:27 2013 Part BAR with length 20 sec and transition crossfade 
+Fri Sep 27 11:30:30 2013 <nextPart>
+Fri Sep 27 11:30:35 2013 Part FETTER with length 26 sec and transition hardcut 
+Fri Sep 27 11:30:37 2013 <nextPart>
+Fri Sep 27 11:30:42 2013 Part TRAMMEL with length 15 sec and transition free 
+Fri Sep 27 11:30:44 2013 <nextPart>
+Fri Sep 27 11:30:49 2013 Part CURB with length 17 sec and transition free 
+Fri Sep 27 11:30:51 2013 Generator stopped
+
+Fri Sep 27 11:32:48 2013 Generator started
+Fri Sep 27 11:32:53 2013 Part BAR with length 22 sec and transition free 
+Fri Sep 27 11:33:01 2013 <nextPart>
+Fri Sep 27 11:33:06 2013 Part FETTER with length 23 sec and transition crossfade 
+Fri Sep 27 11:33:29 2013 Part TRAMMEL with length 11 sec and transition crossfade 
+Fri Sep 27 11:33:40 2013 Part CURB with length 20 sec and transition free 
+Fri Sep 27 11:34:00 2013 Part BILBOES with length 20 sec and transition crossfade 
+Fri Sep 27 11:34:03 2013 Generator stopped
+
+Fri Sep 27 13:31:48 2013 Generator started
+Fri Sep 27 13:32:03 2013 Part BAR with length 205 sec and transition hardcut 
+Fri Sep 27 13:32:21 2013 Generator stopped
+
+Fri Sep 27 13:36:18 2013 Generator started
+Fri Sep 27 13:36:33 2013 Part BAR with length 214 sec and transition free 
+Fri Sep 27 13:36:41 2013 <cancelled>
+Fri Sep 27 13:36:41 2013 Part BAR with length 98 sec and transition hardcut 
+
+Mon Sep 30 15:49:01 2013 Generator started
+Mon Sep 30 15:49:16 2013 Part BAR with length 177 sec and transition free 
+Mon Sep 30 15:49:29 2013 Generator stopped
+
+Mon Sep 30 15:49:40 2013 Generator started
+Mon Sep 30 15:49:55 2013 Part BAR with length 223 sec and transition crossfade 
+Mon Sep 30 15:53:38 2013 Part FETTER with length 216 sec and transition hardcut 
+Mon Sep 30 15:57:14 2013 Part TRAMMEL with length 76 sec and transition crossfade 
+Mon Sep 30 15:58:21 2013 <cancelled>
+Mon Sep 30 15:58:21 2013 Part TRAMMEL with length 62 sec and transition free 
+Mon Sep 30 15:58:54 2013 <nextPart>
+Mon Sep 30 15:59:09 2013 Part CURB with length 154 sec and transition hardcut 
+Mon Sep 30 16:01:28 2013 <nextPart>
+Mon Sep 30 16:01:43 2013 Part BILBOES with length 145 sec and transition free 
+Mon Sep 30 16:04:08 2013 Part CRCKDWN with length 126 sec and transition free 
+Mon Sep 30 16:06:04 2013 <cancelled>
+Mon Sep 30 16:06:04 2013 Part CRCKDWN with length 61 sec and transition hardcut 
+Mon Sep 30 16:06:48 2013 <nextPart>
+Mon Sep 30 16:07:03 2013 Part HOG-TIE with length 124 sec and transition hardcut 
+Mon Sep 30 16:09:07 2013 Part TETHER with length 118 sec and transition crossfade 
+Mon Sep 30 16:11:05 2013 Part YOKE with length 223 sec and transition crossfade 
+Mon Sep 30 16:13:42 2013 <nextPart>
+Mon Sep 30 16:13:57 2013 Part HALTER with length 121 sec and transition free 
+Mon Sep 30 16:14:10 2013 Generator stopped
+
+Mon Oct 28 11:11:22 2013 Generator started
+Mon Oct 28 11:11:27 2013 Part BAR with length 24 sec and transition hardcut 
+Mon Oct 28 11:11:29 2013 <nextPart>
+Mon Oct 28 11:11:32 2013 Generator stopped
+
+Thu Oct 31 10:44:50 2013 Generator started
+Thu Oct 31 10:45:05 2013 Part BAR with length 176 sec and transition free 
+Thu Oct 31 10:46:39 2013 <nextPart>
+Thu Oct 31 10:46:54 2013 Part FETTER with length 202 sec and transition free 
+Thu Oct 31 10:50:16 2013 Part TRAMMEL with length 93 sec and transition free 
+Thu Oct 31 10:51:49 2013 Part CURB with length 135 sec and transition free 
+Thu Oct 31 10:54:04 2013 Part BILBOES with length 155 sec and transition free 
+Thu Oct 31 10:56:39 2013 Part CRCKDWN with length 135 sec and transition hardcut 
+Thu Oct 31 10:58:54 2013 Part HOG-TIE with length 115 sec and transition crossfade 
+Thu Oct 31 11:00:49 2013 Part TETHER with length 109 sec and transition free 
+Thu Oct 31 11:02:38 2013 Part YOKE with length 172 sec and transition free 
+Thu Oct 31 11:05:30 2013 Part HALTER with length 118 sec and transition hardcut 
+Thu Oct 31 11:07:28 2013 Part END with length 315 sec and transition free 
+Thu Oct 31 11:12:43 2013 Part BAR with length 203 sec and transition free 
+Thu Oct 31 11:16:06 2013 Part FETTER with length 203 sec and transition free 
+Thu Oct 31 11:19:29 2013 Part TRAMMEL with length 129 sec and transition crossfade 
+Thu Oct 31 11:21:38 2013 Part CURB with length 147 sec and transition hardcut 
+Thu Oct 31 11:24:05 2013 Part BILBOES with length 160 sec and transition crossfade 
+Thu Oct 31 11:26:45 2013 Part CRCKDWN with length 134 sec and transition crossfade 
+Thu Oct 31 11:28:59 2013 Part HOG-TIE with length 143 sec and transition hardcut 
+Thu Oct 31 11:31:22 2013 Part TETHER with length 113 sec and transition free 
+Thu Oct 31 11:33:15 2013 Part YOKE with length 219 sec and transition crossfade 
+Thu Oct 31 11:36:54 2013 Part HALTER with length 120 sec and transition free 
+Thu Oct 31 11:38:54 2013 Part END with length 315 sec and transition hardcut 
+Thu Oct 31 11:44:09 2013 Part BAR with length 190 sec and transition hardcut 
+Thu Oct 31 11:47:15 2013 Generator stopped
+
+Thu Oct 31 14:57:08 2013 Generator started
+Thu Oct 31 14:57:23 2013 Part BAR with length 208 sec and transition free 
+Thu Oct 31 14:59:09 2013 Generator stopped
+
+Thu Oct 31 14:59:28 2013 Generator started
+Thu Oct 31 14:59:43 2013 Part BAR with length 189 sec and transition free 
+Thu Oct 31 15:02:52 2013 Part FETTER with length 159 sec and transition free 
+Thu Oct 31 15:05:31 2013 Part TRAMMEL with length 111 sec and transition free 
+Thu Oct 31 15:07:22 2013 Part CURB with length 150 sec and transition hardcut 
+Thu Oct 31 15:09:52 2013 Part BILBOES with length 151 sec and transition crossfade 
+Thu Oct 31 15:12:23 2013 Part CRCKDWN with length 115 sec and transition hardcut 
+Thu Oct 31 15:14:18 2013 Part HOG-TIE with length 76 sec and transition hardcut 
+Thu Oct 31 15:15:34 2013 Part TETHER with length 97 sec and transition crossfade 
+Thu Oct 31 15:17:11 2013 Part YOKE with length 212 sec and transition hardcut 
+Thu Oct 31 15:20:43 2013 Part HALTER with length 156 sec and transition hardcut 
+Thu Oct 31 15:23:19 2013 Part END with length 315 sec and transition free 
+Thu Oct 31 15:27:17 2013 Generator stopped
+
+Fri Nov  1 14:26:06 2013 Generator started
+Fri Nov  1 14:26:21 2013 Part BAR with length 238 sec and transition free 
+Fri Nov  1 14:26:57 2013 Generator stopped
+
+Fri Nov  1 15:40:41 2013 Generator started
+Fri Nov  1 15:40:56 2013 Part BAR with length 239 sec and transition crossfade 
+Fri Nov  1 15:43:06 2013 <nextPart>
+Fri Nov  1 15:43:21 2013 Part FETTER with length 179 sec and transition hardcut 
+Fri Nov  1 15:46:20 2013 Part TRAMMEL with length 137 sec and transition crossfade 
+Fri Nov  1 15:46:53 2013 <nextPart>
+Fri Nov  1 15:47:08 2013 Part CURB with length 169 sec and transition free 
+Fri Nov  1 15:48:10 2013 <nextPart>
+Fri Nov  1 15:48:25 2013 Part BILBOES with length 167 sec and transition hardcut 
+Fri Nov  1 15:48:48 2013 <nextPart>
+Fri Nov  1 15:49:03 2013 Part CRCKDWN with length 130 sec and transition crossfade 
+Fri Nov  1 15:50:04 2013 <nextPart>
+Fri Nov  1 15:50:19 2013 Part HOG-TIE with length 93 sec and transition crossfade 
+Fri Nov  1 15:50:44 2013 <nextPart>
+Fri Nov  1 15:50:59 2013 Part TETHER with length 156 sec and transition crossfade 
+Fri Nov  1 15:51:39 2013 <nextPart>
+Fri Nov  1 15:51:54 2013 Part YOKE with length 222 sec and transition free 
+Fri Nov  1 15:52:28 2013 <nextPart>
+Fri Nov  1 15:52:43 2013 Part HALTER with length 193 sec and transition free 
+Fri Nov  1 15:52:53 2013 Generator stopped
+
+Fri Nov  1 15:52:55 2013 Generator started
+Fri Nov  1 15:53:10 2013 Part BAR with length 237 sec and transition crossfade 
+Fri Nov  1 15:57:07 2013 Part FETTER with length 177 sec and transition free 
+Fri Nov  1 16:00:04 2013 Part TRAMMEL with length 135 sec and transition crossfade 
+Fri Nov  1 16:02:19 2013 Part CURB with length 170 sec and transition hardcut 
+Fri Nov  1 16:05:09 2013 Part BILBOES with length 167 sec and transition hardcut 
+Fri Nov  1 16:07:56 2013 Part CRCKDWN with length 129 sec and transition hardcut 
+Fri Nov  1 16:10:05 2013 Part HOG-TIE with length 90 sec and transition hardcut 
+Fri Nov  1 16:10:52 2013 Generator stopped
+
+Fri Nov  1 16:16:24 2013 Generator started
+Fri Nov  1 16:16:39 2013 Part BAR with length 233 sec and transition crossfade 
+Fri Nov  1 16:20:32 2013 Part FETTER with length 172 sec and transition free 
+Fri Nov  1 16:23:24 2013 Part TRAMMEL with length 136 sec and transition hardcut 
+Fri Nov  1 16:25:40 2013 Part CURB with length 167 sec and transition crossfade 
+Fri Nov  1 16:28:27 2013 Part BILBOES with length 165 sec and transition hardcut 
+Fri Nov  1 16:31:12 2013 Part CRCKDWN with length 128 sec and transition crossfade 
+Fri Nov  1 16:33:20 2013 Part HOG-TIE with length 97 sec and transition crossfade 
+Fri Nov  1 16:34:57 2013 Part TETHER with length 156 sec and transition free 
+Fri Nov  1 16:37:33 2013 Part YOKE with length 222 sec and transition crossfade 
+Fri Nov  1 16:41:15 2013 Part HALTER with length 200 sec and transition hardcut 
+Fri Nov  1 16:42:23 2013 Generator stopped
+
+Fri Nov  1 16:42:27 2013 Generator started
+Fri Nov  1 16:42:42 2013 Part BAR with length 233 sec and transition hardcut 
+Fri Nov  1 16:45:10 2013 <nextPart>
+Fri Nov  1 16:45:15 2013 Part FETTER with length 21 sec and transition free 
+Fri Nov  1 16:45:17 2013 <nextPart>
+Fri Nov  1 16:45:22 2013 Part TRAMMEL with length 17 sec and transition crossfade 
+Fri Nov  1 16:45:39 2013 Part CURB with length 20 sec and transition crossfade 
+Fri Nov  1 16:45:45 2013 <nextPart>
+Fri Nov  1 16:45:50 2013 Part BILBOES with length 20 sec and transition hardcut 
+Fri Nov  1 16:45:53 2013 <nextPart>
+Fri Nov  1 16:45:57 2013 <cancelled>
+Fri Nov  1 16:45:57 2013 Part BILBOES with length 92 sec and transition crossfade 
+Fri Nov  1 16:46:53 2013 <nextPart>
+Fri Nov  1 16:47:08 2013 Part CRCKDWN with length 135 sec and transition hardcut 
+Fri Nov  1 16:49:23 2013 Part HOG-TIE with length 91 sec and transition crossfade 
+Fri Nov  1 16:50:54 2013 Part TETHER with length 156 sec and transition free 
+Fri Nov  1 16:53:30 2013 Part YOKE with length 227 sec and transition free 
+Fri Nov  1 16:57:17 2013 Part HALTER with length 199 sec and transition free 
+Fri Nov  1 17:00:35 2013 Part END with length 315 sec and transition crossfade 
+Fri Nov  1 17:03:15 2013 Generator stopped
+
+Fri Nov  1 17:20:10 2013 Generator started
+Fri Nov  1 17:20:25 2013 Part BAR with length 236 sec and transition hardcut 
+Fri Nov  1 17:24:21 2013 Part FETTER with length 180 sec and transition crossfade 
+Fri Nov  1 17:27:21 2013 Part TRAMMEL with length 133 sec and transition free 
+Fri Nov  1 17:29:34 2013 Part CURB with length 170 sec and transition free 
+Fri Nov  1 17:32:24 2013 Part BILBOES with length 166 sec and transition free 
+Fri Nov  1 17:35:10 2013 Part CRCKDWN with length 128 sec and transition crossfade 
+Fri Nov  1 17:37:10 2013 <cancelled>
+Fri Nov  1 17:37:10 2013 Part CRCKDWN with length 77 sec and transition hardcut 
+Fri Nov  1 17:38:04 2013 <nextPart>
+Fri Nov  1 17:38:19 2013 Part HOG-TIE with length 98 sec and transition free 
+Fri Nov  1 17:39:57 2013 Part TETHER with length 157 sec and transition crossfade 
+Fri Nov  1 17:42:34 2013 Part YOKE with length 225 sec and transition free 
+Fri Nov  1 17:46:19 2013 Part HALTER with length 200 sec and transition hardcut 
+Fri Nov  1 17:49:39 2013 Part END with length 315 sec and transition free 
+Fri Nov  1 17:54:54 2013 Part BAR with length 232 sec and transition free 
+Fri Nov  1 17:58:46 2013 Part FETTER with length 177 sec and transition crossfade 
+Fri Nov  1 18:01:13 2013 Generator stopped
+
+Sat Nov  2 17:08:10 2013 Generator started
+Sat Nov  2 17:08:25 2013 Part BAR with length 236 sec and transition crossfade 
+Sat Nov  2 17:12:21 2013 Part FETTER with length 178 sec and transition hardcut 
+Sat Nov  2 17:15:19 2013 Part TRAMMEL with length 136 sec and transition hardcut 
+Sat Nov  2 17:17:35 2013 Part CURB with length 168 sec and transition hardcut 
+Sat Nov  2 17:20:23 2013 Part BILBOES with length 167 sec and transition hardcut 
+Sat Nov  2 17:23:10 2013 Part CRCKDWN with length 170 sec and transition crossfade 
+Sat Nov  2 17:25:50 2013 <cancelled>
+Sat Nov  2 17:25:50 2013 Part CRCKDWN with length 90 sec and transition hardcut 
+Sat Nov  2 17:26:16 2013 <nextPart>
+Sat Nov  2 17:26:31 2013 Part HOG-TIE with length 117 sec and transition hardcut 
+Sat Nov  2 17:28:28 2013 Part TETHER with length 153 sec and transition crossfade 
+Sat Nov  2 17:31:01 2013 Part YOKE with length 223 sec and transition hardcut 
+Sat Nov  2 17:34:44 2013 Part HALTER with length 193 sec and transition crossfade 
+Sat Nov  2 17:37:57 2013 Part END with length 315 sec and transition crossfade 
+Sat Nov  2 17:38:05 2013 Generator stopped
+
+Sun Nov  3 12:58:02 2013 Generator started
+Sun Nov  3 12:58:17 2013 Part BAR with length 235 sec and transition free 
+Sun Nov  3 13:02:12 2013 Part FETTER with length 175 sec and transition crossfade 
+Sun Nov  3 13:03:31 2013 Generator stopped
+
+Sun Nov  3 15:00:01 2013 Generator started
+Sun Nov  3 15:00:16 2013 Part BAR with length 239 sec and transition free 
+Sun Nov  3 15:01:06 2013 Generator stopped
+
+Sun Nov  3 15:40:34 2013 Generator started
+Sun Nov  3 15:40:49 2013 Part BAR with length 238 sec and transition hardcut 
+Sun Nov  3 15:44:47 2013 Part FETTER with length 180 sec and transition free 
+Sun Nov  3 15:47:47 2013 Part TRAMMEL with length 130 sec and transition hardcut 
+Sun Nov  3 15:49:57 2013 Part CURB with length 168 sec and transition hardcut 
+Sun Nov  3 15:52:45 2013 Part BILBOES with length 166 sec and transition hardcut 
+Sun Nov  3 15:55:31 2013 Part CRCKDWN with length 169 sec and transition hardcut 
+Sun Nov  3 15:58:20 2013 Part HOG-TIE with length 122 sec and transition free 
+Sun Nov  3 16:00:22 2013 Part TETHER with length 159 sec and transition hardcut 
+Sun Nov  3 16:03:01 2013 Part YOKE with length 223 sec and transition crossfade 
+Sun Nov  3 16:06:44 2013 Part HALTER with length 193 sec and transition free 
+Sun Nov  3 16:09:57 2013 Part END with length 315 sec and transition free 
+Sun Nov  3 16:13:37 2013 Generator stopped
+
+Fri Feb  7 10:55:34 2014 Generator started
+Fri Feb  7 10:55:39 2014 Part BAR with length 27 sec and transition crossfade 
+Fri Feb  7 10:55:40 2014 Generator stopped
+
+Fri Feb  7 11:36:19 2014 Generator started
+Fri Feb  7 11:36:22 2014 Generator stopped
+
+Fri May  9 22:50:49 2014 Generator started
+Fri May  9 22:50:51 2014 Generator stopped
+
+Fri May  9 22:50:53 2014 Generator started
+Fri May  9 22:50:55 2014 Generator stopped
+
+Fri May  9 22:50:56 2014 Generator started
+Fri May  9 22:50:59 2014 Generator stopped
+
+Sat May 10 13:17:33 2014 Generator started
+Sat May 10 13:17:40 2014 Generator stopped
+
+Sat May 10 13:17:59 2014 Generator started
+Sat May 10 13:18:14 2014 Part BAR with length 235 sec and transition hardcut 
+Sat May 10 13:18:17 2014 <nextPart>
+Sat May 10 13:18:32 2014 Part FETTER with length 180 sec and transition crossfade 

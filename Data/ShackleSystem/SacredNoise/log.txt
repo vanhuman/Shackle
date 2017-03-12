@@ -1,0 +1,678 @@
+
+Tue Oct 20 11:26:43 2015 Generator started
+Tue Oct 20 11:26:48 2015 TICK 00:04 Part PRELUDE with length 17 sec and transition crossfade 
+Tue Oct 20 11:27:05 2015 TICK 00:22 Part APOLLO with length 29 sec and transition hardcut 
+Tue Oct 20 11:27:06 2015 Generator stopped
+
+Tue Oct 20 11:27:45 2015 Generator started
+Tue Oct 20 11:27:50 2015 TICK 00:05 Part PRELUDE with length 17 sec and transition crossfade 
+Tue Oct 20 11:28:07 2015 TICK 00:22 Part APOLLO with length 29 sec and transition free 
+Tue Oct 20 11:28:16 2015 Generator stopped
+
+Tue Oct 20 11:54:40 2015 Generator started
+Tue Oct 20 11:54:55 2015 TICK 00:15 Part SPHERE with length 195 sec and transition free 
+Tue Oct 20 11:58:04 2015 Generator stopped
+
+Fri Oct 30 12:47:25 2015 Generator started
+Fri Oct 30 12:47:27 2015 Generator stopped
+
+Fri Oct 30 12:47:38 2015 Generator started
+Fri Oct 30 12:47:53 2015 TICK 00:14 Part PRELUDE with length 135 sec and transition free 
+Fri Oct 30 12:49:58 2015 Generator stopped
+
+Fri Oct 30 12:56:32 2015 Generator started
+Fri Oct 30 12:56:47 2015 TICK 00:15 Part PRELUDE with length 105 sec and transition free 
+Fri Oct 30 12:58:32 2015 TICK 02:00 Part APOLLO with length 195 sec and transition free 
+Fri Oct 30 13:01:47 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition hardcut 
+Fri Oct 30 13:02:49 2015 <nextPart>
+Fri Oct 30 13:02:54 2015 TICK 06:22 Part ARMAGED with length 17 sec and transition crossfade 
+Fri Oct 30 13:02:57 2015 <nextPart>
+Fri Oct 30 13:03:12 2015 TICK 06:40 Part CYGNUS with length 195 sec and transition free 
+Fri Oct 30 13:06:27 2015 TICK 09:55 Part SPHERE with length 195 sec and transition crossfade 
+Fri Oct 30 13:09:42 2015 TICK 13:10 Part END with length 315 sec and transition crossfade 
+Fri Oct 30 13:11:45 2015 Generator stopped
+
+Mon Nov  2 14:37:10 2015 Generator started
+Mon Nov  2 14:37:25 2015 TICK 00:14 Part PRELUDE with length 105 sec and transition hardcut 
+Mon Nov  2 14:39:10 2015 TICK 02:00 Part APOLLO with length 195 sec and transition hardcut 
+Mon Nov  2 14:42:25 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition hardcut 
+Mon Nov  2 14:43:23 2015 <nextPart>
+Mon Nov  2 14:43:38 2015 TICK 06:27 Part ARMAGED with length 135 sec and transition free 
+Mon Nov  2 14:43:42 2015 <nextPart>
+Mon Nov  2 14:43:57 2015 TICK 06:47 Part CYGNUS with length 195 sec and transition free 
+Mon Nov  2 14:47:12 2015 TICK 10:02 Part SPHERE with length 195 sec and transition free 
+Mon Nov  2 14:49:33 2015 Generator stopped
+
+Tue Nov  3 11:25:07 2015 Generator started
+Tue Nov  3 11:25:22 2015 TICK 00:15 Part PRELUDE with length 105 sec and transition hardcut 
+Tue Nov  3 11:27:07 2015 TICK 02:00 Part APOLLO with length 195 sec and transition crossfade 
+Tue Nov  3 11:30:22 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition hardcut 
+Tue Nov  3 11:31:11 2015 <nextPart>
+Tue Nov  3 11:31:26 2015 TICK 06:18 Part ARMAGED with length 135 sec and transition crossfade 
+Tue Nov  3 11:31:28 2015 <nextPart>
+Tue Nov  3 11:31:43 2015 TICK 06:36 Part CYGNUS with length 195 sec and transition crossfade 
+Tue Nov  3 11:34:30 2015 <nextPart>
+Tue Nov  3 11:34:45 2015 TICK 09:38 Part SPHERE with length 195 sec and transition hardcut 
+Tue Nov  3 11:38:00 2015 TICK 12:52 Part END with length 315 sec and transition free 
+Tue Nov  3 11:39:18 2015 Generator stopped
+
+Tue Nov  3 11:48:23 2015 Generator started
+Tue Nov  3 11:48:38 2015 TICK 00:15 Part PRELUDE with length 105 sec and transition crossfade 
+Tue Nov  3 11:49:12 2015 Generator stopped
+
+Tue Nov  3 11:58:47 2015 Generator started
+Tue Nov  3 11:59:02 2015 TICK 00:15 Part PRELUDE with length 105 sec and transition hardcut 
+Tue Nov  3 12:00:47 2015 TICK 02:00 Part APOLLO with length 195 sec and transition hardcut 
+Tue Nov  3 12:04:02 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition hardcut 
+Tue Nov  3 12:04:48 2015 Generator stopped
+
+Wed Nov  4 13:52:42 2015 Generator started
+Wed Nov  4 13:52:57 2015 TICK 00:15 Part PRELUDE with length 105 sec and transition crossfade 
+Wed Nov  4 13:54:42 2015 TICK 01:59 Part APOLLO with length 195 sec and transition free 
+Wed Nov  4 13:57:57 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition crossfade 
+Wed Nov  4 13:58:56 2015 <nextPart>
+Wed Nov  4 13:59:01 2015 TICK 06:19 Part ARMAGED with length 17 sec and transition crossfade 
+Wed Nov  4 13:59:03 2015 <nextPart>
+Wed Nov  4 13:59:18 2015 TICK 06:35 Part CYGNUS with length 195 sec and transition crossfade 
+Wed Nov  4 14:01:19 2015 <nextPart>
+Wed Nov  4 14:01:34 2015 TICK 08:51 Part SPHERE with length 195 sec and transition crossfade 
+Wed Nov  4 14:04:49 2015 TICK 12:07 Part END with length 315 sec and transition crossfade 
+Wed Nov  4 14:05:00 2015 Generator stopped
+
+Wed Nov  4 14:05:11 2015 Generator started
+Wed Nov  4 14:05:26 2015 TICK 00:15 Part PRELUDE with length 105 sec and transition hardcut 
+Wed Nov  4 14:07:11 2015 TICK 02:00 Part APOLLO with length 195 sec and transition crossfade 
+Wed Nov  4 14:10:26 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition crossfade 
+Wed Nov  4 14:13:41 2015 TICK 08:30 Part ARMAGED with length 135 sec and transition free 
+Wed Nov  4 14:13:43 2015 Generator stopped
+
+Thu Nov  5 13:12:30 2015 Generator started
+Thu Nov  5 13:12:45 2015 TICK 00:14 Part PRELUDE with length 105 sec and transition crossfade 
+Thu Nov  5 13:14:30 2015 TICK 02:00 Part APOLLO with length 195 sec and transition free 
+Thu Nov  5 13:17:45 2015 TICK 05:15 Part DIONYSUS with length 195 sec and transition crossfade 
+
+Thu Nov  5 13:20:52 2015 Generator started
+Thu Nov  5 13:21:07 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition free 
+Thu Nov  5 13:22:47 2015 TICK 01:55 Part APOLLO with length 195 sec and transition free 
+Thu Nov  5 13:26:02 2015 TICK 05:10 Part DIONYSUS with length 195 sec and transition hardcut 
+Thu Nov  5 13:26:57 2015 Generator stopped
+
+Mon Nov  9 10:54:14 2015 Generator started
+Mon Nov  9 10:54:20 2015 TICK 00:06 Part PRELUDE with length 14 sec and transition free 
+Mon Nov  9 10:54:23 2015 <nextPart>
+Mon Nov  9 10:54:28 2015 TICK 00:13 Part APOLLO with length 23 sec and transition free 
+Mon Nov  9 10:54:30 2015 <nextPart>
+Mon Nov  9 10:54:33 2015 <cancelled>
+Mon Nov  9 10:54:33 2015 TICK 00:18 Part APOLLO with length 14 sec and transition hardcut 
+Mon Nov  9 10:54:35 2015 <nextPart>
+Mon Nov  9 10:54:40 2015 TICK 00:26 Part DIONYSUS with length 23 sec and transition crossfade 
+Mon Nov  9 10:54:43 2015 Generator stopped
+
+Mon Nov  9 10:54:56 2015 Generator started
+Mon Nov  9 10:55:01 2015 TICK 00:05 Part PRELUDE with length 14 sec and transition crossfade 
+Mon Nov  9 10:55:04 2015 <nextPart>
+Mon Nov  9 10:55:09 2015 TICK 00:13 Part APOLLO with length 23 sec and transition free 
+Mon Nov  9 10:55:21 2015 <nextPart>
+Mon Nov  9 10:55:26 2015 TICK 00:29 Part DIONYSUS with length 23 sec and transition crossfade 
+Mon Nov  9 10:55:33 2015 <nextPart>
+Mon Nov  9 10:55:38 2015 TICK 00:42 Part ARMAGED with length 17 sec and transition hardcut 
+Mon Nov  9 10:55:47 2015 <nextPart>
+Mon Nov  9 10:55:50 2015 Generator stopped
+
+Mon Nov  9 11:03:03 2015 Generator started
+Mon Nov  9 11:03:18 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition crossfade 
+Mon Nov  9 11:03:28 2015 <nextPart>
+Mon Nov  9 11:03:37 2015 <cancelled>
+Mon Nov  9 11:03:37 2015 TICK 00:33 Part PRELUDE with length 58 sec and transition free 
+Mon Nov  9 11:03:38 2015 Generator stopped
+
+Mon Nov  9 11:03:44 2015 Generator started
+Mon Nov  9 11:03:46 2015 Generator stopped
+
+Mon Nov  9 11:03:59 2015 Generator started
+Mon Nov  9 11:04:00 2015 Generator stopped
+
+Mon Nov  9 11:04:03 2015 Generator started
+Mon Nov  9 11:04:04 2015 Generator stopped
+
+Mon Nov  9 11:04:05 2015 Generator started
+Mon Nov  9 11:04:10 2015 TICK 00:05 Part PRELUDE with length 14 sec and transition free 
+Mon Nov  9 11:04:11 2015 Generator stopped
+
+Mon Nov  9 11:10:36 2015 Generator started
+Mon Nov  9 11:10:44 2015 Generator stopped
+
+Mon Nov  9 11:11:21 2015 Generator started
+Mon Nov  9 11:11:36 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition crossfade 
+Mon Nov  9 11:13:16 2015 TICK 01:55 Part APOLLO with length 195 sec and transition free 
+Mon Nov  9 11:16:31 2015 TICK 05:10 Part DIONYSUS with length 195 sec and transition free 
+Mon Nov  9 11:16:56 2015 Generator stopped
+
+Mon Nov  9 11:17:37 2015 Generator started
+Mon Nov  9 11:17:52 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition free 
+Mon Nov  9 11:19:32 2015 TICK 01:55 Part APOLLO with length 210 sec and transition hardcut 
+Mon Nov  9 11:23:02 2015 TICK 05:24 Part DIONYSUS with length 195 sec and transition crossfade 
+Mon Nov  9 11:23:36 2015 Generator stopped
+
+Mon Nov  9 11:30:36 2015 Generator started
+Mon Nov  9 11:30:51 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition free 
+Mon Nov  9 11:31:03 2015 Generator stopped
+
+Mon Nov  9 11:31:10 2015 Generator started
+Mon Nov  9 11:31:25 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition hardcut 
+Mon Nov  9 11:33:05 2015 TICK 01:55 Part APOLLO with length 210 sec and transition hardcut 
+Mon Nov  9 11:36:35 2015 TICK 05:25 Part DIONYSUS with length 195 sec and transition crossfade 
+Mon Nov  9 11:37:12 2015 <nextPart>
+Mon Nov  9 11:37:27 2015 TICK 06:17 Part ARMAGED with length 135 sec and transition free 
+Mon Nov  9 11:37:31 2015 <nextPart>
+Mon Nov  9 11:37:39 2015 <cancelled>
+Mon Nov  9 11:37:39 2015 TICK 06:28 Part ARMAGED with length 75 sec and transition hardcut 
+Mon Nov  9 11:37:42 2015 <nextPart>
+Mon Nov  9 11:37:57 2015 TICK 06:46 Part CYGNUS with length 195 sec and transition hardcut 
+Mon Nov  9 11:40:13 2015 <nextPart>
+Mon Nov  9 11:40:28 2015 TICK 09:17 Part SPHERE with length 195 sec and transition free 
+Mon Nov  9 11:43:43 2015 TICK 12:32 Part END with length 315 sec and transition crossfade 
+Mon Nov  9 11:48:58 2015 TICK 17:47 Part PRELUDE with length 100 sec and transition hardcut 
+Mon Nov  9 11:50:38 2015 TICK 19:27 Part APOLLO with length 210 sec and transition hardcut 
+Mon Nov  9 11:51:11 2015 <nextPart>
+Mon Nov  9 11:51:26 2015 TICK 20:14 Part END with length 315 sec and transition crossfade 
+Mon Nov  9 11:51:27 2015 Generator stopped
+
+Mon Nov  9 11:52:39 2015 Generator started
+Mon Nov  9 11:52:54 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition hardcut 
+Mon Nov  9 11:54:34 2015 TICK 01:55 Part APOLLO with length 210 sec and transition free 
+Mon Nov  9 11:58:04 2015 TICK 05:25 Part DIONYSUS with length 195 sec and transition crossfade 
+Mon Nov  9 11:58:14 2015 Generator stopped
+
+Mon Nov  9 19:37:38 2015 Generator started
+Mon Nov  9 19:37:53 2015 TICK 00:14 Part PRELUDE with length 100 sec and transition crossfade 
+Mon Nov  9 19:39:33 2015 TICK 01:54 Part APOLLO with length 225 sec and transition hardcut 
+Mon Nov  9 19:43:18 2015 TICK 05:39 Part DIONYSUS with length 195 sec and transition hardcut 
+Mon Nov  9 19:46:33 2015 TICK 08:55 Part ARMAGED with length 135 sec and transition crossfade 
+Mon Nov  9 19:48:48 2015 TICK 11:10 Part CYGNUS with length 195 sec and transition free 
+Mon Nov  9 19:48:50 2015 <nextPart>
+Mon Nov  9 19:48:54 2015 <cancelled>
+Mon Nov  9 19:48:54 2015 TICK 11:15 Part CYGNUS with length 105 sec and transition free 
+Mon Nov  9 19:49:03 2015 <nextPart>
+Mon Nov  9 19:49:18 2015 TICK 11:39 Part SPHERE with length 195 sec and transition crossfade 
+Mon Nov  9 19:50:02 2015 <nextPart>
+Mon Nov  9 19:50:07 2015 Generator stopped
+
+Mon Nov  9 19:50:09 2015 Generator started
+Mon Nov  9 19:50:14 2015 TICK 00:04 Part PRELUDE with length 14 sec and transition hardcut 
+Mon Nov  9 19:50:29 2015 Generator stopped
+
+Mon Nov  9 19:50:31 2015 Generator started
+Mon Nov  9 19:50:46 2015 TICK 00:14 Part PRELUDE with length 100 sec and transition crossfade 
+Mon Nov  9 19:51:17 2015 Generator stopped
+
+Mon Nov  9 20:07:32 2015 Generator started
+Mon Nov  9 20:07:37 2015 Generator stopped
+
+Mon Nov  9 20:09:44 2015 Generator started
+Mon Nov  9 20:09:59 2015 TICK 00:14 Part PRELUDE with length 100 sec and transition free 
+Mon Nov  9 20:10:06 2015 Generator stopped
+
+Mon Nov  9 20:11:41 2015 Generator started
+Mon Nov  9 20:11:46 2015 Generator stopped
+
+Mon Nov  9 20:30:05 2015 Generator started
+Mon Nov  9 20:30:20 2015 TICK 00:14 Part PRELUDE with length 100 sec and transition crossfade 
+Mon Nov  9 20:30:23 2015 <nextPart>
+Mon Nov  9 20:30:38 2015 TICK 00:32 Part APOLLO with length 225 sec and transition crossfade 
+Mon Nov  9 20:30:43 2015 <nextPart>
+Mon Nov  9 20:30:46 2015 <cancelled>
+Mon Nov  9 20:30:46 2015 TICK 00:40 Part APOLLO with length 120 sec and transition crossfade 
+Mon Nov  9 20:30:50 2015 <nextPart>
+Mon Nov  9 20:30:53 2015 <cancelled>
+Mon Nov  9 20:30:53 2015 TICK 00:47 Part APOLLO with length 120 sec and transition crossfade 
+Mon Nov  9 20:30:56 2015 Generator stopped
+
+Mon Nov  9 20:31:47 2015 Generator started
+Mon Nov  9 20:31:52 2015 Generator stopped
+
+Mon Nov  9 20:32:43 2015 Generator started
+Mon Nov  9 20:32:44 2015 Generator stopped
+
+Mon Nov  9 20:32:54 2015 Generator started
+Mon Nov  9 20:32:55 2015 Generator stopped
+
+Mon Nov  9 20:33:04 2015 Generator started
+Mon Nov  9 20:33:07 2015 Generator stopped
+
+Mon Nov  9 20:33:09 2015 Generator started
+Mon Nov  9 20:33:11 2015 Generator stopped
+
+Mon Nov  9 20:33:13 2015 Generator started
+Mon Nov  9 20:33:14 2015 Generator stopped
+
+Mon Nov  9 20:33:16 2015 Generator started
+Mon Nov  9 20:33:17 2015 Generator stopped
+
+Mon Nov  9 20:33:44 2015 Generator started
+Mon Nov  9 20:33:49 2015 Generator stopped
+
+Mon Nov  9 20:33:52 2015 Generator started
+Mon Nov  9 20:33:56 2015 Generator stopped
+
+Mon Nov  9 20:33:58 2015 Generator started
+Mon Nov  9 20:33:59 2015 Generator stopped
+
+Mon Nov  9 20:34:04 2015 Generator started
+Mon Nov  9 20:34:09 2015 Generator stopped
+
+Wed Nov 11 10:51:39 2015 Generator started
+Wed Nov 11 10:51:54 2015 TICK 00:14 Part PRELUDE with length 100 sec and transition free 
+Wed Nov 11 10:52:02 2015 <nextPart>
+Wed Nov 11 10:52:17 2015 TICK 00:38 Part APOLLO with length 225 sec and transition crossfade 
+
+Wed Nov 11 11:04:17 2015 Generator started
+Wed Nov 11 11:04:32 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition free 
+Wed Nov 11 11:06:12 2015 TICK 01:54 Part APOLLO with length 225 sec and transition crossfade 
+Wed Nov 11 11:08:49 2015 Generator stopped
+
+Wed Nov 11 11:15:22 2015 Generator started
+Wed Nov 11 11:15:37 2015 TICK 00:14 Part APOLLO with length 225 sec and transition free 
+Wed Nov 11 11:19:22 2015 TICK 04:00 Part DIONYSUS with length 195 sec and transition hardcut 
+Wed Nov 11 11:20:21 2015 Generator stopped
+
+Wed Nov 11 12:30:39 2015 Generator started
+Wed Nov 11 12:30:54 2015 TICK 00:15 Part PRELUDE with length 100 sec and transition crossfade 
+Wed Nov 11 12:32:34 2015 TICK 01:55 Part APOLLO with length 225 sec and transition hardcut 
+Wed Nov 11 12:35:58 2015 <nextPart>
+Wed Nov 11 12:36:13 2015 TICK 05:33 Part DIONYSUS with length 195 sec and transition free 
+Wed Nov 11 12:38:11 2015 <nextPart>
+Wed Nov 11 12:38:26 2015 TICK 07:47 Part ARMAGED with length 135 sec and transition hardcut 
+Wed Nov 11 12:40:41 2015 TICK 10:01 Part CYGNUS with length 195 sec and transition crossfade 
+Wed Nov 11 12:43:56 2015 TICK 13:17 Part SPHERE with length 195 sec and transition free 
+Wed Nov 11 12:47:11 2015 TICK 16:31 Part END with length 315 sec and transition hardcut 
+Wed Nov 11 12:47:23 2015 Generator stopped
+
+Wed Nov 11 12:55:35 2015 Generator started
+Wed Nov 11 12:55:50 2015 TICK 00:14 Part PRELUDE with length 100 sec and transition hardcut 
+Wed Nov 11 12:57:30 2015 TICK 01:55 Part APOLLO with length 225 sec and transition crossfade 
+Wed Nov 11 13:00:49 2015 <nextPart>
+Wed Nov 11 13:01:04 2015 TICK 05:29 Part DIONYSUS with length 195 sec and transition hardcut 
+Wed Nov 11 13:04:19 2015 TICK 08:44 Part ARMAGED with length 135 sec and transition hardcut 
+Wed Nov 11 13:06:34 2015 TICK 10:59 Part CYGNUS with length 195 sec and transition free 
+Wed Nov 11 13:09:49 2015 TICK 14:14 Part SPHERE with length 195 sec and transition free 
+Wed Nov 11 13:13:04 2015 TICK 17:29 Part END with length 315 sec and transition hardcut 
+Wed Nov 11 13:15:37 2015 <nextPart>
+Wed Nov 11 13:15:52 2015 TICK 20:15 Part END with length 315 sec and transition free 
+Wed Nov 11 13:15:53 2015 Generator stopped
+
+Wed Nov 11 14:58:23 2015 Generator started
+Wed Nov 11 14:58:33 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition crossfade 
+Wed Nov 11 14:58:38 2015 <nextPart>
+Wed Nov 11 14:58:39 2015 Generator stopped
+
+Wed Nov 11 15:00:49 2015 Generator started
+Wed Nov 11 15:00:59 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition hardcut 
+Wed Nov 11 15:02:34 2015 TICK 01:44 Part APOLLO with length 220 sec and transition crossfade 
+Wed Nov 11 15:02:49 2015 Generator stopped
+
+Wed Nov 11 15:03:31 2015 Generator started
+Wed Nov 11 15:03:41 2015 TICK 00:10 Part APOLLO with length 220 sec and transition hardcut 
+Wed Nov 11 15:03:43 2015 Generator stopped
+
+Wed Nov 11 15:03:47 2015 Generator started
+Wed Nov 11 15:03:57 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition crossfade 
+Wed Nov 11 15:05:32 2015 TICK 01:44 Part APOLLO with length 220 sec and transition crossfade 
+Wed Nov 11 15:05:43 2015 Generator stopped
+
+Wed Nov 11 15:08:45 2015 Generator started
+Wed Nov 11 15:08:53 2015 Generator stopped
+
+Wed Nov 11 15:16:43 2015 Generator started
+Wed Nov 11 15:16:53 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+Wed Nov 11 15:17:10 2015 <nextPart>
+Wed Nov 11 15:17:20 2015 TICK 00:37 Part APOLLO with length 220 sec and transition hardcut 
+Wed Nov 11 15:17:24 2015 Generator stopped
+
+Wed Nov 11 15:21:02 2015 Generator started
+Wed Nov 11 15:21:03 2015 Generator stopped
+
+Wed Nov 11 15:28:37 2015 Generator started
+Wed Nov 11 15:28:47 2015 TICK 00:09 Part DIONYSUS with length 190 sec and transition hardcut 
+Wed Nov 11 15:29:02 2015 <nextPart>
+Wed Nov 11 15:29:12 2015 TICK 00:35 Part ARMAGED with length 130 sec and transition hardcut 
+Wed Nov 11 15:29:16 2015 Generator stopped
+
+Wed Nov 11 15:32:52 2015 Generator started
+Wed Nov 11 15:32:56 2015 Generator stopped
+
+Wed Nov 11 15:33:35 2015 Generator started
+Wed Nov 11 15:33:45 2015 TICK 00:10 Part DIONYSUS with length 190 sec and transition hardcut 
+Wed Nov 11 15:33:50 2015 <nextPart>
+Wed Nov 11 15:34:00 2015 TICK 00:25 Part ARMAGED with length 130 sec and transition free 
+Wed Nov 11 15:34:07 2015 Generator stopped
+
+Wed Nov 11 15:34:55 2015 Generator started
+Wed Nov 11 15:35:00 2015 TICK 00:04 Part DIONYSUS with length 23 sec and transition hardcut 
+Wed Nov 11 15:35:04 2015 <nextPart>
+Wed Nov 11 15:35:09 2015 TICK 00:13 Part ARMAGED with length 17 sec and transition crossfade 
+Wed Nov 11 15:35:12 2015 Generator stopped
+
+Wed Nov 11 15:35:38 2015 Generator started
+Wed Nov 11 15:35:39 2015 Generator stopped
+
+Wed Nov 11 15:35:51 2015 Generator started
+Wed Nov 11 15:35:52 2015 Generator stopped
+
+Wed Nov 11 15:36:10 2015 Generator started
+Wed Nov 11 15:36:20 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+Wed Nov 11 15:37:55 2015 TICK 01:44 Part APOLLO with length 220 sec and transition crossfade 
+
+Wed Nov 11 15:38:43 2015 Generator started
+Wed Nov 11 15:38:48 2015 TICK 00:05 Part PRELUDE with length 14 sec and transition free 
+Wed Nov 11 15:38:49 2015 <nextPart>
+Wed Nov 11 15:38:52 2015 <cancelled>
+Wed Nov 11 15:38:52 2015 TICK 00:08 Part PRELUDE with length 53 sec and transition crossfade 
+Wed Nov 11 15:38:54 2015 <nextPart>
+Wed Nov 11 15:38:59 2015 TICK 00:16 Part APOLLO with length 26 sec and transition crossfade 
+Wed Nov 11 15:39:00 2015 <nextPart>
+Wed Nov 11 15:39:02 2015 <cancelled>
+Wed Nov 11 15:39:02 2015 TICK 00:18 Part APOLLO with length 16 sec and transition hardcut 
+Wed Nov 11 15:39:03 2015 <nextPart>
+Wed Nov 11 15:39:05 2015 Generator stopped
+
+Wed Nov 11 15:39:23 2015 Generator started
+Wed Nov 11 15:39:28 2015 TICK 00:05 Part DIONYSUS with length 23 sec and transition crossfade 
+Wed Nov 11 15:39:35 2015 <nextPart>
+Wed Nov 11 15:39:40 2015 TICK 00:16 Part ARMAGED with length 17 sec and transition crossfade 
+Wed Nov 11 15:39:57 2015 TICK 00:34 Part CYGNUS with length 23 sec and transition hardcut 
+Wed Nov 11 15:40:08 2015 <nextPart>
+Wed Nov 11 15:40:13 2015 TICK 00:50 Part SPHERE with length 23 sec and transition hardcut 
+Wed Nov 11 15:40:20 2015 Generator stopped
+
+Wed Nov 11 15:43:16 2015 Generator started
+Wed Nov 11 15:43:26 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+Wed Nov 11 15:45:01 2015 TICK 01:45 Part APOLLO with length 220 sec and transition hardcut 
+Wed Nov 11 15:48:41 2015 TICK 05:25 Part DIONYSUS with length 190 sec and transition crossfade 
+Wed Nov 11 15:48:46 2015 Generator stopped
+
+Mon Nov 16 14:17:55 2015 Generator started
+Mon Nov 16 14:17:57 2015 Generator stopped
+
+Mon Nov 16 14:18:01 2015 Generator started
+Mon Nov 16 14:18:03 2015 Generator stopped
+
+Mon Nov 16 14:18:08 2015 Generator started
+Mon Nov 16 14:18:13 2015 TICK 00:05 Part PRELUDE with length 14 sec and transition free 
+Mon Nov 16 14:18:20 2015 Generator stopped
+
+Mon Nov 16 14:39:53 2015 Generator started
+Mon Nov 16 14:40:03 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+Mon Nov 16 14:41:38 2015 TICK 01:45 Part APOLLO with length 220 sec and transition crossfade 
+Mon Nov 16 14:42:20 2015 Generator stopped
+
+Mon Nov 16 14:42:27 2015 Generator started
+Mon Nov 16 14:42:37 2015 TICK 00:09 Part APOLLO with length 220 sec and transition free 
+Mon Nov 16 14:44:48 2015 Generator stopped
+
+Mon Nov 16 14:44:51 2015 Generator started
+Mon Nov 16 14:45:01 2015 TICK 00:09 Part APOLLO with length 220 sec and transition hardcut 
+Mon Nov 16 14:47:19 2015 Generator stopped
+
+Tue Nov 17 11:46:25 2015 Generator started
+Tue Nov 17 11:46:35 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition crossfade 
+Tue Nov 17 11:48:10 2015 TICK 01:45 Part APOLLO with length 220 sec and transition free 
+Tue Nov 17 11:51:50 2015 TICK 05:25 Part DIONYSUS with length 190 sec and transition free 
+Tue Nov 17 11:52:02 2015 Generator stopped
+
+Tue Nov 17 11:52:51 2015 Generator started
+Tue Nov 17 11:53:01 2015 TICK 00:09 Part APOLLO with length 220 sec and transition hardcut 
+Tue Nov 17 11:56:41 2015 TICK 03:50 Part DIONYSUS with length 190 sec and transition crossfade 
+Tue Nov 17 11:56:42 2015 Generator stopped
+
+Tue Nov 17 14:35:37 2015 Generator started
+Tue Nov 17 14:35:47 2015 TICK 00:09 Part APOLLO with length 220 sec and transition free 
+Tue Nov 17 14:39:05 2015 Generator stopped
+
+Fri Nov 20 11:56:12 2015 Generator started
+Fri Nov 20 11:56:17 2015 TICK 00:04 Part PRELUDE with length 14 sec and transition crossfade 
+Fri Nov 20 11:56:31 2015 TICK 00:19 Part APOLLO with length 26 sec and transition crossfade 
+Fri Nov 20 11:56:57 2015 TICK 00:44 Part DIONYSUS with length 23 sec and transition crossfade 
+Fri Nov 20 11:57:20 2015 TICK 01:08 Part ARMAGED with length 17 sec and transition free 
+Fri Nov 20 11:57:37 2015 TICK 01:25 Part CYGNUS with length 23 sec and transition hardcut 
+Fri Nov 20 11:58:00 2015 TICK 01:48 Part SPHERE with length 23 sec and transition hardcut 
+Fri Nov 20 11:58:23 2015 TICK 02:11 Part END with length 35 sec and transition crossfade 
+Fri Nov 20 11:58:58 2015 TICK 02:45 Part PRELUDE with length 14 sec and transition crossfade 
+Fri Nov 20 11:59:12 2015 TICK 02:59 Part APOLLO with length 26 sec and transition free 
+Fri Nov 20 11:59:38 2015 TICK 03:26 Part DIONYSUS with length 23 sec and transition free 
+Fri Nov 20 12:00:01 2015 TICK 03:49 Part ARMAGED with length 17 sec and transition crossfade 
+Fri Nov 20 12:00:18 2015 TICK 04:06 Part CYGNUS with length 23 sec and transition crossfade 
+Fri Nov 20 12:00:41 2015 TICK 04:28 Part SPHERE with length 23 sec and transition free 
+Fri Nov 20 12:01:04 2015 TICK 04:51 Part END with length 35 sec and transition crossfade 
+Fri Nov 20 12:01:39 2015 TICK 05:27 Part PRELUDE with length 14 sec and transition crossfade 
+Fri Nov 20 12:01:53 2015 TICK 05:41 Part APOLLO with length 26 sec and transition crossfade 
+Fri Nov 20 12:02:19 2015 TICK 06:07 Part DIONYSUS with length 23 sec and transition hardcut 
+Fri Nov 20 12:02:42 2015 TICK 06:29 Part ARMAGED with length 17 sec and transition hardcut 
+Fri Nov 20 12:02:59 2015 TICK 06:47 Part CYGNUS with length 23 sec and transition crossfade 
+Fri Nov 20 12:03:12 2015 Generator stopped
+
+Sun Nov 22 14:14:51 2015 Generator started
+Sun Nov 22 14:15:01 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+
+Mon Nov 23 09:59:45 2015 Generator started
+Mon Nov 23 09:59:54 2015 <cancelled>
+Mon Nov 23 09:59:54 2015 TICK 00:08 Part PRELUDE with length 95 sec and transition crossfade 
+Mon Nov 23 09:59:55 2015 <nextPart>
+Mon Nov 23 10:00:00 2015 Generator stopped
+
+Mon Nov 23 10:01:35 2015 Generator started
+Mon Nov 23 10:01:41 2015 <cancelled>
+Mon Nov 23 10:01:41 2015 TICK 00:06 Part PRELUDE with length 95 sec and transition free 
+Mon Nov 23 10:01:42 2015 <nextPart>
+Mon Nov 23 10:01:45 2015 <cancelled>
+Mon Nov 23 10:01:45 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition crossfade 
+Mon Nov 23 10:01:46 2015 <nextPart>
+Mon Nov 23 10:01:49 2015 <cancelled>
+Mon Nov 23 10:01:49 2015 TICK 00:14 Part PRELUDE with length 95 sec and transition free 
+Mon Nov 23 10:01:50 2015 <nextPart>
+Mon Nov 23 10:01:51 2015 <cancelled>
+Mon Nov 23 10:01:51 2015 TICK 00:15 Part PRELUDE with length 95 sec and transition crossfade 
+Mon Nov 23 10:01:54 2015 <nextPart>
+Mon Nov 23 10:01:58 2015 <cancelled>
+Mon Nov 23 10:01:58 2015 TICK 00:22 Part PRELUDE with length 95 sec and transition free 
+Mon Nov 23 10:01:59 2015 <nextPart>
+Mon Nov 23 10:02:09 2015 TICK 00:33 Part PRELUDE with length 95 sec and transition hardcut 
+Mon Nov 23 10:02:13 2015 <nextPart>
+Mon Nov 23 10:02:13 2015 <cancelled>
+Mon Nov 23 10:02:13 2015 TICK 00:38 Part PRELUDE with length 53 sec and transition hardcut 
+Mon Nov 23 10:02:16 2015 <nextPart>
+Mon Nov 23 10:02:18 2015 <cancelled>
+Mon Nov 23 10:02:18 2015 TICK 00:42 Part PRELUDE with length 53 sec and transition free 
+Mon Nov 23 10:02:47 2015 <nextPart>
+Mon Nov 23 10:02:53 2015 <cancelled>
+Mon Nov 23 10:02:53 2015 TICK 01:18 Part PRELUDE with length 53 sec and transition free 
+Mon Nov 23 10:02:59 2015 <nextPart>
+Mon Nov 23 10:03:01 2015 <cancelled>
+Mon Nov 23 10:03:01 2015 TICK 01:25 Part PRELUDE with length 53 sec and transition crossfade 
+Mon Nov 23 10:03:26 2015 <nextPart>
+Mon Nov 23 10:03:29 2015 <cancelled>
+Mon Nov 23 10:03:29 2015 TICK 01:53 Part PRELUDE with length 53 sec and transition free 
+Mon Nov 23 10:03:30 2015 <nextPart>
+Mon Nov 23 10:03:32 2015 <cancelled>
+Mon Nov 23 10:03:32 2015 TICK 01:56 Part PRELUDE with length 53 sec and transition crossfade 
+Mon Nov 23 10:03:36 2015 <nextPart>
+Mon Nov 23 10:03:38 2015 <cancelled>
+Mon Nov 23 10:03:38 2015 TICK 02:03 Part PRELUDE with length 53 sec and transition hardcut 
+Mon Nov 23 10:03:40 2015 <nextPart>
+Mon Nov 23 10:03:43 2015 <cancelled>
+Mon Nov 23 10:03:43 2015 TICK 02:07 Part PRELUDE with length 53 sec and transition crossfade 
+Mon Nov 23 10:03:45 2015 <nextPart>
+Mon Nov 23 10:03:48 2015 <cancelled>
+Mon Nov 23 10:03:48 2015 TICK 02:12 Part PRELUDE with length 53 sec and transition free 
+Mon Nov 23 10:03:49 2015 <nextPart>
+Mon Nov 23 10:03:51 2015 <cancelled>
+Mon Nov 23 10:03:51 2015 TICK 02:15 Part PRELUDE with length 53 sec and transition crossfade 
+Mon Nov 23 10:03:52 2015 <nextPart>
+Mon Nov 23 10:04:02 2015 TICK 02:26 Part APOLLO with length 220 sec and transition crossfade 
+Mon Nov 23 10:04:07 2015 <nextPart>
+Mon Nov 23 10:04:09 2015 <cancelled>
+Mon Nov 23 10:04:09 2015 TICK 02:33 Part APOLLO with length 115 sec and transition free 
+Mon Nov 23 10:04:15 2015 <nextPart>
+Mon Nov 23 10:04:16 2015 <cancelled>
+Mon Nov 23 10:04:16 2015 TICK 02:40 Part APOLLO with length 115 sec and transition crossfade 
+Mon Nov 23 10:04:18 2015 <nextPart>
+Mon Nov 23 10:04:20 2015 <cancelled>
+Mon Nov 23 10:04:20 2015 TICK 02:44 Part APOLLO with length 115 sec and transition crossfade 
+Mon Nov 23 10:04:22 2015 <nextPart>
+Mon Nov 23 10:04:27 2015 <cancelled>
+Mon Nov 23 10:04:27 2015 TICK 02:51 Part APOLLO with length 115 sec and transition free 
+Mon Nov 23 10:04:30 2015 <nextPart>
+Mon Nov 23 10:04:31 2015 <cancelled>
+Mon Nov 23 10:04:31 2015 TICK 02:55 Part APOLLO with length 115 sec and transition hardcut 
+Mon Nov 23 10:04:48 2015 Generator stopped
+
+Mon Nov 23 10:04:49 2015 Generator started
+Mon Nov 23 10:04:54 2015 TICK 00:05 Part PRELUDE with length 14 sec and transition hardcut 
+Mon Nov 23 10:04:55 2015 <nextPart>
+Mon Nov 23 10:04:59 2015 <cancelled>
+Mon Nov 23 10:04:59 2015 TICK 00:10 Part PRELUDE with length 9 sec and transition crossfade 
+Mon Nov 23 10:05:03 2015 <nextPart>
+Mon Nov 23 10:05:08 2015 TICK 00:19 Part APOLLO with length 26 sec and transition crossfade 
+Mon Nov 23 10:05:13 2015 <nextPart>
+Mon Nov 23 10:05:18 2015 TICK 00:29 Part DIONYSUS with length 23 sec and transition hardcut 
+Mon Nov 23 10:05:24 2015 Generator stopped
+
+Mon Nov 23 10:40:56 2015 Generator started
+Mon Nov 23 10:41:06 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition crossfade 
+Mon Nov 23 10:42:05 2015 <nextPart>
+Mon Nov 23 10:42:10 2015 <cancelled>
+Mon Nov 23 10:42:10 2015 TICK 01:13 Part PRELUDE with length 53 sec and transition crossfade 
+Mon Nov 23 10:42:17 2015 <nextPart>
+Mon Nov 23 10:42:27 2015 TICK 01:31 Part APOLLO with length 220 sec and transition hardcut 
+Mon Nov 23 10:46:07 2015 TICK 05:10 Part DIONYSUS with length 190 sec and transition hardcut 
+Mon Nov 23 10:49:17 2015 TICK 08:21 Part ARMAGED with length 130 sec and transition hardcut 
+Mon Nov 23 10:50:46 2015 <nextPart>
+Mon Nov 23 10:50:56 2015 TICK 10:00 Part CYGNUS with length 190 sec and transition crossfade 
+Mon Nov 23 10:51:44 2015 <nextPart>
+Mon Nov 23 10:51:54 2015 TICK 10:57 Part SPHERE with length 190 sec and transition free 
+Mon Nov 23 10:55:04 2015 TICK 14:07 Part END with length 310 sec and transition crossfade 
+Mon Nov 23 11:00:14 2015 TICK 19:17 Part PRELUDE with length 95 sec and transition hardcut 
+Mon Nov 23 11:00:57 2015 <nextPart>
+Mon Nov 23 11:01:07 2015 TICK 20:09 Part END with length 310 sec and transition hardcut 
+Mon Nov 23 11:01:08 2015 Generator stopped
+
+Tue Nov 24 12:33:15 2015 Generator started
+Tue Nov 24 12:33:25 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+Tue Nov 24 12:35:00 2015 TICK 01:45 Part APOLLO with length 220 sec and transition hardcut 
+
+Tue Nov 24 12:44:30 2015 Generator started
+Tue Nov 24 12:44:40 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition hardcut 
+Tue Nov 24 12:46:15 2015 TICK 01:45 Part APOLLO with length 220 sec and transition free 
+Tue Nov 24 12:49:55 2015 TICK 05:24 Part DIONYSUS with length 190 sec and transition crossfade 
+Tue Nov 24 12:53:05 2015 TICK 08:34 Part ARMAGED with length 130 sec and transition free 
+Tue Nov 24 12:55:15 2015 TICK 10:44 Part CYGNUS with length 190 sec and transition free 
+Tue Nov 24 12:58:09 2015 <nextPart>
+Tue Nov 24 12:58:19 2015 TICK 13:49 Part SPHERE with length 190 sec and transition free 
+Tue Nov 24 13:01:29 2015 TICK 16:58 Part END with length 310 sec and transition free 
+Tue Nov 24 13:04:32 2015 <nextPart>
+Tue Nov 24 13:04:42 2015 TICK 20:09 Part END with length 310 sec and transition hardcut 
+Tue Nov 24 13:04:43 2015 Generator stopped
+
+Tue Nov 24 14:19:44 2015 Generator started
+Tue Nov 24 14:19:54 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition free 
+Tue Nov 24 14:21:29 2015 TICK 01:45 Part APOLLO with length 220 sec and transition free 
+Tue Nov 24 14:25:09 2015 TICK 05:25 Part DIONYSUS with length 190 sec and transition hardcut 
+Tue Nov 24 14:28:19 2015 TICK 08:35 Part ARMAGED with length 130 sec and transition hardcut 
+Tue Nov 24 14:30:29 2015 TICK 10:45 Part CYGNUS with length 190 sec and transition free 
+Tue Nov 24 14:33:39 2015 TICK 13:54 Part SPHERE with length 190 sec and transition hardcut 
+Tue Nov 24 14:36:49 2015 TICK 17:05 Part END with length 310 sec and transition hardcut 
+Tue Nov 24 14:39:45 2015 <nextPart>
+Tue Nov 24 14:39:55 2015 TICK 20:10 Part END with length 310 sec and transition hardcut 
+Tue Nov 24 14:39:56 2015 Generator stopped
+
+Wed Nov 25 12:54:09 2015 Generator started
+Wed Nov 25 12:54:19 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition free 
+Wed Nov 25 12:55:54 2015 TICK 01:45 Part APOLLO with length 220 sec and transition hardcut 
+Wed Nov 25 12:59:16 2015 <nextPart>
+Wed Nov 25 12:59:26 2015 TICK 05:17 Part DIONYSUS with length 190 sec and transition crossfade 
+Wed Nov 25 13:02:36 2015 TICK 08:26 Part ARMAGED with length 130 sec and transition free 
+Wed Nov 25 13:04:46 2015 TICK 10:37 Part CYGNUS with length 190 sec and transition hardcut 
+Wed Nov 25 13:07:25 2015 <nextPart>
+Wed Nov 25 13:07:35 2015 TICK 13:26 Part SPHERE with length 190 sec and transition free 
+Wed Nov 25 13:10:45 2015 TICK 16:35 Part END with length 310 sec and transition crossfade 
+
+Fri Nov 27 16:29:46 2015 Generator started
+Fri Nov 27 16:29:56 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition hardcut 
+Fri Nov 27 16:30:28 2015 <nextPart>
+Fri Nov 27 16:30:38 2015 TICK 00:52 Part APOLLO with length 220 sec and transition hardcut 
+Fri Nov 27 16:34:18 2015 TICK 04:32 Part DIONYSUS with length 190 sec and transition free 
+Fri Nov 27 16:36:49 2015 <nextPart>
+Fri Nov 27 16:36:59 2015 TICK 07:13 Part ARMAGED with length 130 sec and transition hardcut 
+Fri Nov 27 16:37:16 2015 <nextPart>
+Fri Nov 27 16:37:26 2015 TICK 07:39 Part CYGNUS with length 190 sec and transition free 
+Fri Nov 27 16:37:50 2015 <nextPart>
+Fri Nov 27 16:38:00 2015 TICK 08:14 Part SPHERE with length 190 sec and transition crossfade 
+Fri Nov 27 16:38:04 2015 Generator stopped
+
+Fri Nov 27 16:38:06 2015 Generator started
+Fri Nov 27 16:38:16 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition crossfade 
+Fri Nov 27 16:38:25 2015 Generator stopped
+
+Fri Nov 27 16:40:53 2015 Generator started
+Fri Nov 27 16:41:03 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition hardcut 
+Fri Nov 27 16:42:38 2015 TICK 01:44 Part APOLLO with length 220 sec and transition hardcut 
+Fri Nov 27 16:42:53 2015 <nextPart>
+Fri Nov 27 16:42:59 2015 <cancelled>
+Fri Nov 27 16:42:59 2015 TICK 02:05 Part APOLLO with length 115 sec and transition hardcut 
+Fri Nov 27 16:43:12 2015 <nextPart>
+Fri Nov 27 16:43:22 2015 TICK 02:28 Part DIONYSUS with length 190 sec and transition crossfade 
+Fri Nov 27 16:43:53 2015 <nextPart>
+Fri Nov 27 16:44:03 2015 TICK 03:09 Part ARMAGED with length 130 sec and transition hardcut 
+Fri Nov 27 16:44:24 2015 <nextPart>
+Fri Nov 27 16:44:34 2015 TICK 03:40 Part CYGNUS with length 190 sec and transition crossfade 
+Fri Nov 27 16:44:38 2015 <nextPart>
+Fri Nov 27 16:44:48 2015 TICK 03:54 Part SPHERE with length 190 sec and transition crossfade 
+Fri Nov 27 16:44:56 2015 Generator stopped
+
+Fri Nov 27 16:44:58 2015 Generator started
+Fri Nov 27 16:45:08 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition hardcut 
+Fri Nov 27 16:46:09 2015 <nextPart>
+Fri Nov 27 16:46:19 2015 TICK 01:21 Part APOLLO with length 220 sec and transition hardcut 
+Fri Nov 27 16:46:56 2015 <nextPart>
+Fri Nov 27 16:47:06 2015 TICK 02:08 Part DIONYSUS with length 190 sec and transition free 
+Fri Nov 27 16:49:21 2015 <nextPart>
+Fri Nov 27 16:49:31 2015 TICK 04:33 Part ARMAGED with length 130 sec and transition free 
+Fri Nov 27 16:49:41 2015 <nextPart>
+Fri Nov 27 16:49:51 2015 TICK 04:53 Part CYGNUS with length 190 sec and transition crossfade 
+Fri Nov 27 16:50:38 2015 <nextPart>
+Fri Nov 27 16:50:48 2015 TICK 05:50 Part SPHERE with length 190 sec and transition free 
+Fri Nov 27 16:50:57 2015 Generator stopped
+
+Fri Nov 27 17:13:03 2015 Generator started
+Fri Nov 27 17:13:13 2015 TICK 00:09 Part PRELUDE with length 95 sec and transition hardcut 
+Fri Nov 27 17:13:48 2015 <nextPart>
+Fri Nov 27 17:13:58 2015 TICK 00:54 Part APOLLO with length 220 sec and transition free 
+Fri Nov 27 17:14:02 2015 Generator stopped
+
+Sat Nov 28 11:36:58 2015 Generator started
+Sat Nov 28 11:37:08 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition hardcut 
+Sat Nov 28 11:38:43 2015 TICK 01:45 Part APOLLO with length 220 sec and transition crossfade 
+Sat Nov 28 11:42:23 2015 TICK 05:24 Part DIONYSUS with length 190 sec and transition free 
+Sat Nov 28 11:43:37 2015 <nextPart>
+Sat Nov 28 11:43:40 2015 Generator stopped
+
+Sat Nov 28 12:55:49 2015 Generator started
+Sat Nov 28 12:55:59 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition hardcut 
+Sat Nov 28 12:56:00 2015 Generator stopped
+
+Sat Nov 28 12:58:17 2015 Generator started
+Sat Nov 28 12:58:27 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition free 
+Sat Nov 28 13:00:02 2015 TICK 01:44 Part APOLLO with length 220 sec and transition hardcut 
+Sat Nov 28 13:03:35 2015 Generator stopped
+
+Sat Nov 28 21:17:28 2015 Generator started
+Sat Nov 28 21:17:38 2015 TICK 00:10 Part PRELUDE with length 95 sec and transition free 
+Sat Nov 28 21:19:13 2015 TICK 01:45 Part APOLLO with length 220 sec and transition crossfade 
+Sat Nov 28 21:22:53 2015 TICK 05:25 Part DIONYSUS with length 190 sec and transition crossfade 
+Sat Nov 28 21:26:03 2015 TICK 08:34 Part ARMAGED with length 130 sec and transition hardcut 
+Sat Nov 28 21:28:13 2015 TICK 10:45 Part CYGNUS with length 190 sec and transition hardcut 
+Sat Nov 28 21:31:23 2015 TICK 13:55 Part SPHERE with length 190 sec and transition hardcut 
+Sat Nov 28 21:34:33 2015 TICK 17:05 Part END with length 310 sec and transition hardcut 
+Sat Nov 28 21:37:30 2015 <nextPart>
+Sat Nov 28 21:37:40 2015 TICK 20:11 Part END with length 310 sec and transition hardcut 
+Sat Nov 28 21:37:41 2015 Generator stopped

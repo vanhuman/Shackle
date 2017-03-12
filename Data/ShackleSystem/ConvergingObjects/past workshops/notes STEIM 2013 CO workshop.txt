@@ -1,0 +1,102 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+
+Low frequencies
+Grounded 
+Only electronics
+
+<*BOLT>
+
+Fast staccato, 
+Live sampling
+VIlbjorg, Mark, Giorgio
+
+<*CUFF>
+
+Voice, text
+singers only & text samples
+
+<*FORGE>
+
+Clusters around F
+Only acoustic
+
+<*LOOP>
+
+Computer loops
+
+<*PIN>
+
+Nicoletta, Mark, Stef, Chi-Hsi, 
+Inge, Steve
+
+<*RIG>
+
+Mark, Steve
+
+<*SCREW>
+
+Glissandi
+Strings
+
+<*THIMBLE>
+
+Slow air
+Subtle percussion
+Inge, Jan, Chi-Hsia
+ 
+<*TORQUE>
+
+Wall of sound
+Tutti
+
+<*DUO>
+
+Duo Jan, Giorgio
+
+<*CIRCLE>
+
+Solo's in a circle
+
+<*BOLT AC>
+
+Fast staccato
+Inge, Nicoletta, Jan, Xander
+
+<*THIMBLE AC>
+
+Slow air
+Subtle percussion
+VIlbjorg, Steve, Musfik
+
+<*PIN LP>
+
+Big silences
+Musfik leads laptops
+
+<*RIG LP>
+
+Dancing
+Acoustic with processing
+
+<*LOOP KEYB>
+
+Loops
+Xander, Josh
+
+<*FORGE KEYB>
+
+Only electronics
+One long sound
+
+<*END>
+
+End
+
++++
+
+
+

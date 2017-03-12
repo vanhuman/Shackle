@@ -1,0 +1,96 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+ANCHOR:
+grounded drones
+
+<*BOLT>
+BOLT:
+hectic fast changes
+
+<*BOW>
+BOW:
+sustained and airy
+
+<*CHAIN>
+CHAIN:
+solo and accompaniment
+
+<*CHOICE>
+CHOICE:
+voice
+
+<*CLIP>
+CLIP:
+broken beats
+
+<*CUFF>
+CUFF:
+circular breath long tones
+
+<*EYE>
+EYE:
+sine tones
+
+<*FORGE>
+FORGE:
+clicks & pops
+
+<*IMAGINE>
+IMAGINE:
+pianissimo
+
+<*LIMIT>
+LIMIT:
+hot pink noise
+
+<*LOOP>
+LOOP:
+loops
+
+<*PIN>
+PIN:
+choppy
+
+<*RIG>
+RIG:
+D minor David Lynch
+
+<*SCREW>
+SCREW:
+glissandi
+
+<*SHACKLE>
+SHACKLE:
+free improv
+
+<*SNAP>
+SNAP:
+short statements
+
+<*THIMBLE>
+THIMBLE:
+fast and dense
+
+<*TORQUE>
+TORQUE:
+sustained spit
+
+<*TWIST>
+TWIST:
+unpredictable silences
+
+<*ZIPPER>
+ZIPPER:
+melody
+
+<*END>
+END:
+make an ending
+
++++
+
+
+

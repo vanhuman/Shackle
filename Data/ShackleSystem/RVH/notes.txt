@@ -1,0 +1,79 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+[grounded] 
+
+blue11 / keyset2: blue9
+synth TBall
+LV1.4 (amawavwseq2) / B-F-D LPK prg3
+
+<*BOLT>
+[hectic / fast changes ]  
+ 
+LV2.4 (rain) / green8 (arp25 Sy-Dis2)
+green1 / green2
+blue12 (vr)
+
+<*BOW>
+[sweet'n'sour]
+
+lange noten, dunne sferen LPK
+blue7 ca / LV1.2 (dr_Ambient) / blue11 (ampvlow)
+LV2.8 (s3) / LV2.7(amphigh) 
+
+<*CLIP>
+[dancing] 
+
+LV2.1 (studio1) joy LPF/HPF
+LV2.2 (gaffer) 
+blue10 (plankje thonk))
+
+<*CUFF>
+[noise held back]
+
+blue9 (ARP) / blue11 (ampmod vlow1) 
+green10 (gitaarruis) / LV2.3 (lome beat)
+
+<*DELICATE>
+[meat and knives]
+
+ks2 blue12 voice / blue6 squeek
+LV2.6 knives / blue1 ambient
+
+<*IMAGINE>
+[pianissimo] 
+
+<*LIMIT>
+[hot] 
+
+LV1.1 (loop@3zones) / blue10 (plkje) / blue8 (statrbeq)
+green7 (thonk) / green12 (plankje) 
+
+<*LOOP>
+[loopy] 
+
+short loops
+ch2 LF 3zones alt load zones 
+blue keyset 1&2: 8-11 (7-9-10)
+
+<*RIG>
+[subtle clean voice]
+
+blue5 (mel310) / LPK low drones
+LPK high A-Bes-D-E-F
+ks2: blue8 blue10
+
+<*THIMBLE>
+[rough]
+
+blue3 (mort/speeldoos)
+green4 (LPcracklebuf) 
+
+<*END>
+ 
++++
+
+
+

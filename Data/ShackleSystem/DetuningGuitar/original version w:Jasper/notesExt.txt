@@ -1,0 +1,73 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*PATTERN>
+PATTERN
+alternate fast tremolo and patterns:
+2up 1do 2up  /  3up 1do 1up
+
+<*STUMBLE>
+STUMBLE  ~detune 6th string
+stumbling beat
+start with single bassnotes
+
+<*SLOGRO>
+SLOGRO  ~detune 2d string
+slow groove guitar + solo laptop
+
+<*FASGRO>
+FASGRO  ~detune 3rd string
+fast groove laptop + solo guitar
+
+<*RIPP>
+RIFF  ~detune 4th string
+improvise on Don't Care riff
+slowly taking it apart
+
+<*RATTLE>
+RATTLE
+rattling sounds - breinaald, bow &
+  extreme tuning down 6th string
+
+<*SCRATCH>
+SCRATCH
+scratching sounds
+
+<*SLIDE>
+SLIDE  ~detune 5th string
+slide using a slide
+
+<*VIBRA>
+VIBRA  ~detune 1st string
+exaggerated, very big vibrato
+
+<*BOLT>
+BOLT
+metal objects preparation
+
+<*JML>
+JML
+play faster than you can
+
+<*FLAG>
+FLAG
+breinaald & strijkstok
+
+<*FUNERAL>
+FUNERAL ~retune
+take time to retune
+funeral march notes
+
+<*STONE>
+STONE
+rubbing stone on strings
+
+<*END>
+END
+make an ending
+
++++
+
+
+

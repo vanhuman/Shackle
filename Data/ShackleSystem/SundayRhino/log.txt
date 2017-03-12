@@ -1,0 +1,434 @@
+
+Fri Apr 24 14:39:43 2015 Generator started
+Fri Apr 24 14:39:48 2015 TICK 00:04 Part INTRO with length 11 sec and transition hardcut 
+Fri Apr 24 14:39:53 2015 <nextPart>
+Fri Apr 24 14:39:58 2015 TICK 00:14 Part HÄNDE with length 17 sec and transition crossfade 
+Fri Apr 24 14:40:15 2015 TICK 00:31 Part EDNAH with length 17 sec and transition hardcut 
+Fri Apr 24 14:40:19 2015 Generator stopped
+
+Sat Apr 25 20:43:59 2015 Generator started
+Sat Apr 25 20:44:04 2015 TICK 00:05 Part INTRO with length 11 sec and transition hardcut 
+Sat Apr 25 20:44:15 2015 TICK 00:15 Part HÄNDE with length 17 sec and transition hardcut 
+Sat Apr 25 20:44:22 2015 <nextPart>
+Sat Apr 25 20:44:25 2015 <cancelled>
+Sat Apr 25 20:44:25 2015 TICK 00:26 Part HÄNDE with length 11 sec and transition hardcut 
+Sat Apr 25 20:44:27 2015 Generator stopped
+
+Sun May  3 14:21:54 2015 Generator started
+Sun May  3 14:22:09 2015 TICK 00:15 Part INTRO with length 75 sec and transition free 
+Sun May  3 14:23:06 2015 Generator stopped
+
+Sun May  3 15:03:34 2015 Generator started
+Sun May  3 15:03:49 2015 TICK 00:15 Part INTRO with length 75 sec and transition free 
+Sun May  3 15:04:21 2015 <nextPart>
+Sun May  3 15:04:36 2015 TICK 01:02 Part HÄNDE with length 165 sec and transition free 
+Sun May  3 15:04:51 2015 <nextPart>
+Sun May  3 15:05:06 2015 TICK 01:32 Part EDNAH with length 165 sec and transition hardcut 
+Sun May  3 15:05:14 2015 <nextPart>
+Sun May  3 15:05:29 2015 TICK 01:55 Part PATTERNS with length 195 sec and transition free 
+Sun May  3 15:08:44 2015 TICK 05:09 Part STATIC with length 135 sec and transition hardcut 
+Sun May  3 15:09:19 2015 Generator stopped
+
+Sun May  3 20:04:50 2015 Generator started
+Sun May  3 20:04:50 2015 Generator stopped
+
+Sun May  3 20:05:49 2015 Generator started
+Sun May  3 20:05:56 2015 Generator stopped
+
+Sun May  3 20:20:44 2015 Generator started
+Sun May  3 20:20:46 2015 Generator stopped
+
+Sun May  3 20:20:48 2015 Generator started
+Sun May  3 20:20:51 2015 Generator stopped
+
+Sun May  3 20:21:00 2015 Generator started
+Sun May  3 20:21:01 2015 Generator stopped
+
+Sun May  3 20:22:54 2015 Generator started
+Sun May  3 20:22:56 2015 Generator stopped
+
+Sun May  3 20:23:15 2015 Generator started
+Sun May  3 20:23:16 2015 Generator stopped
+
+Sun May  3 20:23:23 2015 Generator started
+Sun May  3 20:23:24 2015 Generator stopped
+
+Sun May  3 20:23:29 2015 Generator started
+Sun May  3 20:23:30 2015 Generator stopped
+
+Sun May  3 20:23:33 2015 Generator started
+Sun May  3 20:23:34 2015 Generator stopped
+
+Sun May  3 20:23:40 2015 Generator started
+Sun May  3 20:23:40 2015 Generator stopped
+
+Sun May  3 20:25:38 2015 Generator started
+Sun May  3 20:25:39 2015 Generator stopped
+
+Sun May  3 20:25:43 2015 Generator started
+Sun May  3 20:25:44 2015 Generator stopped
+
+Sun May  3 20:32:57 2015 Generator started
+Sun May  3 20:32:59 2015 Generator stopped
+
+Sun May  3 20:33:00 2015 Generator started
+Sun May  3 20:33:02 2015 Generator stopped
+
+Sun May  3 20:36:28 2015 Generator started
+Sun May  3 20:36:29 2015 Generator stopped
+
+Sun May  3 20:36:48 2015 Generator started
+Sun May  3 20:36:50 2015 Generator stopped
+
+Sun May  3 20:36:50 2015 Generator started
+Sun May  3 20:36:51 2015 Generator stopped
+
+Sun May  3 20:37:00 2015 Generator started
+Sun May  3 20:37:01 2015 Generator stopped
+
+Mon May  4 20:41:14 2015 Generator started
+Mon May  4 20:41:29 2015 TICK 00:15 Part STATIC with length 135 sec and transition free 
+Mon May  4 20:42:16 2015 <nextPart>
+Mon May  4 20:42:31 2015 TICK 01:17 Part LISPER with length 195 sec and transition hardcut 
+Mon May  4 20:45:46 2015 TICK 04:32 Part LAMENT with length 255 sec and transition free 
+Mon May  4 20:50:01 2015 TICK 08:47 Part END with length 315 sec and transition free 
+Mon May  4 20:54:14 2015 Generator stopped
+
+Mon May  4 21:41:11 2015 Generator started
+Mon May  4 21:41:26 2015 TICK 00:15 Part LISPER with length 195 sec and transition crossfade 
+Mon May  4 21:43:08 2015 Generator stopped
+
+Mon May  4 21:43:10 2015 Generator started
+Mon May  4 21:43:25 2015 TICK 00:14 Part LISPER with length 195 sec and transition crossfade 
+Mon May  4 21:46:40 2015 TICK 03:30 Part LAMENT with length 255 sec and transition crossfade 
+Mon May  4 21:49:18 2015 <nextPart>
+Mon May  4 21:49:33 2015 TICK 06:21 Part END with length 315 sec and transition free 
+Mon May  4 21:49:34 2015 Generator stopped
+
+Tue May  5 11:55:40 2015 Generator started
+Tue May  5 11:55:44 2015 Generator stopped
+
+Tue May  5 11:55:49 2015 Generator started
+Tue May  5 11:56:04 2015 TICK 00:15 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 11:56:04 2015 Generator stopped
+
+Tue May  5 11:56:13 2015 Generator started
+Tue May  5 11:56:28 2015 TICK 00:15 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 11:58:34 2015 <nextPart>
+Tue May  5 11:58:49 2015 TICK 02:35 Part HÄNDE with length 165 sec and transition free 
+Tue May  5 11:58:59 2015 Generator stopped
+
+Tue May  5 11:59:30 2015 Generator started
+Tue May  5 11:59:45 2015 TICK 00:14 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 12:00:52 2015 Generator stopped
+
+Tue May  5 12:01:14 2015 Generator started
+Tue May  5 12:01:29 2015 TICK 00:14 Part INTRO with length 75 sec and transition crossfade 
+Tue May  5 12:02:52 2015 Generator stopped
+
+Tue May  5 12:02:57 2015 Generator started
+Tue May  5 12:03:02 2015 TICK 00:04 Part INTRO with length 11 sec and transition hardcut 
+Tue May  5 12:03:09 2015 Generator stopped
+
+Tue May  5 12:03:11 2015 Generator started
+Tue May  5 12:03:16 2015 TICK 00:05 Part INTRO with length 11 sec and transition crossfade 
+Tue May  5 12:03:22 2015 Generator stopped
+
+Tue May  5 12:03:42 2015 Generator started
+Tue May  5 12:03:43 2015 Generator stopped
+
+Tue May  5 12:03:44 2015 Generator started
+Tue May  5 12:03:49 2015 TICK 00:04 Part INTRO with length 11 sec and transition crossfade 
+Tue May  5 12:04:02 2015 Generator stopped
+
+Tue May  5 12:04:09 2015 Generator started
+Tue May  5 12:04:24 2015 TICK 00:14 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 12:05:31 2015 <nextPart>
+Tue May  5 12:05:46 2015 TICK 01:36 Part HÄNDE with length 165 sec and transition hardcut 
+Tue May  5 12:05:59 2015 <nextPart>
+Tue May  5 12:06:14 2015 TICK 02:05 Part EDNAH with length 165 sec and transition hardcut 
+Tue May  5 12:08:29 2015 Generator stopped
+
+Tue May  5 12:09:44 2015 Generator started
+Tue May  5 12:09:51 2015 TICK 00:07 Part HÄNDE with length 20 sec and transition hardcut 
+Tue May  5 12:10:11 2015 TICK 00:26 Part EDNAH with length 20 sec and transition crossfade 
+Tue May  5 12:10:30 2015 Generator stopped
+
+Tue May  5 12:10:39 2015 Generator started
+Tue May  5 12:10:44 2015 TICK 00:05 Part INTRO with length 11 sec and transition crossfade 
+Tue May  5 12:10:55 2015 TICK 00:16 Part HÄNDE with length 20 sec and transition crossfade 
+Tue May  5 12:11:15 2015 TICK 00:36 Part EDNAH with length 20 sec and transition hardcut 
+Tue May  5 12:11:43 2015 TICK 01:04 Part PATTERNS with length 23 sec and transition crossfade 
+Tue May  5 12:12:06 2015 TICK 01:27 Part STATIC with length 17 sec and transition crossfade 
+Tue May  5 12:12:23 2015 TICK 01:44 Part LISPER with length 23 sec and transition hardcut 
+Tue May  5 12:12:25 2015 <nextPart>
+Tue May  5 12:12:27 2015 <cancelled>
+Tue May  5 12:12:27 2015 TICK 01:47 Part LISPER with length 14 sec and transition free 
+Tue May  5 12:12:29 2015 <nextPart>
+Tue May  5 12:12:33 2015 Generator stopped
+
+Tue May  5 12:12:37 2015 Generator started
+Tue May  5 12:12:52 2015 TICK 00:14 Part INTRO with length 75 sec and transition free 
+Tue May  5 12:13:35 2015 Generator stopped
+
+Tue May  5 12:16:15 2015 Generator started
+Tue May  5 12:16:16 2015 Generator stopped
+
+Tue May  5 12:16:20 2015 Generator started
+Tue May  5 12:16:21 2015 Generator stopped
+
+Tue May  5 12:17:27 2015 Generator started
+Tue May  5 12:17:42 2015 TICK 00:15 Part INTRO with length 75 sec and transition free 
+Tue May  5 12:18:06 2015 Generator stopped
+
+Tue May  5 12:18:22 2015 Generator started
+Tue May  5 12:18:23 2015 Generator stopped
+
+Tue May  5 12:18:29 2015 Generator started
+Tue May  5 12:18:37 2015 TICK 00:08 Part INTRO with length 11 sec and transition free 
+Tue May  5 12:18:48 2015 TICK 00:19 Part HÄNDE with length 20 sec and transition crossfade 
+Tue May  5 12:18:51 2015 Generator stopped
+
+Tue May  5 12:18:54 2015 Generator started
+Tue May  5 12:19:09 2015 TICK 00:15 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 12:19:17 2015 Generator stopped
+
+Tue May  5 12:20:51 2015 Generator started
+Tue May  5 12:21:06 2015 TICK 00:15 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 12:22:21 2015 TICK 01:30 Part HÄNDE with length 165 sec and transition free 
+Tue May  5 12:22:33 2015 <nextPart>
+Tue May  5 12:22:48 2015 TICK 01:57 Part EDNAH with length 165 sec and transition free 
+Tue May  5 12:24:10 2015 <nextPart>
+Tue May  5 12:24:25 2015 TICK 03:34 Part PATTERNS with length 195 sec and transition hardcut 
+Tue May  5 12:24:53 2015 Generator stopped
+
+Tue May  5 13:00:10 2015 Generator started
+Tue May  5 13:00:14 2015 Generator stopped
+
+Tue May  5 13:11:48 2015 Generator started
+Tue May  5 13:12:03 2015 TICK 00:15 Part INTRO with length 75 sec and transition crossfade 
+Tue May  5 13:13:18 2015 TICK 01:30 Part HÄNDE with length 165 sec and transition free 
+Tue May  5 13:16:03 2015 TICK 04:14 Part EDNAH with length 165 sec and transition crossfade 
+Tue May  5 13:17:25 2015 <nextPart>
+Tue May  5 13:17:40 2015 TICK 05:52 Part PATTERNS with length 195 sec and transition hardcut 
+Tue May  5 13:20:55 2015 TICK 09:07 Part STATIC with length 135 sec and transition hardcut 
+Tue May  5 13:23:10 2015 TICK 11:21 Part LISPER with length 195 sec and transition free 
+Tue May  5 13:26:25 2015 TICK 14:36 Part LAMENT with length 255 sec and transition free 
+Tue May  5 13:28:48 2015 <nextPart>
+Tue May  5 13:29:03 2015 TICK 17:15 Part END with length 315 sec and transition hardcut 
+Tue May  5 13:31:50 2015 <nextPart>
+Tue May  5 13:32:05 2015 TICK 20:16 Part END with length 315 sec and transition hardcut 
+Tue May  5 13:32:06 2015 Generator stopped
+
+Tue May  5 13:43:24 2015 Generator started
+Tue May  5 13:43:39 2015 TICK 00:15 Part INTRO with length 75 sec and transition free 
+Tue May  5 13:44:54 2015 TICK 01:30 Part HÄNDE with length 165 sec and transition crossfade 
+Tue May  5 13:47:18 2015 <nextPart>
+Tue May  5 13:47:33 2015 TICK 04:09 Part EDNAH with length 165 sec and transition free 
+Tue May  5 13:49:01 2015 <nextPart>
+Tue May  5 13:49:16 2015 TICK 05:52 Part PATTERNS with length 195 sec and transition free 
+Tue May  5 13:52:31 2015 TICK 09:06 Part STATIC with length 135 sec and transition free 
+Tue May  5 13:54:46 2015 TICK 11:22 Part LISPER with length 195 sec and transition hardcut 
+Tue May  5 13:58:01 2015 TICK 14:36 Part LAMENT with length 255 sec and transition hardcut 
+Tue May  5 14:00:59 2015 <nextPart>
+Tue May  5 14:01:14 2015 TICK 17:50 Part END with length 315 sec and transition free 
+Tue May  5 14:01:39 2015 Generator stopped
+
+Tue May  5 15:10:39 2015 Generator started
+Tue May  5 15:10:43 2015 <cancelled>
+Tue May  5 15:10:43 2015 TICK 00:03 Part INTRO with length 75 sec and transition free 
+Tue May  5 15:10:44 2015 <nextPart>
+Tue May  5 15:10:59 2015 TICK 00:20 Part INTRO with length 75 sec and transition crossfade 
+Tue May  5 15:11:16 2015 Generator stopped
+
+Tue May  5 15:15:58 2015 Generator started
+Tue May  5 15:16:13 2015 TICK 00:14 Part INTRO with length 75 sec and transition hardcut 
+Tue May  5 15:17:28 2015 TICK 01:29 Part HÄNDE with length 165 sec and transition free 
+Tue May  5 15:19:36 2015 <nextPart>
+Tue May  5 15:19:51 2015 TICK 03:53 Part EDNAH with length 165 sec and transition free 
+Tue May  5 15:21:29 2015 <nextPart>
+Tue May  5 15:21:44 2015 TICK 05:45 Part PATTERNS with length 195 sec and transition crossfade 
+Tue May  5 15:24:59 2015 TICK 09:01 Part STATIC with length 135 sec and transition hardcut 
+Tue May  5 15:27:14 2015 TICK 11:15 Part LISPER with length 195 sec and transition free 
+Tue May  5 15:30:29 2015 TICK 14:31 Part LAMENT with length 255 sec and transition crossfade 
+Tue May  5 15:34:44 2015 TICK 18:46 Part END with length 315 sec and transition free 
+Tue May  5 15:36:00 2015 <nextPart>
+Tue May  5 15:36:06 2015 Generator stopped
+
+Tue May  5 15:41:55 2015 Generator started
+Tue May  5 15:42:10 2015 TICK 00:14 Part INTRO with length 75 sec and transition free 
+Tue May  5 15:43:25 2015 TICK 01:29 Part HÄNDE with length 165 sec and transition crossfade 
+Tue May  5 15:45:34 2015 <nextPart>
+Tue May  5 15:45:49 2015 TICK 03:54 Part EDNAH with length 165 sec and transition free 
+Tue May  5 15:47:23 2015 <nextPart>
+Tue May  5 15:47:38 2015 TICK 05:43 Part PATTERNS with length 195 sec and transition free 
+Tue May  5 15:50:53 2015 TICK 08:57 Part STATIC with length 170 sec and transition crossfade 
+Tue May  5 15:53:43 2015 TICK 11:48 Part LISPER with length 195 sec and transition crossfade 
+Tue May  5 15:56:58 2015 TICK 15:03 Part LAMENT with length 255 sec and transition free 
+Tue May  5 16:01:13 2015 TICK 19:18 Part END with length 315 sec and transition free 
+Tue May  5 16:01:56 2015 <nextPart>
+Tue May  5 16:02:11 2015 TICK 20:15 Part END with length 315 sec and transition hardcut 
+Tue May  5 16:02:12 2015 Generator stopped
+
+Wed Jun  3 11:19:13 2015 Generator started
+Wed Jun  3 11:19:28 2015 TICK 00:14 Part INTRO with length 105 sec and transition hardcut 
+Wed Jun  3 11:19:29 2015 Generator stopped
+
+Wed Jun  3 11:19:30 2015 Generator started
+Wed Jun  3 11:19:45 2015 TICK 00:14 Part INTRO with length 105 sec and transition crossfade 
+Wed Jun  3 11:21:30 2015 TICK 01:59 Part HÄNDE with length 165 sec and transition hardcut 
+Wed Jun  3 11:21:34 2015 Generator stopped
+
+Wed Jun  3 11:21:43 2015 Generator started
+Wed Jun  3 11:21:58 2015 TICK 00:14 Part INTRO with length 105 sec and transition free 
+Wed Jun  3 11:23:43 2015 TICK 02:00 Part HÄNDE with length 165 sec and transition free 
+Wed Jun  3 11:23:55 2015 <nextPart>
+Wed Jun  3 11:24:04 2015 <cancelled>
+Wed Jun  3 11:24:04 2015 TICK 02:20 Part HÄNDE with length 90 sec and transition hardcut 
+Wed Jun  3 11:24:19 2015 Generator stopped
+
+Wed Jun  3 11:24:39 2015 Generator started
+Wed Jun  3 11:24:54 2015 TICK 00:15 Part INTRO with length 90 sec and transition free 
+Wed Jun  3 11:26:24 2015 TICK 01:45 Part HÄNDE with length 165 sec and transition hardcut 
+Wed Jun  3 11:26:27 2015 <nextPart>
+Wed Jun  3 11:26:42 2015 TICK 02:03 Part EDNAH with length 165 sec and transition free 
+Wed Jun  3 11:27:55 2015 <nextPart>
+Wed Jun  3 11:28:10 2015 TICK 03:31 Part PATTERNS with length 195 sec and transition hardcut 
+Wed Jun  3 11:29:22 2015 <nextPart>
+Wed Jun  3 11:29:37 2015 TICK 04:58 Part STATIC with length 170 sec and transition hardcut 
+Wed Jun  3 11:29:55 2015 <nextPart>
+Wed Jun  3 11:30:10 2015 TICK 05:31 Part LISPER with length 195 sec and transition hardcut 
+Wed Jun  3 11:30:54 2015 <nextPart>
+Wed Jun  3 11:30:58 2015 Generator stopped
+
+Wed Jun  3 11:45:01 2015 Generator started
+Wed Jun  3 11:45:06 2015 TICK 00:05 Part INTRO with length 13 sec and transition free 
+Wed Jun  3 11:45:13 2015 <nextPart>
+Wed Jun  3 11:45:18 2015 TICK 00:17 Part HÄNDE with length 20 sec and transition hardcut 
+Wed Jun  3 11:45:20 2015 <nextPart>
+Wed Jun  3 11:45:25 2015 TICK 00:24 Part EDNAH with length 20 sec and transition crossfade 
+Wed Jun  3 11:45:29 2015 <nextPart>
+Wed Jun  3 11:45:34 2015 TICK 00:32 Part PATTERNS with length 23 sec and transition hardcut 
+Wed Jun  3 11:45:43 2015 <nextPart>
+Wed Jun  3 11:45:48 2015 TICK 00:47 Part STATIC with length 21 sec and transition free 
+Wed Jun  3 11:46:09 2015 TICK 01:08 Part LISPER with length 23 sec and transition hardcut 
+Wed Jun  3 11:46:32 2015 TICK 01:31 Part LAMENT with length 29 sec and transition crossfade 
+Wed Jun  3 11:47:01 2015 TICK 01:59 Part END with length 35 sec and transition free 
+Wed Jun  3 11:47:36 2015 TICK 02:35 Part INTRO with length 13 sec and transition hardcut 
+Wed Jun  3 11:47:49 2015 TICK 02:47 Part HÄNDE with length 20 sec and transition crossfade 
+Wed Jun  3 11:48:09 2015 TICK 03:07 Part EDNAH with length 20 sec and transition crossfade 
+Wed Jun  3 11:48:29 2015 TICK 03:28 Part PATTERNS with length 23 sec and transition hardcut 
+Wed Jun  3 11:48:52 2015 TICK 03:51 Part STATIC with length 21 sec and transition hardcut 
+Wed Jun  3 11:49:13 2015 TICK 04:11 Part LISPER with length 23 sec and transition crossfade 
+Wed Jun  3 11:49:36 2015 TICK 04:34 Part LAMENT with length 29 sec and transition crossfade 
+Wed Jun  3 11:50:05 2015 TICK 05:04 Part END with length 35 sec and transition free 
+Wed Jun  3 11:50:40 2015 TICK 05:38 Part INTRO with length 13 sec and transition hardcut 
+Wed Jun  3 11:50:53 2015 TICK 05:52 Part HÄNDE with length 20 sec and transition free 
+Wed Jun  3 11:51:13 2015 TICK 06:12 Part EDNAH with length 20 sec and transition crossfade 
+Wed Jun  3 11:51:33 2015 TICK 06:32 Part PATTERNS with length 23 sec and transition crossfade 
+Wed Jun  3 11:51:56 2015 TICK 06:55 Part STATIC with length 21 sec and transition crossfade 
+Wed Jun  3 11:52:17 2015 TICK 07:16 Part LISPER with length 23 sec and transition hardcut 
+Wed Jun  3 11:52:40 2015 TICK 07:39 Part LAMENT with length 29 sec and transition hardcut 
+Wed Jun  3 11:53:09 2015 TICK 08:07 Part END with length 35 sec and transition hardcut 
+Wed Jun  3 11:53:44 2015 TICK 08:43 Part INTRO with length 13 sec and transition crossfade 
+Wed Jun  3 11:53:57 2015 TICK 08:56 Part HÄNDE with length 20 sec and transition crossfade 
+Wed Jun  3 11:54:17 2015 TICK 09:15 Part EDNAH with length 20 sec and transition crossfade 
+Wed Jun  3 11:54:20 2015 Generator stopped
+
+Wed Jun  3 11:58:16 2015 Generator started
+Wed Jun  3 11:58:21 2015 TICK 00:04 Part INTRO with length 13 sec and transition crossfade 
+Wed Jun  3 11:58:23 2015 <nextPart>
+Wed Jun  3 11:58:28 2015 TICK 00:12 Part HÄNDE with length 20 sec and transition crossfade 
+Wed Jun  3 11:58:30 2015 <nextPart>
+Wed Jun  3 11:58:35 2015 Generator stopped
+
+Wed Jun  3 11:58:55 2015 Generator started
+Wed Jun  3 11:58:58 2015 Generator stopped
+
+Wed Jun  3 11:59:07 2015 Generator started
+Wed Jun  3 11:59:12 2015 TICK 00:05 Part PATTERNS with length 23 sec and transition hardcut 
+Wed Jun  3 11:59:15 2015 <nextPart>
+Wed Jun  3 11:59:20 2015 TICK 00:12 Part STATIC with length 21 sec and transition crossfade 
+Wed Jun  3 11:59:26 2015 Generator stopped
+
+Wed Jun  3 12:00:07 2015 Generator started
+Wed Jun  3 12:00:22 2015 TICK 00:14 Part INTRO with length 90 sec and transition hardcut 
+Wed Jun  3 12:00:32 2015 <nextPart>
+Wed Jun  3 12:00:37 2015 TICK 00:30 Part HÄNDE with length 20 sec and transition hardcut 
+Wed Jun  3 12:00:39 2015 <nextPart>
+Wed Jun  3 12:00:44 2015 TICK 00:37 Part EDNAH with length 20 sec and transition hardcut 
+Wed Jun  3 12:00:50 2015 <nextPart>
+Wed Jun  3 12:01:05 2015 TICK 00:58 Part PATTERNS with length 195 sec and transition hardcut 
+Wed Jun  3 12:01:09 2015 <nextPart>
+Wed Jun  3 12:01:24 2015 TICK 01:17 Part STATIC with length 170 sec and transition free 
+Wed Jun  3 12:01:28 2015 <nextPart>
+Wed Jun  3 12:01:43 2015 TICK 01:36 Part LISPER with length 195 sec and transition hardcut 
+Wed Jun  3 12:01:44 2015 Generator stopped
+
+Wed Jun  3 12:04:01 2015 Generator started
+Wed Jun  3 12:04:03 2015 Generator stopped
+
+Wed Jun  3 12:04:07 2015 Generator started
+Wed Jun  3 12:04:12 2015 TICK 00:05 Part PATTERNS with length 23 sec and transition hardcut 
+Wed Jun  3 12:04:15 2015 <nextPart>
+Wed Jun  3 12:04:20 2015 TICK 00:13 Part STATIC with length 21 sec and transition free 
+Wed Jun  3 12:04:25 2015 Generator stopped
+
+Fri Jun  5 17:51:10 2015 Generator started
+Fri Jun  5 17:51:25 2015 TICK 00:15 Part INTRO with length 90 sec and transition hardcut 
+Fri Jun  5 17:51:28 2015 Generator stopped
+
+Fri Jun  5 18:18:35 2015 Generator started
+Fri Jun  5 18:18:50 2015 TICK 00:14 Part INTRO with length 90 sec and transition crossfade 
+Fri Jun  5 18:20:20 2015 TICK 01:45 Part HÄNDE with length 165 sec and transition free 
+Fri Jun  5 18:22:29 2015 <nextPart>
+Fri Jun  5 18:22:44 2015 TICK 04:09 Part EDNAH with length 165 sec and transition crossfade 
+Fri Jun  5 18:24:03 2015 <nextPart>
+Fri Jun  5 18:24:18 2015 TICK 05:43 Part PATTERNS with length 195 sec and transition hardcut 
+Fri Jun  5 18:27:33 2015 TICK 08:57 Part STATIC with length 170 sec and transition hardcut 
+Fri Jun  5 18:30:23 2015 TICK 11:47 Part LISPER with length 195 sec and transition crossfade 
+Fri Jun  5 18:33:38 2015 TICK 15:02 Part LAMENT with length 255 sec and transition free 
+Fri Jun  5 18:37:53 2015 TICK 19:17 Part END with length 315 sec and transition hardcut 
+Fri Jun  5 18:38:36 2015 <nextPart>
+Fri Jun  5 18:38:51 2015 TICK 20:14 Part END with length 315 sec and transition free 
+Fri Jun  5 18:38:52 2015 Generator stopped
+
+Fri Jun  5 18:45:47 2015 Generator started
+Fri Jun  5 18:46:02 2015 TICK 00:14 Part PATTERNS with length 195 sec and transition hardcut 
+Fri Jun  5 18:49:03 2015 <cancelled>
+Fri Jun  5 18:49:03 2015 TICK 03:15 Part PATTERNS with length 105 sec and transition free 
+Fri Jun  5 18:49:05 2015 <nextPart>
+Fri Jun  5 18:49:20 2015 TICK 03:32 Part STATIC with length 170 sec and transition hardcut 
+Fri Jun  5 18:52:10 2015 TICK 06:22 Part LISPER with length 195 sec and transition free 
+Fri Jun  5 18:55:25 2015 TICK 09:37 Part LAMENT with length 255 sec and transition crossfade 
+Fri Jun  5 18:59:24 2015 Generator stopped
+
+Fri Jun  5 21:19:04 2015 Generator started
+Fri Jun  5 21:19:19 2015 TICK 00:15 Part INTRO with length 90 sec and transition free 
+Fri Jun  5 21:20:49 2015 TICK 01:45 Part HÄNDE with length 165 sec and transition hardcut 
+Fri Jun  5 21:22:41 2015 <nextPart>
+Fri Jun  5 21:22:56 2015 TICK 03:51 Part EDNAH with length 165 sec and transition free 
+Fri Jun  5 21:24:23 2015 <nextPart>
+Fri Jun  5 21:24:38 2015 TICK 05:33 Part PATTERNS with length 195 sec and transition free 
+Fri Jun  5 21:27:53 2015 TICK 08:49 Part STATIC with length 170 sec and transition crossfade 
+Fri Jun  5 21:30:43 2015 TICK 11:39 Part LISPER with length 195 sec and transition crossfade 
+Fri Jun  5 21:33:58 2015 TICK 14:53 Part LAMENT with length 255 sec and transition free 
+Fri Jun  5 21:38:13 2015 TICK 19:09 Part END with length 315 sec and transition crossfade 
+Fri Jun  5 21:39:05 2015 <nextPart>
+Fri Jun  5 21:39:20 2015 TICK 20:14 Part END with length 315 sec and transition hardcut 
+Fri Jun  5 21:39:21 2015 Generator stopped
+
+Sat Jun  6 13:38:57 2015 Generator started
+Sat Jun  6 13:39:12 2015 TICK 00:15 Part LISPER with length 195 sec and transition free 
+Sat Jun  6 13:41:48 2015 <nextPart>
+Sat Jun  6 13:42:03 2015 TICK 03:06 Part LAMENT with length 255 sec and transition hardcut 
+Sat Jun  6 13:45:34 2015 Generator stopped
+
+Sat Jun  6 13:49:03 2015 Generator started
+Sat Jun  6 13:49:04 2015 Generator stopped
+
+Sat Jun  6 14:20:42 2015 Generator started
+Sat Jun  6 14:20:57 2015 TICK 00:15 Part LISPER with length 195 sec and transition hardcut 
+Sat Jun  6 14:23:25 2015 <nextPart>
+Sat Jun  6 14:23:40 2015 TICK 02:57 Part LAMENT with length 255 sec and transition free 
+Sat Jun  6 14:27:29 2015 Generator stopped

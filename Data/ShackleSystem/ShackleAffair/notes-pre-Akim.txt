@@ -1,0 +1,132 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+[grounded drones]
+
+blue11 / joy3 lowdrone
+blue1 / synth TBall
+LV1.4 (amawavseq2) / B-F-D LPK prg3
+
+<*BOLT>
+[hectic fast changes]
+
+LV2.4 (rain) / green8 (arp25)
+green1 / green2
+blue12 (MOROS)
+
+<*BOW>
+[sustained and airy]
+
+LV1.2 (ambient) / blue11 (amplow)
+LV2.8 (s3) / LV2.7(MOROS)
+SK prg4 shift
+
+<*CHAIN>
+[solo and accompaniment]
+
+<*CHOICE>
+[voice]
+
+blue6 (belief)
+ch6 ultrashort / zone8 / bufcopy
+breakup and sample Anne's voice
+
+<*CLIP>
+[broken beats] 
+
+LV2.1 (studio1) joy LPF/HPF
+LV2.2 (gaffer)
+blue10 (plankje thonk)
+
+<*CUFF>
+[circular breath, constrained noise]
+
+blue9 (arp) / blue11 (amplow)
+green10 (gitaarruis)
+
+<*EYE>
+[sines]
+
+LV1.3 (BoC2 A97) met reverb/delay
+LPK hoge noten
+LV2.7 (MOROS)
+
+<*FORGE>
+[clicks & pops]
+
+dynrec pops Anne counter rhythms
+green9 joyLPF / joyHPF
+joy3 synth drone
+
+<*IMAGINE>
+[pianissimo]
+
+<*LIMIT>
+[hot noise, piccolo] 
+
+green11
+LV1.1 (loop@3zones)
+
+<*LOOP>
+[loops]
+
+<*PIN>
+[choppy]
+
+blue4 (glas&lepel) / LV1.7 (plkje)
+LV2.2 (gaffer) / LV2.5 (trapper)
+
+<*RIG>
+[D minor David Lynch, subtle clean]
+
+blue5 (mel310) short zone2 loop
+LPK high A-Bes-D-E-F
+later: live sampling 1-op-1 dynrec pitch
+
+<*SCREW>
+[glissandi]
+
+LV1.4 (amawav) zone4
+zone3 ampmod pitch
+resample dynrec2&3 pitch down
+
+<*SHACKLE>
+[free improv]
+
+green 9 / 11 (MOROS)
+LV2.6 / LV2.7 (MOROS)
+SK prg4 shift
+
+<*SNAP>
+[short statements]
+
+blue12 (MOR) / LV1.8 (snare) / green6
+ch6 short (BB/BB2/SP)
+
+<*THIMBLE>
+[fast and dense, rough noisy noodle]
+
+blue3 (mort/speeldoos)
+green4 (LPcracklebuf)
+
+<*TORQUE>
+[sustained spit, piccolo]
+
+TBall joy4 / sample Anne spit
+ch6 short (joy9 & joy5 & joy2)
+ch2 dist/filter low drone
+
+<*TWIST>
+[unpredictable silences]
+
+<*ZIPPER>
+[melody]
+
+<*END>
+
++++
+
+
+

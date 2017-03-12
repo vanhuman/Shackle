@@ -1,0 +1,78 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*BAR>
+[drifting drone] 
+
+live sample Sauer, decimate
+LV1.5 / 1.6 : zone 2 & 4 pitchbend 
+SK prg4 left4
+
+<*FETTER>
+[free and wild] 
+
+live sample Sauer & flute
+add noiseFollower to Sauer
+green4
+
+<*TRAMMEL>
+[a song]
+
+subtle pitchFollower on flute  
+sample flute with SK prg4
+
+<*CURB>
+[quiet, mechanical] 
+
+live sampling 
+LV1.8 : zone2 & LV2.6 / LV2.8 : joy 
+decimate efx
+
+<*BILBOES>
+[airy brooding whisper]  
+ 
+sampling chest organ and flute
+blue2.2 / blue2.3 : zone3 HPF (whisper)
+ 
+<*CRCKDWN>
+[David Lynch]
+
+G7 NO 3rd
+SK prg1 low soft G only
+
+<*HOG-TIE>
+[big sound]
+-- Robert interrupts and solo --
+LV2.5 / LV2.8 / green8
+noiseFollower 
+live sampling Sauer & flute
+
+<*TETHER>
+[noisy noodle]
+
+SK prg4 right 1&2
+one octave lower C D F / CC# DD# FF#
+starting soft sometimes taking over
+
+<*YOKE>
+[PJ Harvey] 
+
+blue2.1 : zone3 & decimate
+LV2.1 : zone2 & 4 & joy
+-- SWITCH OFF Sauer Hold at the end --
+
+<*HALTER>
+[heavy metal drone] 
+-- SWITCH OFF Sauer Hold -- 
+SK prg3 Bm (mainly B-D), decimate
+towards end LPF
+END on cue Dominik
+
+<*END>
+ make an ending
+ 
++++
+
+
+

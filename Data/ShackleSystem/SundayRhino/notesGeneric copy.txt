@@ -1,0 +1,45 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*INTRO>
+[ INTRO - Cmmaj7 ]
+laptop solo: 
+drones and Sauer organ notes 
+
+<*H€NDE>
+[ HANDE ]
+voice and Verschuren organ:
+In Deine Hande from the balcony
+
+<*EDNAH>
+[ EDNAH ]
+laptop solo:
+reverse version In Deine Hande
+
+<*PATTERNS>
+[ PATTERNS ]
+laptop: pulse
+voice and Chest: PATTERNS score
+
+<*STATIC>
+[ STATIC - Gmmaj7 ]
+cello, voice & Sauer: long notes 
+laptop: live sampling
+ 
+<*LISPER>
+[ LISPER ]
+voice & Sauer: LISPER score
+laptop: live sampling
+
+<*LAMENT>
+[ LAMENT - Cm7 ]
+cello, voice & Sauer: LAMENT score
+laptop: joystick action
+
+<*END>
+ 
++++
+
+
+

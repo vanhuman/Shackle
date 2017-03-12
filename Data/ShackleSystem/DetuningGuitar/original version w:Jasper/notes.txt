@@ -1,0 +1,95 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*PATTERN>
+alternate fast tremolo and patterns
+
+dynrec short
+play MPK SaKeys pattern
+
+<*STUMBLE>
+stumbling beat
+~detune 6th
+
+reverb (efx b2-1)
+subtle dynrec only Right Speaker
+
+<*SLOGRO>
+slow groove guitar + solo laptop
+~detune 2nd
+
+joystick solo blue3-10
+first Oct/HPF later pitchshift
+
+<*FASGRO>
+fast groove laptop + solo guitar
+~detune 3rd
+
+first zone2-3vox
+then MPK SaKeys -1 (hatsw back)
+
+<*RIPP>
+improvise on Don't Care riff
+~detune 4th
+
+first decimate then
+break apart MPK SaKeys short/joy
+
+<*RATTLE>
+detune 6th string very low
+
+zone8 fast pattern & zone3
+
+<*SCRATCH>
+scratching sounds
+
+zone8 & dynrec pitch
+
+<*SLIDE>
+slide using a slide
+~detune 5th
+
+dynrec pitch
+
+<*VIBRA>
+big vibrato
+~detune 1st string
+
+tremolo efx b1-2
+zone3 HPF
+
+<*BOLT>
+metal objects preparation
+
+MPK SaKeys -1oct
+
+<*JML>
+play faster than you can
+
+solo guitar
+
+<*FLAG>
+breinaald, strijkstok & pitch bend
+
+dynrec pitch down
+
+<*FUNERAL>
+funeral march
+
+MPK notes
+E for tuning
+B-Bes-A-G-Ges
+
+<*STONE>
+rubbing stone on strings
+
+MPK SaKeys (hatsw left) melodie
+
+<*END>
+ make an ending
+
++++
+
+
+

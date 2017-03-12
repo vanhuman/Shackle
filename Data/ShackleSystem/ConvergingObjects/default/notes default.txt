@@ -1,0 +1,89 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*ANCHOR>
+ANCHOR:
+Low frequencies
+Grounded
+
+<*BOLT>
+BOLT:
+Fast staccato
+Live sampling
+
+<*CUFF>
+CUFF:
+Voice, text
+
+<*FORGE>
+FORGE:
+Clusters around F
+
+<*LOOP>
+LOOP:
+Loops
+
+<*PIN>
+PIN:
+Short sounds, long pauses
+Sparse
+
+<*RIG>
+RIG:
+Dancing
+
+<*SCREW>
+SCREW:
+Glissandi
+
+<*THIMBLE>
+THIMBLE: 
+Slow air
+Subtle percussion
+ 
+<*TORQUE>
+TORQUE:
+Wall of sound
+
+<*DUO>
+DUO:
+Random duo
+Electronic vs. acoustic
+
+<*CIRCLE>
+CIRCLE:
+A circle of solo/duo improv
+
+<*BOLT>
+BOLT ACOUSTIC:
+Fast staccato, live sampling
+
+<*THIMBLE>
+THIMBLE ACOUSTIC:
+Slow air, subtle percussion
+
+<*PIN>
+PIN ELECTRONIC:
+Short sounds, long pauses
+Sparse
+
+<*RIG>
+RIG ELECTRONIC:
+Dancing
+
+<*LOOP>
+LOOP ACOUSTIC:
+Play loops
+
+<*FORGE>
+FORGE ELECTRONIC:
+Clusters around F
+
+<*END>
+END: Make an ending
+
++++
+
+
+

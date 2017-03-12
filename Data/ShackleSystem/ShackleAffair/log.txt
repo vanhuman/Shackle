@@ -1,0 +1,2386 @@
+
+Tue Feb 10 09:46:49 2015 Generator started
+Tue Feb 10 09:46:54 2015 TICK 00:05 Part CHAIN with length 21 sec and transition crossfade 
+Tue Feb 10 09:46:59 2015 <nextPart>
+Tue Feb 10 09:47:02 2015 <cancelled>
+Tue Feb 10 09:47:02 2015 TICK 00:13 Part CHAIN with length 9 sec and transition free 
+Tue Feb 10 09:47:03 2015 <nextPart>
+Tue Feb 10 09:47:05 2015 <cancelled>
+Tue Feb 10 09:47:05 2015 TICK 00:16 Part CHAIN with length 11 sec and transition hardcut 
+Tue Feb 10 09:47:06 2015 Generator stopped
+
+Tue Feb 10 09:50:47 2015 Generator started
+Tue Feb 10 09:50:52 2015 TICK 00:04 Part ANCHOR with length 26 sec and transition crossfade 
+Tue Feb 10 09:50:54 2015 <nextPart>
+Tue Feb 10 09:50:59 2015 TICK 00:11 Part SHACKLE with length 26 sec and transition hardcut 
+Tue Feb 10 09:51:09 2015 Generator stopped
+
+Tue Feb 10 12:04:18 2015 Generator started
+Tue Feb 10 12:04:23 2015 TICK 00:05 Part PIN with length 15 sec and transition crossfade 
+Tue Feb 10 12:04:35 2015 <cancelled>
+Tue Feb 10 12:04:35 2015 TICK 00:17 Part PIN with length 9 sec and transition hardcut 
+Tue Feb 10 12:04:44 2015 TICK 00:26 Part BOLT with length 13 sec and transition free 
+Tue Feb 10 12:04:57 2015 TICK 00:39 Part THIMBLE with length 24 sec and transition hardcut 
+Tue Feb 10 12:05:21 2015 TICK 01:03 Part CLIP with length 10 sec and transition hardcut 
+Tue Feb 10 12:05:31 2015 TICK 01:13 Part ZIPPER with length 29 sec and transition hardcut 
+Tue Feb 10 12:06:00 2015 TICK 01:42 Part SCREW with length 20 sec and transition free 
+Tue Feb 10 12:06:05 2015 Generator stopped
+
+Tue Feb 10 20:00:45 2015 Generator started
+Tue Feb 10 20:00:50 2015 TICK 00:05 Part CLIP with length 9 sec and transition hardcut 
+Tue Feb 10 20:00:56 2015 Generator stopped
+
+Tue Feb 10 20:01:17 2015 Generator started
+Tue Feb 10 20:01:22 2015 TICK 00:05 Part CHOICE with length 15 sec and transition hardcut 
+Tue Feb 10 20:01:37 2015 TICK 00:19 Part CLIP with length 12 sec and transition crossfade 
+Tue Feb 10 20:01:39 2015 <nextPart>
+Tue Feb 10 20:01:44 2015 TICK 00:26 Part PIN with length 13 sec and transition free 
+Tue Feb 10 20:01:50 2015 <nextPart>
+Tue Feb 10 20:01:55 2015 TICK 00:38 Part CUFF with length 17 sec and transition free 
+Tue Feb 10 20:02:10 2015 <cancelled>
+Tue Feb 10 20:02:10 2015 TICK 00:53 Part CUFF with length 8 sec and transition crossfade 
+Tue Feb 10 20:02:13 2015 <nextPart>
+Tue Feb 10 20:02:17 2015 <cancelled>
+Tue Feb 10 20:02:17 2015 TICK 01:00 Part CUFF with length 12 sec and transition crossfade 
+Tue Feb 10 20:02:29 2015 TICK 01:09 Part ZIPPER with length 31 sec and transition free 
+Tue Feb 10 20:02:31 2015 <nextPart>
+Tue Feb 10 20:02:36 2015 TICK 01:13 Part END with length 35 sec and transition free 
+Tue Feb 10 20:02:37 2015 Generator stopped
+
+Tue Feb 10 20:03:55 2015 Generator started
+Tue Feb 10 20:04:00 2015 TICK 00:04 Part TORQUE with length 15 sec and transition hardcut 
+Tue Feb 10 20:04:06 2015 Generator stopped
+
+Tue Feb 10 20:08:21 2015 Generator started
+Tue Feb 10 20:08:22 2015 Generator stopped
+
+Tue Feb 10 20:08:40 2015 Generator started
+Tue Feb 10 20:08:45 2015 TICK 00:04 Part THIMBLE with length 24 sec and transition hardcut 
+Tue Feb 10 20:08:53 2015 <nextPart>
+Tue Feb 10 20:08:56 2015 <cancelled>
+Tue Feb 10 20:08:56 2015 TICK 00:15 Part THIMBLE with length 11 sec and transition free 
+Tue Feb 10 20:09:00 2015 <nextPart>
+Tue Feb 10 20:09:05 2015 TICK 00:24 Part ANCHOR with length 26 sec and transition free 
+Tue Feb 10 20:09:15 2015 Generator stopped
+
+Tue Feb 10 20:11:18 2015 Generator started
+Tue Feb 10 20:11:23 2015 TICK 00:04 Part FORGE with length 18 sec and transition hardcut 
+Tue Feb 10 20:11:27 2015 <nextPart>
+Tue Feb 10 20:11:32 2015 TICK 00:13 Part CUFF with length 14 sec and transition free 
+Tue Feb 10 20:11:34 2015 <nextPart>
+Tue Feb 10 20:11:37 2015 <cancelled>
+Tue Feb 10 20:11:37 2015 TICK 00:18 Part CUFF with length 11 sec and transition free 
+Tue Feb 10 20:11:44 2015 <cancelled>
+Tue Feb 10 20:11:44 2015 TICK 00:25 Part CUFF with length 9 sec and transition free 
+Tue Feb 10 20:11:48 2015 <nextPart>
+Tue Feb 10 20:11:53 2015 TICK 00:34 Part ZIPPER with length 30 sec and transition free 
+Tue Feb 10 20:11:54 2015 Generator stopped
+
+Wed Feb 11 13:36:08 2015 Generator started
+Wed Feb 11 13:36:13 2015 TICK 00:04 Part CHOICE with length 15 sec and transition free 
+Wed Feb 11 13:36:20 2015 <nextPart>
+Wed Feb 11 13:36:25 2015 TICK 00:17 Part BOLT with length 16 sec and transition hardcut 
+Wed Feb 11 13:36:39 2015 Generator stopped
+
+Wed Feb 11 13:36:45 2015 Generator started
+Wed Feb 11 13:36:47 2015 Generator stopped
+
+Wed Feb 11 13:37:05 2015 Generator started
+Wed Feb 11 13:37:10 2015 TICK 00:04 Part FORGE with length 21 sec and transition crossfade 
+Wed Feb 11 13:37:12 2015 <nextPart>
+Wed Feb 11 13:37:17 2015 TICK 00:11 Part TORQUE with length 19 sec and transition free 
+Wed Feb 11 13:37:23 2015 <nextPart>
+Wed Feb 11 13:37:28 2015 TICK 00:22 Part THIMBLE with length 19 sec and transition free 
+Wed Feb 11 13:37:47 2015 TICK 00:42 Part LOOP with length 18 sec and transition free 
+Wed Feb 11 13:38:05 2015 TICK 01:00 Part ZIPPER with length 19 sec and transition hardcut 
+Wed Feb 11 13:38:08 2015 <nextPart>
+Wed Feb 11 13:38:13 2015 TICK 01:08 Part CUFF with length 15 sec and transition free 
+Wed Feb 11 13:38:28 2015 TICK 01:22 Part PIN with length 15 sec and transition crossfade 
+Wed Feb 11 13:38:43 2015 TICK 01:38 Part SNAP with length 13 sec and transition crossfade 
+Wed Feb 11 13:38:47 2015 <nextPart>
+Wed Feb 11 13:38:52 2015 TICK 01:47 Part LIMIT with length 18 sec and transition crossfade 
+Wed Feb 11 13:39:10 2015 TICK 02:04 Part FORGE with length 22 sec and transition hardcut 
+Wed Feb 11 13:39:22 2015 <nextPart>
+Wed Feb 11 13:39:27 2015 TICK 02:22 Part SCREW with length 25 sec and transition hardcut 
+Wed Feb 11 13:39:52 2015 TICK 02:47 Part SHACKLE with length 9 sec and transition crossfade 
+Wed Feb 11 13:40:01 2015 TICK 02:55 Part ZIPPER with length 22 sec and transition crossfade 
+Wed Feb 11 13:40:23 2015 TICK 03:18 Part FORGE with length 25 sec and transition free 
+Wed Feb 11 13:40:48 2015 TICK 03:43 Part CUFF with length 17 sec and transition crossfade 
+Wed Feb 11 13:40:58 2015 <nextPart>
+Wed Feb 11 13:40:59 2015 <cancelled>
+Wed Feb 11 13:40:59 2015 TICK 03:54 Part CUFF with length 9 sec and transition crossfade 
+Wed Feb 11 13:41:03 2015 <nextPart>
+Wed Feb 11 13:41:08 2015 <cancelled>
+Wed Feb 11 13:41:08 2015 TICK 04:02 Part CUFF with length 12 sec and transition hardcut 
+Wed Feb 11 13:41:13 2015 <nextPart>
+Wed Feb 11 13:41:18 2015 TICK 04:12 Part THIMBLE with length 13 sec and transition free 
+Wed Feb 11 13:41:31 2015 TICK 04:25 Part CUFF with length 17 sec and transition free 
+Wed Feb 11 13:41:48 2015 TICK 04:42 Part BOW with length 21 sec and transition crossfade 
+Wed Feb 11 13:42:02 2015 <nextPart>
+Wed Feb 11 13:42:07 2015 TICK 05:01 Part SHACKLE with length 21 sec and transition crossfade 
+Wed Feb 11 13:42:28 2015 TICK 05:22 Part PIN with length 15 sec and transition crossfade 
+Wed Feb 11 13:42:30 2015 Generator stopped
+
+Wed Feb 11 13:42:32 2015 Generator started
+Wed Feb 11 13:42:37 2015 TICK 00:05 Part BOW with length 19 sec and transition free 
+Wed Feb 11 13:42:40 2015 <nextPart>
+Wed Feb 11 13:42:41 2015 <cancelled>
+Wed Feb 11 13:42:41 2015 TICK 00:09 Part BOW with length 109 sec and transition hardcut 
+Wed Feb 11 13:43:04 2015 <nextPart>
+Wed Feb 11 13:43:06 2015 Generator stopped
+
+Wed Feb 11 13:43:29 2015 Generator started
+Wed Feb 11 13:43:32 2015 Generator stopped
+
+Wed Feb 11 13:43:57 2015 Generator started
+Wed Feb 11 13:44:02 2015 TICK 00:04 Part CLIP with length 11 sec and transition free 
+Wed Feb 11 13:44:23 2015 TICK 00:25 Part BOW with length 156 sec and transition hardcut 
+Wed Feb 11 13:44:27 2015 <nextPart>
+Wed Feb 11 13:44:42 2015 TICK 00:44 Part ZIPPER with length 204 sec and transition hardcut 
+Wed Feb 11 13:44:51 2015 <nextPart>
+Wed Feb 11 13:44:56 2015 <cancelled>
+Wed Feb 11 13:44:56 2015 TICK 00:59 Part ZIPPER with length 138 sec and transition hardcut 
+Wed Feb 11 13:45:00 2015 <nextPart>
+Wed Feb 11 13:45:06 2015 <cancelled>
+Wed Feb 11 13:45:06 2015 TICK 01:08 Part ZIPPER with length 125 sec and transition crossfade 
+Wed Feb 11 13:45:12 2015 <nextPart>
+Wed Feb 11 13:45:27 2015 TICK 01:30 Part SHACKLE with length 160 sec and transition crossfade 
+Wed Feb 11 13:45:32 2015 <nextPart>
+Wed Feb 11 13:45:41 2015 <cancelled>
+Wed Feb 11 13:45:41 2015 TICK 01:44 Part SHACKLE with length 49 sec and transition free 
+Wed Feb 11 13:45:54 2015 <nextPart>
+Wed Feb 11 13:46:09 2015 TICK 02:12 Part CLIP with length 97 sec and transition crossfade 
+Wed Feb 11 13:46:22 2015 <nextPart>
+Wed Feb 11 13:46:37 2015 TICK 02:40 Part ZIPPER with length 185 sec and transition hardcut 
+Wed Feb 11 13:46:49 2015 <nextPart>
+Wed Feb 11 13:47:04 2015 TICK 03:07 Part CHOICE with length 99 sec and transition hardcut 
+Wed Feb 11 13:47:50 2015 <nextPart>
+Wed Feb 11 13:48:05 2015 TICK 04:08 Part TORQUE with length 146 sec and transition free 
+Wed Feb 11 13:49:20 2015 <nextPart>
+Wed Feb 11 13:49:35 2015 TICK 05:38 Part LOOP with length 128 sec and transition free 
+Wed Feb 11 13:49:46 2015 <nextPart>
+Wed Feb 11 13:50:01 2015 TICK 06:04 Part RIG with length 151 sec and transition free 
+Wed Feb 11 13:52:32 2015 TICK 08:35 Part PIN with length 133 sec and transition free 
+Wed Feb 11 13:54:32 2015 <cancelled>
+Wed Feb 11 13:54:32 2015 TICK 10:35 Part PIN with length 71 sec and transition hardcut 
+Wed Feb 11 13:54:35 2015 <nextPart>
+Wed Feb 11 13:54:37 2015 <cancelled>
+Wed Feb 11 13:54:37 2015 TICK 10:40 Part PIN with length 74 sec and transition crossfade 
+Wed Feb 11 13:54:59 2015 <nextPart>
+Wed Feb 11 13:55:14 2015 TICK 11:17 Part BOLT with length 201 sec and transition hardcut 
+Wed Feb 11 13:58:35 2015 TICK 14:38 Part CUFF with length 143 sec and transition hardcut 
+Wed Feb 11 13:59:20 2015 <nextPart>
+Wed Feb 11 13:59:35 2015 TICK 15:38 Part CHOICE with length 108 sec and transition crossfade 
+Wed Feb 11 13:59:36 2015 Generator stopped
+
+Wed Feb 11 13:59:47 2015 Generator started
+Wed Feb 11 14:00:02 2015 TICK 00:15 Part ZIPPER with length 258 sec and transition crossfade 
+Wed Feb 11 14:03:09 2015 <nextPart>
+Wed Feb 11 14:03:24 2015 TICK 03:37 Part TORQUE with length 128 sec and transition free 
+Wed Feb 11 14:03:25 2015 Generator stopped
+
+Wed Feb 11 14:03:35 2015 Generator started
+Wed Feb 11 14:03:50 2015 TICK 00:15 Part EYE with length 202 sec and transition crossfade 
+Wed Feb 11 14:05:37 2015 <nextPart>
+Wed Feb 11 14:05:42 2015 Generator stopped
+
+Wed Feb 11 14:55:53 2015 Generator started
+Wed Feb 11 14:55:58 2015 TICK 00:05 Part FORGE with length 20 sec and transition hardcut 
+Wed Feb 11 14:56:05 2015 Generator stopped
+
+Wed Feb 11 14:56:31 2015 Generator started
+Wed Feb 11 14:56:36 2015 TICK 00:05 Part CHAIN with length 22 sec and transition hardcut 
+Wed Feb 11 14:56:40 2015 <nextPart>
+Wed Feb 11 14:56:45 2015 TICK 00:14 Part PIN with length 12 sec and transition hardcut 
+Wed Feb 11 14:56:49 2015 <nextPart>
+Wed Feb 11 14:56:54 2015 TICK 00:23 Part CUFF with length 15 sec and transition crossfade 
+Wed Feb 11 14:56:57 2015 Generator stopped
+
+Wed Feb 11 14:57:20 2015 Generator started
+Wed Feb 11 14:57:25 2015 TICK 00:05 Part THIMBLE with length 20 sec and transition hardcut 
+Wed Feb 11 14:57:45 2015 TICK 00:25 Part CLIP with length 10 sec and transition free 
+Wed Feb 11 14:57:55 2015 TICK 00:35 Part FORGE with length 23 sec and transition hardcut 
+Wed Feb 11 14:58:09 2015 <nextPart>
+Wed Feb 11 14:58:14 2015 TICK 00:53 Part LOOP with length 16 sec and transition free 
+Wed Feb 11 14:58:17 2015 <nextPart>
+Wed Feb 11 14:58:32 2015 TICK 01:12 Part IMAGINE with length 264 sec and transition crossfade 
+Wed Feb 11 14:58:49 2015 Generator stopped
+
+Wed Feb 11 15:00:52 2015 Generator started
+Wed Feb 11 15:00:57 2015 TICK 00:04 Part PIN with length 15 sec and transition crossfade 
+Wed Feb 11 15:01:00 2015 <nextPart>
+Wed Feb 11 15:01:05 2015 TICK 00:13 Part TORQUE with length 17 sec and transition crossfade 
+Wed Feb 11 15:01:08 2015 Generator stopped
+
+Wed Feb 11 15:04:35 2015 Generator started
+Wed Feb 11 15:04:36 2015 Generator stopped
+
+Wed Feb 11 15:04:56 2015 Generator started
+Wed Feb 11 15:05:01 2015 TICK 00:05 Part CLIP with length 11 sec and transition hardcut 
+Wed Feb 11 15:05:04 2015 <nextPart>
+Wed Feb 11 15:05:09 2015 TICK 00:12 Part SNAP with length 16 sec and transition hardcut 
+Wed Feb 11 15:05:13 2015 <nextPart>
+Wed Feb 11 15:05:18 2015 TICK 00:22 Part CHOICE with length 13 sec and transition free 
+Wed Feb 11 15:05:21 2015 Generator stopped
+
+Wed Feb 11 15:06:37 2015 Generator started
+Wed Feb 11 15:06:40 2015 <cancelled>
+Wed Feb 11 15:06:40 2015 TICK 00:02 Part IMAGINE with length 29 sec and transition free 
+Wed Feb 11 15:06:41 2015 <nextPart>
+Wed Feb 11 15:06:46 2015 TICK 00:08 Part LOOP with length 18 sec and transition crossfade 
+Wed Feb 11 15:06:50 2015 <nextPart>
+Wed Feb 11 15:06:51 2015 <cancelled>
+Wed Feb 11 15:06:51 2015 TICK 00:14 Part LOOP with length 12 sec and transition crossfade 
+Wed Feb 11 15:06:57 2015 <nextPart>
+Wed Feb 11 15:07:02 2015 TICK 00:25 Part CUFF with length 18 sec and transition hardcut 
+Wed Feb 11 15:07:11 2015 <nextPart>
+Wed Feb 11 15:07:16 2015 TICK 00:39 Part SHACKLE with length 12 sec and transition crossfade 
+Wed Feb 11 15:07:28 2015 TICK 00:51 Part ANCHOR with length 20 sec and transition free 
+Wed Feb 11 15:07:48 2015 TICK 01:11 Part PIN with length 11 sec and transition hardcut 
+Wed Feb 11 15:07:59 2015 TICK 01:22 Part CUFF with length 12 sec and transition crossfade 
+Wed Feb 11 15:08:11 2015 TICK 01:33 Part TWIST with length 17 sec and transition crossfade 
+Wed Feb 11 15:08:28 2015 TICK 01:50 Part IMAGINE with length 19 sec and transition hardcut 
+Wed Feb 11 15:08:30 2015 Generator stopped
+
+Wed Feb 11 15:12:25 2015 Generator started
+Wed Feb 11 15:12:30 2015 TICK 00:04 Part SNAP with length 18 sec and transition hardcut 
+Wed Feb 11 15:12:39 2015 Generator stopped
+
+Wed Feb 11 15:13:19 2015 Generator started
+Wed Feb 11 15:13:24 2015 TICK 00:04 Part CHAIN with length 19 sec and transition hardcut 
+Wed Feb 11 15:13:38 2015 <nextPart>
+Wed Feb 11 15:13:43 2015 TICK 00:24 Part SHACKLE with length 13 sec and transition crossfade 
+Wed Feb 11 15:13:48 2015 Generator stopped
+
+Wed Feb 11 15:14:05 2015 Generator started
+Wed Feb 11 15:14:10 2015 TICK 00:04 Part THIMBLE with length 14 sec and transition hardcut 
+Wed Feb 11 15:14:15 2015 <nextPart>
+Wed Feb 11 15:14:20 2015 TICK 00:14 Part PIN with length 17 sec and transition crossfade 
+Wed Feb 11 15:14:22 2015 <nextPart>
+Wed Feb 11 15:14:27 2015 TICK 00:22 Part TORQUE with length 18 sec and transition crossfade 
+Wed Feb 11 15:14:28 2015 Generator stopped
+
+Wed Feb 11 15:16:58 2015 Generator started
+Wed Feb 11 15:17:03 2015 TICK 00:05 Part CUFF with length 17 sec and transition free 
+Wed Feb 11 15:17:06 2015 <nextPart>
+Wed Feb 11 15:17:07 2015 <cancelled>
+Wed Feb 11 15:17:07 2015 TICK 00:09 Part CUFF with length 11 sec and transition hardcut 
+Wed Feb 11 15:17:12 2015 Generator stopped
+
+Wed Feb 11 15:17:40 2015 Generator started
+Wed Feb 11 15:17:43 2015 Generator stopped
+
+Wed Feb 11 15:18:54 2015 Generator started
+Wed Feb 11 15:18:59 2015 TICK 00:04 Part EYE with length 26 sec and transition hardcut 
+Wed Feb 11 15:19:03 2015 <nextPart>
+Wed Feb 11 15:19:05 2015 <cancelled>
+Wed Feb 11 15:19:05 2015 TICK 00:10 Part EYE with length 19 sec and transition crossfade 
+Wed Feb 11 15:19:06 2015 Generator stopped
+
+Wed Feb 11 15:20:21 2015 Generator started
+Wed Feb 11 15:20:23 2015 Generator stopped
+
+Wed Feb 11 15:20:44 2015 Generator started
+Wed Feb 11 15:20:49 2015 TICK 00:05 Part ZIPPER with length 20 sec and transition crossfade 
+Wed Feb 11 15:20:51 2015 <nextPart>
+Wed Feb 11 15:20:54 2015 <cancelled>
+Wed Feb 11 15:20:54 2015 TICK 00:10 Part ZIPPER with length 13 sec and transition hardcut 
+Wed Feb 11 15:20:58 2015 <nextPart>
+Wed Feb 11 15:21:00 2015 <cancelled>
+Wed Feb 11 15:21:00 2015 TICK 00:15 Part ZIPPER with length 13 sec and transition free 
+Wed Feb 11 15:21:13 2015 TICK 00:29 Part TORQUE with length 13 sec and transition free 
+Wed Feb 11 15:21:17 2015 <nextPart>
+Wed Feb 11 15:21:22 2015 TICK 00:38 Part BOLT with length 14 sec and transition hardcut 
+Wed Feb 11 15:21:25 2015 Generator stopped
+
+Wed Feb 11 15:22:25 2015 Generator started
+Wed Feb 11 15:22:40 2015 TICK 00:15 Part CHOICE with length 126 sec and transition free 
+Wed Feb 11 15:22:44 2015 <nextPart>
+Wed Feb 11 15:22:49 2015 TICK 00:24 Part ANCHOR with length 25 sec and transition free 
+Wed Feb 11 15:22:55 2015 <nextPart>
+Wed Feb 11 15:22:59 2015 <cancelled>
+Wed Feb 11 15:22:59 2015 TICK 00:33 Part ANCHOR with length 17 sec and transition free 
+Wed Feb 11 15:23:07 2015 <nextPart>
+Wed Feb 11 15:23:12 2015 TICK 00:47 Part TORQUE with length 20 sec and transition hardcut 
+Wed Feb 11 15:23:32 2015 TICK 01:06 Part EYE with length 34 sec and transition crossfade 
+Wed Feb 11 15:24:05 2015 <cancelled>
+Wed Feb 11 15:24:05 2015 TICK 01:40 Part EYE with length 15 sec and transition hardcut 
+Wed Feb 11 15:24:11 2015 <nextPart>
+Wed Feb 11 15:24:16 2015 TICK 01:51 Part IMAGINE with length 31 sec and transition crossfade 
+Wed Feb 11 15:24:47 2015 TICK 02:21 Part BOLT with length 21 sec and transition crossfade 
+Wed Feb 11 15:24:57 2015 <nextPart>
+Wed Feb 11 15:25:00 2015 <cancelled>
+Wed Feb 11 15:25:00 2015 TICK 02:34 Part BOLT with length 12 sec and transition free 
+Wed Feb 11 15:25:12 2015 TICK 02:46 Part CUFF with length 20 sec and transition free 
+Wed Feb 11 15:25:15 2015 Generator stopped
+
+Wed Feb 11 15:25:22 2015 Generator started
+Wed Feb 11 15:25:27 2015 TICK 00:04 Part TWIST with length 26 sec and transition hardcut 
+Wed Feb 11 15:25:37 2015 <nextPart>
+Wed Feb 11 15:25:42 2015 TICK 00:19 Part PIN with length 15 sec and transition free 
+Wed Feb 11 15:25:53 2015 <cancelled>
+Wed Feb 11 15:25:53 2015 TICK 00:30 Part PIN with length 9 sec and transition free 
+Wed Feb 11 15:25:56 2015 <nextPart>
+Wed Feb 11 15:26:01 2015 TICK 00:39 Part BOW with length 24 sec and transition free 
+Wed Feb 11 15:26:09 2015 <nextPart>
+Wed Feb 11 15:26:14 2015 TICK 00:51 Part SNAP with length 16 sec and transition crossfade 
+Wed Feb 11 15:26:30 2015 TICK 01:08 Part CHAIN with length 21 sec and transition free 
+Wed Feb 11 15:26:34 2015 <nextPart>
+Wed Feb 11 15:26:39 2015 TICK 01:16 Part TORQUE with length 16 sec and transition free 
+Wed Feb 11 15:26:55 2015 TICK 01:33 Part RIG with length 18 sec and transition crossfade 
+Wed Feb 11 15:27:00 2015 Generator stopped
+
+Wed Feb 11 20:48:56 2015 Generator started
+Wed Feb 11 20:49:01 2015 TICK 00:04 Part TWIST with length 19 sec and transition free 
+Wed Feb 11 20:49:14 2015 <nextPart>
+Wed Feb 11 20:49:15 2015 <cancelled>
+Wed Feb 11 20:49:15 2015 TICK 00:19 Part TWIST with length 16 sec and transition free 
+Wed Feb 11 20:49:22 2015 <nextPart>
+Wed Feb 11 20:49:27 2015 TICK 00:31 Part BOW with length 21 sec and transition free 
+Wed Feb 11 20:49:36 2015 <nextPart>
+Wed Feb 11 20:49:41 2015 TICK 00:45 Part CLIP with length 9 sec and transition free 
+Wed Feb 11 20:49:50 2015 TICK 00:54 Part FORGE with length 18 sec and transition crossfade 
+Wed Feb 11 20:49:57 2015 Generator stopped
+
+Fri Feb 13 09:33:02 2015 Generator started
+Fri Feb 13 09:33:08 2015 <cancelled>
+Fri Feb 13 09:33:08 2015 TICK 00:05 Part ANCHOR with length 166 sec and transition hardcut 
+Fri Feb 13 09:33:09 2015 <nextPart>
+Fri Feb 13 09:33:24 2015 TICK 00:21 Part SHACKLE with length 205 sec and transition crossfade 
+Fri Feb 13 09:36:49 2015 TICK 03:46 Part ZIPPER with length 193 sec and transition crossfade 
+Fri Feb 13 09:39:52 2015 <cancelled>
+Fri Feb 13 09:39:52 2015 TICK 06:49 Part ZIPPER with length 133 sec and transition hardcut 
+Fri Feb 13 09:42:05 2015 TICK 09:02 Part BOW with length 156 sec and transition hardcut 
+Fri Feb 13 09:42:57 2015 Generator stopped
+
+Sun Feb 15 15:21:32 2015 Generator started
+Sun Feb 15 15:21:37 2015 TICK 00:04 Part ZIPPER with length 28 sec and transition crossfade 
+Sun Feb 15 15:21:42 2015 <nextPart>
+Sun Feb 15 15:21:43 2015 <cancelled>
+Sun Feb 15 15:21:43 2015 TICK 00:10 Part ZIPPER with length 18 sec and transition free 
+Sun Feb 15 15:21:49 2015 <nextPart>
+Sun Feb 15 15:21:52 2015 <cancelled>
+Sun Feb 15 15:21:52 2015 TICK 00:20 Part ZIPPER with length 15 sec and transition crossfade 
+Sun Feb 15 15:21:56 2015 <nextPart>
+Sun Feb 15 15:22:00 2015 <cancelled>
+Sun Feb 15 15:22:00 2015 TICK 00:27 Part ZIPPER with length 18 sec and transition hardcut 
+Sun Feb 15 15:22:07 2015 <nextPart>
+Sun Feb 15 15:22:12 2015 TICK 00:40 Part IMAGINE with length 30 sec and transition free 
+Sun Feb 15 15:22:23 2015 <nextPart>
+Sun Feb 15 15:22:28 2015 TICK 00:56 Part FORGE with length 27 sec and transition hardcut 
+Sun Feb 15 15:22:53 2015 <cancelled>
+Sun Feb 15 15:22:53 2015 TICK 01:21 Part FORGE with length 17 sec and transition crossfade 
+Sun Feb 15 15:23:10 2015 TICK 01:38 Part TORQUE with length 16 sec and transition crossfade 
+Sun Feb 15 15:23:26 2015 TICK 01:54 Part SHACKLE with length 7 sec and transition hardcut 
+Sun Feb 15 15:23:33 2015 TICK 02:01 Part FORGE with length 28 sec and transition hardcut 
+Sun Feb 15 15:23:35 2015 <nextPart>
+Sun Feb 15 15:23:40 2015 TICK 02:08 Part SNAP with length 12 sec and transition free 
+Sun Feb 15 15:23:52 2015 TICK 02:20 Part SCREW with length 23 sec and transition free 
+Sun Feb 15 15:24:15 2015 TICK 02:43 Part SHACKLE with length 22 sec and transition crossfade 
+Sun Feb 15 15:24:37 2015 TICK 03:05 Part ANCHOR with length 22 sec and transition crossfade 
+Sun Feb 15 15:24:59 2015 TICK 03:27 Part LOOP with length 17 sec and transition free 
+Sun Feb 15 15:25:16 2015 TICK 03:44 Part LIMIT with length 13 sec and transition free 
+Sun Feb 15 15:25:37 2015 <cancelled>
+Sun Feb 15 15:25:37 2015 TICK 04:05 Part LIMIT with length 94 sec and transition crossfade 
+Sun Feb 15 15:27:11 2015 TICK 05:39 Part CUFF with length 151 sec and transition hardcut 
+Sun Feb 15 15:29:42 2015 TICK 08:10 Part CLIP with length 101 sec and transition free 
+Sun Feb 15 15:31:15 2015 <cancelled>
+Sun Feb 15 15:31:15 2015 TICK 09:43 Part CLIP with length 49 sec and transition free 
+Sun Feb 15 15:31:28 2015 <nextPart>
+Sun Feb 15 15:31:32 2015 <cancelled>
+Sun Feb 15 15:31:32 2015 TICK 10:00 Part CLIP with length 56 sec and transition crossfade 
+Sun Feb 15 15:31:34 2015 <nextPart>
+Sun Feb 15 15:31:41 2015 <cancelled>
+Sun Feb 15 15:31:41 2015 TICK 10:08 Part CLIP with length 47 sec and transition crossfade 
+Sun Feb 15 15:31:43 2015 <nextPart>
+Sun Feb 15 15:31:49 2015 <cancelled>
+Sun Feb 15 15:31:49 2015 TICK 10:17 Part CLIP with length 44 sec and transition free 
+Sun Feb 15 15:32:01 2015 <nextPart>
+Sun Feb 15 15:32:16 2015 TICK 10:44 Part BOLT with length 180 sec and transition crossfade 
+Sun Feb 15 15:32:36 2015 <nextPart>
+Sun Feb 15 15:32:51 2015 TICK 11:19 Part CLIP with length 65 sec and transition crossfade 
+Sun Feb 15 15:33:06 2015 <nextPart>
+Sun Feb 15 15:33:08 2015 <cancelled>
+Sun Feb 15 15:33:08 2015 TICK 11:35 Part CLIP with length 40 sec and transition hardcut 
+Sun Feb 15 15:33:10 2015 <nextPart>
+Sun Feb 15 15:33:11 2015 <cancelled>
+Sun Feb 15 15:33:11 2015 TICK 11:39 Part CLIP with length 48 sec and transition hardcut 
+Sun Feb 15 15:33:13 2015 <nextPart>
+Sun Feb 15 15:33:16 2015 <cancelled>
+Sun Feb 15 15:33:16 2015 TICK 11:44 Part CLIP with length 59 sec and transition free 
+Sun Feb 15 15:33:29 2015 <nextPart>
+Sun Feb 15 15:33:36 2015 <cancelled>
+Sun Feb 15 15:33:36 2015 TICK 12:04 Part CLIP with length 48 sec and transition hardcut 
+Sun Feb 15 15:33:46 2015 <nextPart>
+Sun Feb 15 15:33:51 2015 <cancelled>
+Sun Feb 15 15:33:51 2015 TICK 12:18 Part CLIP with length 50 sec and transition free 
+Sun Feb 15 15:33:53 2015 <nextPart>
+Sun Feb 15 15:33:54 2015 <cancelled>
+Sun Feb 15 15:33:54 2015 TICK 12:22 Part CLIP with length 50 sec and transition crossfade 
+Sun Feb 15 15:34:05 2015 <nextPart>
+Sun Feb 15 15:34:09 2015 <cancelled>
+Sun Feb 15 15:34:09 2015 TICK 12:37 Part CLIP with length 42 sec and transition crossfade 
+Sun Feb 15 15:34:10 2015 <nextPart>
+Sun Feb 15 15:34:12 2015 <cancelled>
+Sun Feb 15 15:34:12 2015 TICK 12:40 Part CLIP with length 59 sec and transition free 
+Sun Feb 15 15:34:13 2015 <nextPart>
+Sun Feb 15 15:34:14 2015 <cancelled>
+Sun Feb 15 15:34:14 2015 TICK 12:42 Part CLIP with length 53 sec and transition free 
+Sun Feb 15 15:34:32 2015 <nextPart>
+Sun Feb 15 15:34:47 2015 TICK 13:15 Part LOOP with length 138 sec and transition hardcut 
+Sun Feb 15 15:34:49 2015 <nextPart>
+Sun Feb 15 15:35:04 2015 TICK 13:31 Part BOLT with length 157 sec and transition hardcut 
+Sun Feb 15 15:37:41 2015 TICK 16:08 Part SNAP with length 146 sec and transition crossfade 
+Sun Feb 15 15:40:07 2015 TICK 18:35 Part RIG with length 184 sec and transition crossfade 
+Sun Feb 15 15:40:59 2015 <nextPart>
+Sun Feb 15 15:41:14 2015 TICK 19:42 Part CLIP with length 102 sec and transition crossfade 
+Sun Feb 15 15:42:56 2015 TICK 21:24 Part CHAIN with length 106 sec and transition free 
+Sun Feb 15 15:44:31 2015 <cancelled>
+Sun Feb 15 15:44:31 2015 TICK 22:59 Part CHAIN with length 78 sec and transition free 
+Sun Feb 15 15:45:49 2015 TICK 24:17 Part ANCHOR with length 221 sec and transition hardcut 
+Sun Feb 15 15:48:52 2015 <nextPart>
+Sun Feb 15 15:49:07 2015 TICK 27:35 Part FORGE with length 203 sec and transition hardcut 
+Sun Feb 15 15:52:30 2015 TICK 30:58 Part CUFF with length 123 sec and transition hardcut 
+Sun Feb 15 15:54:33 2015 TICK 33:01 Part IMAGINE with length 210 sec and transition hardcut 
+Sun Feb 15 15:58:03 2015 TICK 36:31 Part LIMIT with length 138 sec and transition crossfade 
+Sun Feb 15 15:59:57 2015 <nextPart>
+Sun Feb 15 15:59:59 2015 <cancelled>
+Sun Feb 15 15:59:59 2015 TICK 38:27 Part LIMIT with length 106 sec and transition crossfade 
+Sun Feb 15 16:00:00 2015 Generator stopped
+
+Sun Feb 15 16:00:02 2015 Generator started
+Sun Feb 15 16:00:17 2015 TICK 00:14 Part SHACKLE with length 113 sec and transition free 
+Sun Feb 15 16:02:10 2015 TICK 02:08 Part TWIST with length 132 sec and transition hardcut 
+Sun Feb 15 16:04:22 2015 TICK 04:20 Part ZIPPER with length 222 sec and transition hardcut 
+Sun Feb 15 16:06:37 2015 <nextPart>
+Sun Feb 15 16:06:48 2015 <cancelled>
+Sun Feb 15 16:06:48 2015 TICK 06:46 Part ZIPPER with length 83 sec and transition crossfade 
+Sun Feb 15 16:08:11 2015 TICK 08:09 Part TORQUE with length 140 sec and transition hardcut 
+Sun Feb 15 16:08:29 2015 <nextPart>
+Sun Feb 15 16:08:34 2015 <cancelled>
+Sun Feb 15 16:08:34 2015 TICK 08:32 Part TORQUE with length 56 sec and transition free 
+Sun Feb 15 16:09:30 2015 TICK 09:28 Part CUFF with length 99 sec and transition crossfade 
+Sun Feb 15 16:09:38 2015 <nextPart>
+Sun Feb 15 16:09:53 2015 TICK 09:51 Part BOLT with length 192 sec and transition hardcut 
+Sun Feb 15 16:13:05 2015 TICK 13:03 Part RIG with length 222 sec and transition crossfade 
+Sun Feb 15 16:16:47 2015 TICK 16:45 Part LOOP with length 163 sec and transition hardcut 
+Sun Feb 15 16:17:33 2015 <nextPart>
+Sun Feb 15 16:17:39 2015 <cancelled>
+Sun Feb 15 16:17:39 2015 TICK 17:37 Part LOOP with length 73 sec and transition free 
+Sun Feb 15 16:17:42 2015 <nextPart>
+Sun Feb 15 16:17:57 2015 TICK 17:55 Part RIG with length 209 sec and transition hardcut 
+Sun Feb 15 16:17:59 2015 <nextPart>
+Sun Feb 15 16:18:13 2015 <cancelled>
+Sun Feb 15 16:18:13 2015 TICK 18:10 Part RIG with length 70 sec and transition free 
+Sun Feb 15 16:19:23 2015 TICK 19:21 Part BOW with length 162 sec and transition crossfade 
+Sun Feb 15 16:19:40 2015 <nextPart>
+Sun Feb 15 16:19:55 2015 TICK 19:53 Part EYE with length 237 sec and transition free 
+Sun Feb 15 16:21:04 2015 <nextPart>
+Sun Feb 15 16:21:05 2015 <cancelled>
+Sun Feb 15 16:21:05 2015 TICK 21:03 Part EYE with length 127 sec and transition free 
+Sun Feb 15 16:21:07 2015 <nextPart>
+Sun Feb 15 16:21:10 2015 <cancelled>
+Sun Feb 15 16:21:10 2015 TICK 21:08 Part EYE with length 134 sec and transition free 
+Sun Feb 15 16:21:45 2015 <nextPart>
+Sun Feb 15 16:22:00 2015 TICK 21:58 Part TWIST with length 130 sec and transition crossfade 
+Sun Feb 15 16:24:10 2015 TICK 24:08 Part IMAGINE with length 215 sec and transition free 
+Sun Feb 15 16:26:15 2015 <nextPart>
+Sun Feb 15 16:26:18 2015 <cancelled>
+Sun Feb 15 16:26:18 2015 TICK 26:16 Part IMAGINE with length 95 sec and transition free 
+Sun Feb 15 16:26:19 2015 <nextPart>
+Sun Feb 15 16:26:34 2015 TICK 26:32 Part TORQUE with length 174 sec and transition hardcut 
+Sun Feb 15 16:27:30 2015 <nextPart>
+Sun Feb 15 16:27:45 2015 TICK 27:43 Part CLIP with length 87 sec and transition hardcut 
+Sun Feb 15 16:28:59 2015 <cancelled>
+Sun Feb 15 16:28:59 2015 TICK 28:57 Part CLIP with length 44 sec and transition crossfade 
+Sun Feb 15 16:29:43 2015 TICK 29:41 Part CHOICE with length 131 sec and transition free 
+Sun Feb 15 16:31:44 2015 <cancelled>
+Sun Feb 15 16:31:44 2015 TICK 31:42 Part CHOICE with length 55 sec and transition hardcut 
+Sun Feb 15 16:32:10 2015 <nextPart>
+Sun Feb 15 16:32:13 2015 <cancelled>
+Sun Feb 15 16:32:13 2015 TICK 32:11 Part CHOICE with length 59 sec and transition crossfade 
+Sun Feb 15 16:32:14 2015 <nextPart>
+Sun Feb 15 16:32:29 2015 TICK 32:27 Part EYE with length 201 sec and transition crossfade 
+Sun Feb 15 16:35:30 2015 <nextPart>
+Sun Feb 15 16:35:33 2015 <cancelled>
+Sun Feb 15 16:35:33 2015 TICK 35:31 Part EYE with length 147 sec and transition crossfade 
+Sun Feb 15 16:35:36 2015 <nextPart>
+Sun Feb 15 16:35:36 2015 <cancelled>
+Sun Feb 15 16:35:36 2015 TICK 35:34 Part EYE with length 127 sec and transition hardcut 
+Sun Feb 15 16:35:39 2015 <nextPart>
+Sun Feb 15 16:35:54 2015 TICK 35:52 Part SNAP with length 147 sec and transition hardcut 
+Sun Feb 15 16:38:21 2015 TICK 38:19 Part THIMBLE with length 99 sec and transition free 
+Sun Feb 15 16:38:38 2015 Generator stopped
+
+Sun Feb 15 19:38:24 2015 Generator started
+Sun Feb 15 19:38:39 2015 TICK 00:14 Part RIG with length 115 sec and transition free 
+Sun Feb 15 19:38:45 2015 <nextPart>
+Sun Feb 15 19:39:00 2015 TICK 00:36 Part LOOP with length 133 sec and transition hardcut 
+Sun Feb 15 19:39:02 2015 <nextPart>
+Sun Feb 15 19:39:04 2015 <cancelled>
+Sun Feb 15 19:39:04 2015 TICK 00:40 Part LOOP with length 77 sec and transition hardcut 
+Sun Feb 15 19:39:06 2015 Generator stopped
+
+Sun Feb 15 20:20:43 2015 Generator started
+Sun Feb 15 20:20:46 2015 <cancelled>
+Sun Feb 15 20:20:46 2015 TICK 00:02 Part LOOP with length 149 sec and transition free 
+Sun Feb 15 20:20:47 2015 <nextPart>
+Sun Feb 15 20:21:02 2015 TICK 00:18 Part TORQUE with length 178 sec and transition crossfade 
+Sun Feb 15 20:21:35 2015 <nextPart>
+Sun Feb 15 20:21:50 2015 TICK 01:06 Part THIMBLE with length 122 sec and transition free 
+Sun Feb 15 20:21:53 2015 <nextPart>
+Sun Feb 15 20:22:01 2015 Generator stopped
+
+Sun Feb 15 21:42:48 2015 Generator started
+Sun Feb 15 21:43:03 2015 TICK 00:15 Part CUFF with length 143 sec and transition hardcut 
+Sun Feb 15 21:43:25 2015 <nextPart>
+Sun Feb 15 21:43:28 2015 <cancelled>
+Sun Feb 15 21:43:28 2015 TICK 00:40 Part CUFF with length 47 sec and transition hardcut 
+Sun Feb 15 21:43:40 2015 <nextPart>
+Sun Feb 15 21:43:55 2015 TICK 01:07 Part LIMIT with length 179 sec and transition free 
+Sun Feb 15 21:45:35 2015 <nextPart>
+Sun Feb 15 21:45:50 2015 TICK 03:02 Part SHACKLE with length 93 sec and transition crossfade 
+Sun Feb 15 21:47:23 2015 TICK 04:34 Part ZIPPER with length 185 sec and transition hardcut 
+Sun Feb 15 21:47:36 2015 <nextPart>
+Sun Feb 15 21:47:51 2015 TICK 05:03 Part EYE with length 218 sec and transition free 
+Sun Feb 15 21:48:05 2015 <nextPart>
+Sun Feb 15 21:48:06 2015 <cancelled>
+Sun Feb 15 21:48:06 2015 TICK 05:18 Part EYE with length 97 sec and transition crossfade 
+Sun Feb 15 21:48:07 2015 <nextPart>
+Sun Feb 15 21:48:08 2015 <cancelled>
+Sun Feb 15 21:48:08 2015 TICK 05:19 Part EYE with length 114 sec and transition hardcut 
+Sun Feb 15 21:48:16 2015 <nextPart>
+Sun Feb 15 21:48:31 2015 TICK 05:42 Part SNAP with length 81 sec and transition hardcut 
+Sun Feb 15 21:49:52 2015 TICK 07:04 Part SCREW with length 148 sec and transition hardcut 
+Sun Feb 15 21:52:20 2015 TICK 09:32 Part SHACKLE with length 79 sec and transition crossfade 
+Sun Feb 15 21:53:39 2015 TICK 10:51 Part BOLT with length 99 sec and transition crossfade 
+Sun Feb 15 21:55:18 2015 TICK 12:30 Part LOOP with length 110 sec and transition hardcut 
+Sun Feb 15 21:57:08 2015 TICK 14:20 Part CHOICE with length 115 sec and transition crossfade 
+Sun Feb 15 21:59:03 2015 TICK 16:15 Part IMAGINE with length 200 sec and transition free 
+Sun Feb 15 22:02:23 2015 TICK 19:34 Part EYE with length 231 sec and transition free 
+Sun Feb 15 22:06:14 2015 TICK 23:25 Part BOLT with length 85 sec and transition free 
+Sun Feb 15 22:07:39 2015 TICK 24:51 Part BOW with length 165 sec and transition hardcut 
+Sun Feb 15 22:08:03 2015 Generator stopped
+
+Sun Feb 15 22:09:01 2015 Generator started
+Sun Feb 15 22:09:16 2015 TICK 00:14 Part LOOP with length 142 sec and transition hardcut 
+Sun Feb 15 22:10:49 2015 <nextPart>
+Sun Feb 15 22:11:04 2015 TICK 02:03 Part ZIPPER with length 156 sec and transition free 
+Sun Feb 15 22:13:40 2015 TICK 04:39 Part TORQUE with length 128 sec and transition free 
+Sun Feb 15 22:15:48 2015 TICK 06:47 Part THIMBLE with length 207 sec and transition crossfade 
+Sun Feb 15 22:18:06 2015 <nextPart>
+Sun Feb 15 22:18:12 2015 <cancelled>
+Sun Feb 15 22:18:12 2015 TICK 09:11 Part THIMBLE with length 76 sec and transition hardcut 
+Sun Feb 15 22:18:18 2015 <nextPart>
+Sun Feb 15 22:18:21 2015 <cancelled>
+Sun Feb 15 22:18:21 2015 TICK 09:20 Part THIMBLE with length 56 sec and transition hardcut 
+Sun Feb 15 22:18:43 2015 <nextPart>
+Sun Feb 15 22:18:58 2015 TICK 09:56 Part TWIST with length 242 sec and transition free 
+Sun Feb 15 22:21:14 2015 <nextPart>
+Sun Feb 15 22:21:29 2015 TICK 12:27 Part IMAGINE with length 166 sec and transition hardcut 
+Sun Feb 15 22:24:05 2015 <cancelled>
+Sun Feb 15 22:24:05 2015 TICK 15:04 Part IMAGINE with length 129 sec and transition crossfade 
+Sun Feb 15 22:25:01 2015 <nextPart>
+Sun Feb 15 22:25:05 2015 <cancelled>
+Sun Feb 15 22:25:05 2015 TICK 16:04 Part IMAGINE with length 100 sec and transition hardcut 
+Sun Feb 15 22:25:09 2015 <nextPart>
+Sun Feb 15 22:25:24 2015 TICK 16:23 Part FORGE with length 187 sec and transition free 
+Sun Feb 15 22:28:30 2015 <cancelled>
+Sun Feb 15 22:28:30 2015 TICK 19:29 Part FORGE with length 93 sec and transition free 
+Sun Feb 15 22:30:03 2015 TICK 21:02 Part BOW with length 178 sec and transition free 
+Sun Feb 15 22:32:49 2015 <cancelled>
+Sun Feb 15 22:32:49 2015 TICK 23:48 Part BOW with length 109 sec and transition hardcut 
+Sun Feb 15 22:33:44 2015 <nextPart>
+Sun Feb 15 22:33:48 2015 <cancelled>
+Sun Feb 15 22:33:48 2015 TICK 24:47 Part BOW with length 103 sec and transition hardcut 
+Sun Feb 15 22:33:49 2015 <nextPart>
+Sun Feb 15 22:33:51 2015 <cancelled>
+Sun Feb 15 22:33:51 2015 TICK 24:50 Part BOW with length 107 sec and transition hardcut 
+Sun Feb 15 22:33:52 2015 <nextPart>
+Sun Feb 15 22:34:07 2015 TICK 25:06 Part SNAP with length 116 sec and transition crossfade 
+Sun Feb 15 22:36:03 2015 TICK 27:02 Part CLIP with length 79 sec and transition free 
+Sun Feb 15 22:37:22 2015 TICK 28:21 Part CHOICE with length 90 sec and transition hardcut 
+Sun Feb 15 22:38:52 2015 TICK 29:51 Part THIMBLE with length 199 sec and transition crossfade 
+Sun Feb 15 22:41:06 2015 <nextPart>
+Sun Feb 15 22:41:09 2015 <cancelled>
+Sun Feb 15 22:41:09 2015 TICK 32:08 Part THIMBLE with length 66 sec and transition crossfade 
+Sun Feb 15 22:41:57 2015 <nextPart>
+Sun Feb 15 22:42:03 2015 <cancelled>
+Sun Feb 15 22:42:03 2015 TICK 33:01 Part THIMBLE with length 76 sec and transition crossfade 
+Sun Feb 15 22:42:52 2015 <nextPart>
+Sun Feb 15 22:43:06 2015 <cancelled>
+Sun Feb 15 22:43:06 2015 TICK 34:05 Part THIMBLE with length 81 sec and transition crossfade 
+Sun Feb 15 22:43:25 2015 <nextPart>
+Sun Feb 15 22:43:40 2015 TICK 34:38 Part SCREW with length 149 sec and transition free 
+Sun Feb 15 22:45:57 2015 <cancelled>
+Sun Feb 15 22:45:57 2015 TICK 36:55 Part SCREW with length 79 sec and transition hardcut 
+Sun Feb 15 22:47:16 2015 TICK 38:15 Part SHACKLE with length 122 sec and transition free 
+Sun Feb 15 22:49:03 2015 <nextPart>
+Sun Feb 15 22:49:18 2015 TICK 40:16 Part END with length 315 sec and transition free 
+Sun Feb 15 22:49:19 2015 Generator stopped
+
+Mon Mar 23 10:00:27 2015 Generator started
+Mon Mar 23 10:00:42 2015 TICK 00:15 Part SCREW with length 213 sec and transition free 
+Mon Mar 23 10:03:19 2015 <nextPart>
+Mon Mar 23 10:03:34 2015 TICK 03:07 Part BOW with length 164 sec and transition hardcut 
+Mon Mar 23 10:05:46 2015 Generator stopped
+
+Mon Mar 23 10:06:48 2015 Generator started
+Mon Mar 23 10:07:03 2015 TICK 00:15 Part EYE with length 194 sec and transition free 
+Mon Mar 23 10:07:07 2015 <nextPart>
+Mon Mar 23 10:07:22 2015 TICK 00:34 Part RIG with length 209 sec and transition hardcut 
+Mon Mar 23 10:09:24 2015 <nextPart>
+Mon Mar 23 10:09:35 2015 <cancelled>
+Mon Mar 23 10:09:35 2015 TICK 02:46 Part RIG with length 99 sec and transition free 
+Mon Mar 23 10:11:14 2015 TICK 04:25 Part PIN with length 97 sec and transition free 
+Mon Mar 23 10:12:51 2015 TICK 06:02 Part ZIPPER with length 176 sec and transition crossfade 
+Mon Mar 23 10:15:04 2015 <nextPart>
+Mon Mar 23 10:15:19 2015 TICK 08:30 Part IMAGINE with length 167 sec and transition crossfade 
+Mon Mar 23 10:16:01 2015 <nextPart>
+Mon Mar 23 10:16:16 2015 TICK 09:27 Part SNAP with length 98 sec and transition hardcut 
+Mon Mar 23 10:17:54 2015 TICK 11:05 Part EYE with length 246 sec and transition crossfade 
+Mon Mar 23 10:19:00 2015 <nextPart>
+Mon Mar 23 10:19:15 2015 TICK 12:26 Part CHOICE with length 129 sec and transition crossfade 
+Mon Mar 23 10:21:24 2015 TICK 14:35 Part RIG with length 147 sec and transition free 
+Mon Mar 23 10:22:06 2015 <nextPart>
+Mon Mar 23 10:22:21 2015 TICK 15:32 Part CLIP with length 89 sec and transition hardcut 
+Mon Mar 23 10:23:50 2015 TICK 17:01 Part THIMBLE with length 154 sec and transition hardcut 
+Mon Mar 23 10:25:11 2015 <nextPart>
+Mon Mar 23 10:25:26 2015 TICK 18:37 Part TORQUE with length 144 sec and transition crossfade 
+Mon Mar 23 10:25:32 2015 <nextPart>
+Mon Mar 23 10:25:34 2015 <cancelled>
+Mon Mar 23 10:25:34 2015 TICK 18:45 Part TORQUE with length 55 sec and transition hardcut 
+Mon Mar 23 10:25:36 2015 <nextPart>
+Mon Mar 23 10:25:38 2015 <cancelled>
+Mon Mar 23 10:25:38 2015 TICK 18:50 Part TORQUE with length 55 sec and transition free 
+Mon Mar 23 10:25:43 2015 <nextPart>
+Mon Mar 23 10:25:45 2015 <cancelled>
+Mon Mar 23 10:25:45 2015 TICK 18:56 Part TORQUE with length 95 sec and transition free 
+Mon Mar 23 10:26:24 2015 Generator stopped
+
+Mon Mar 23 10:26:26 2015 Generator started
+Mon Mar 23 10:26:41 2015 TICK 00:15 Part CHAIN with length 138 sec and transition hardcut 
+Mon Mar 23 10:28:59 2015 TICK 02:33 Part EYE with length 200 sec and transition crossfade 
+Mon Mar 23 10:31:31 2015 <nextPart>
+Mon Mar 23 10:31:46 2015 TICK 05:19 Part IMAGINE with length 199 sec and transition hardcut 
+Mon Mar 23 10:31:52 2015 <nextPart>
+Mon Mar 23 10:32:07 2015 TICK 05:41 Part THIMBLE with length 104 sec and transition hardcut 
+Mon Mar 23 10:33:51 2015 TICK 07:24 Part ANCHOR with length 245 sec and transition free 
+Mon Mar 23 10:37:33 2015 <nextPart>
+Mon Mar 23 10:37:36 2015 <cancelled>
+Mon Mar 23 10:37:36 2015 TICK 11:10 Part ANCHOR with length 114 sec and transition hardcut 
+Mon Mar 23 10:39:30 2015 TICK 13:04 Part FORGE with length 193 sec and transition crossfade 
+Mon Mar 23 10:40:49 2015 Generator stopped
+
+Mon Mar 23 10:40:50 2015 Generator started
+Mon Mar 23 10:40:53 2015 <cancelled>
+Mon Mar 23 10:40:53 2015 TICK 00:03 Part FORGE with length 253 sec and transition hardcut 
+Mon Mar 23 10:40:54 2015 <nextPart>
+Mon Mar 23 10:40:56 2015 <cancelled>
+Mon Mar 23 10:40:56 2015 TICK 00:06 Part FORGE with length 160 sec and transition free 
+Mon Mar 23 10:40:58 2015 <nextPart>
+Mon Mar 23 10:40:59 2015 <cancelled>
+Mon Mar 23 10:40:59 2015 TICK 00:09 Part FORGE with length 235 sec and transition hardcut 
+Mon Mar 23 10:41:01 2015 <nextPart>
+Mon Mar 23 10:41:16 2015 TICK 00:26 Part LIMIT with length 190 sec and transition hardcut 
+Mon Mar 23 10:43:58 2015 <nextPart>
+Mon Mar 23 10:44:01 2015 <cancelled>
+Mon Mar 23 10:44:01 2015 TICK 03:11 Part LIMIT with length 44 sec and transition free 
+Mon Mar 23 10:44:02 2015 <nextPart>
+Mon Mar 23 10:44:17 2015 TICK 03:26 Part IMAGINE with length 187 sec and transition hardcut 
+Mon Mar 23 10:47:24 2015 TICK 06:34 Part ZIPPER with length 143 sec and transition free 
+Mon Mar 23 10:49:38 2015 <cancelled>
+Mon Mar 23 10:49:38 2015 TICK 08:48 Part ZIPPER with length 143 sec and transition crossfade 
+Mon Mar 23 10:51:56 2015 <cancelled>
+Mon Mar 23 10:51:56 2015 TICK 11:06 Part ZIPPER with length 99 sec and transition crossfade 
+Mon Mar 23 10:53:23 2015 <cancelled>
+Mon Mar 23 10:53:23 2015 TICK 12:32 Part ZIPPER with length 116 sec and transition hardcut 
+Mon Mar 23 10:55:19 2015 TICK 14:29 Part SNAP with length 96 sec and transition crossfade 
+Mon Mar 23 10:56:55 2015 TICK 16:04 Part TORQUE with length 179 sec and transition crossfade 
+Mon Mar 23 10:59:54 2015 TICK 19:04 Part PIN with length 86 sec and transition crossfade 
+Mon Mar 23 11:01:20 2015 TICK 20:30 Part SCREW with length 174 sec and transition crossfade 
+Mon Mar 23 11:04:14 2015 TICK 23:24 Part EYE with length 182 sec and transition crossfade 
+Mon Mar 23 11:07:03 2015 <cancelled>
+Mon Mar 23 11:07:03 2015 TICK 26:13 Part EYE with length 144 sec and transition crossfade 
+Mon Mar 23 11:09:24 2015 <cancelled>
+Mon Mar 23 11:09:24 2015 TICK 28:34 Part EYE with length 112 sec and transition free 
+Mon Mar 23 11:11:16 2015 TICK 30:26 Part PIN with length 80 sec and transition free 
+Mon Mar 23 11:12:26 2015 <cancelled>
+Mon Mar 23 11:12:26 2015 TICK 31:35 Part PIN with length 56 sec and transition crossfade 
+Mon Mar 23 11:13:10 2015 <cancelled>
+Mon Mar 23 11:13:10 2015 TICK 32:20 Part PIN with length 45 sec and transition hardcut 
+Mon Mar 23 11:13:55 2015 TICK 33:05 Part CUFF with length 107 sec and transition hardcut 
+Mon Mar 23 11:15:42 2015 TICK 34:52 Part SNAP with length 134 sec and transition crossfade 
+Mon Mar 23 11:17:56 2015 TICK 37:05 Part RIG with length 217 sec and transition crossfade 
+Mon Mar 23 11:19:57 2015 <nextPart>
+Mon Mar 23 11:20:03 2015 <cancelled>
+Mon Mar 23 11:20:03 2015 TICK 39:13 Part RIG with length 108 sec and transition hardcut 
+Mon Mar 23 11:20:06 2015 Generator stopped
+
+Mon Mar 23 11:24:47 2015 Generator started
+Mon Mar 23 11:25:02 2015 TICK 00:14 Part LOOP with length 164 sec and transition free 
+Mon Mar 23 11:25:29 2015 Generator stopped
+
+Mon Mar 23 11:38:34 2015 Generator started
+Mon Mar 23 11:38:49 2015 TICK 00:14 Part CHOICE with length 98 sec and transition crossfade 
+Mon Mar 23 11:40:27 2015 TICK 01:52 Part IMAGINE with length 217 sec and transition free 
+Mon Mar 23 11:44:04 2015 TICK 05:30 Part THIMBLE with length 159 sec and transition crossfade 
+Mon Mar 23 11:46:43 2015 TICK 08:08 Part CUFF with length 78 sec and transition hardcut 
+Mon Mar 23 11:48:01 2015 TICK 09:27 Part LOOP with length 164 sec and transition free 
+Mon Mar 23 11:50:45 2015 TICK 12:11 Part CHOICE with length 101 sec and transition hardcut 
+Mon Mar 23 11:52:26 2015 TICK 13:52 Part LOOP with length 133 sec and transition crossfade 
+Mon Mar 23 11:54:39 2015 TICK 16:05 Part TWIST with length 119 sec and transition hardcut 
+Mon Mar 23 11:56:38 2015 TICK 18:04 Part ZIPPER with length 228 sec and transition hardcut 
+
+Tue Mar 24 16:45:58 2015 Generator started
+Tue Mar 24 16:46:03 2015 TICK 00:05 Part BOLT with length 16 sec and transition crossfade 
+Tue Mar 24 16:46:07 2015 <nextPart>
+Tue Mar 24 16:46:12 2015 TICK 00:14 Part ANCHOR with length 27 sec and transition crossfade 
+Tue Mar 24 16:46:16 2015 Generator stopped
+
+Wed Mar 25 15:32:39 2015 Generator started
+Wed Mar 25 15:32:54 2015 TICK 00:14 Part SCREW with length 187 sec and transition free 
+Wed Mar 25 15:33:15 2015 <nextPart>
+Wed Mar 25 15:33:30 2015 TICK 00:50 Part ANCHOR with length 214 sec and transition free 
+Wed Mar 25 15:33:51 2015 <nextPart>
+Wed Mar 25 15:33:54 2015 <cancelled>
+Wed Mar 25 15:33:54 2015 TICK 01:14 Part ANCHOR with length 132 sec and transition free 
+Wed Mar 25 15:34:01 2015 <nextPart>
+Wed Mar 25 15:34:04 2015 <cancelled>
+Wed Mar 25 15:34:04 2015 TICK 01:25 Part ANCHOR with length 117 sec and transition crossfade 
+Wed Mar 25 15:35:36 2015 <nextPart>
+Wed Mar 25 15:35:51 2015 TICK 03:12 Part TWIST with length 217 sec and transition crossfade 
+Wed Mar 25 15:38:53 2015 <nextPart>
+Wed Mar 25 15:39:08 2015 TICK 06:29 Part SNAP with length 74 sec and transition crossfade 
+Wed Mar 25 15:39:44 2015 <nextPart>
+Wed Mar 25 15:39:59 2015 <cancelled>
+Wed Mar 25 15:39:59 2015 TICK 07:19 Part SNAP with length 59 sec and transition hardcut 
+Wed Mar 25 15:40:03 2015 <nextPart>
+Wed Mar 25 15:40:18 2015 TICK 07:38 Part PIN with length 120 sec and transition hardcut 
+Wed Mar 25 15:40:44 2015 <nextPart>
+Wed Mar 25 15:40:45 2015 <cancelled>
+Wed Mar 25 15:40:45 2015 TICK 08:05 Part PIN with length 68 sec and transition hardcut 
+Wed Mar 25 15:40:47 2015 <nextPart>
+Wed Mar 25 15:40:52 2015 <cancelled>
+Wed Mar 25 15:40:52 2015 TICK 08:13 Part PIN with length 62 sec and transition hardcut 
+Wed Mar 25 15:41:00 2015 <nextPart>
+Wed Mar 25 15:41:02 2015 <cancelled>
+Wed Mar 25 15:41:02 2015 TICK 08:23 Part PIN with length 48 sec and transition hardcut 
+Wed Mar 25 15:41:50 2015 TICK 09:11 Part TORQUE with length 130 sec and transition crossfade 
+Wed Mar 25 15:42:07 2015 <nextPart>
+Wed Mar 25 15:42:08 2015 <cancelled>
+Wed Mar 25 15:42:08 2015 TICK 09:28 Part TORQUE with length 92 sec and transition crossfade 
+Wed Mar 25 15:42:12 2015 <nextPart>
+Wed Mar 25 15:42:14 2015 <cancelled>
+Wed Mar 25 15:42:14 2015 TICK 09:35 Part TORQUE with length 81 sec and transition crossfade 
+Wed Mar 25 15:42:17 2015 <nextPart>
+Wed Mar 25 15:42:18 2015 <cancelled>
+Wed Mar 25 15:42:18 2015 TICK 09:39 Part TORQUE with length 81 sec and transition free 
+Wed Mar 25 15:42:21 2015 <nextPart>
+Wed Mar 25 15:42:36 2015 TICK 09:57 Part CUFF with length 81 sec and transition hardcut 
+Wed Mar 25 15:43:18 2015 <nextPart>
+Wed Mar 25 15:43:21 2015 <cancelled>
+Wed Mar 25 15:43:21 2015 TICK 10:41 Part CUFF with length 66 sec and transition free 
+Wed Mar 25 15:43:25 2015 <nextPart>
+Wed Mar 25 15:43:40 2015 TICK 11:00 Part FORGE with length 252 sec and transition crossfade 
+Wed Mar 25 15:47:52 2015 TICK 15:12 Part CHOICE with length 109 sec and transition hardcut 
+Wed Mar 25 15:49:39 2015 <cancelled>
+Wed Mar 25 15:49:39 2015 TICK 16:59 Part CHOICE with length 76 sec and transition crossfade 
+Wed Mar 25 15:49:43 2015 <nextPart>
+Wed Mar 25 15:49:58 2015 TICK 17:18 Part EYE with length 262 sec and transition crossfade 
+Wed Mar 25 15:54:20 2015 TICK 21:40 Part CUFF with length 162 sec and transition free 
+Wed Mar 25 15:57:02 2015 TICK 24:22 Part CLIP with length 91 sec and transition free 
+Wed Mar 25 15:58:33 2015 TICK 25:53 Part CHOICE with length 129 sec and transition free 
+Wed Mar 25 16:00:42 2015 TICK 28:02 Part TORQUE with length 97 sec and transition free 
+Wed Mar 25 16:02:19 2015 TICK 29:39 Part RIG with length 209 sec and transition hardcut 
+Wed Mar 25 16:05:48 2015 TICK 33:08 Part LIMIT with length 191 sec and transition hardcut 
+Wed Mar 25 16:08:59 2015 TICK 36:19 Part CUFF with length 81 sec and transition free 
+Wed Mar 25 16:10:20 2015 TICK 37:40 Part SCREW with length 136 sec and transition crossfade 
+Wed Mar 25 16:12:36 2015 TICK 39:56 Part CHOICE with length 105 sec and transition crossfade 
+Wed Mar 25 16:12:41 2015 <nextPart>
+Wed Mar 25 16:12:56 2015 TICK 40:15 Part END with length 315 sec and transition crossfade 
+Wed Mar 25 16:12:57 2015 Generator stopped
+
+Wed Mar 25 16:19:49 2015 Generator started
+Wed Mar 25 16:20:04 2015 TICK 00:15 Part IMAGINE with length 204 sec and transition crossfade 
+Wed Mar 25 16:23:28 2015 TICK 03:39 Part BOLT with length 205 sec and transition free 
+Wed Mar 25 16:23:32 2015 <nextPart>
+Wed Mar 25 16:23:47 2015 TICK 03:58 Part TWIST with length 186 sec and transition crossfade 
+Wed Mar 25 16:26:53 2015 TICK 07:04 Part FORGE with length 180 sec and transition hardcut 
+Wed Mar 25 16:29:53 2015 TICK 10:04 Part SNAP with length 170 sec and transition hardcut 
+Wed Mar 25 16:32:43 2015 TICK 12:54 Part BOW with length 140 sec and transition free 
+Wed Mar 25 16:35:03 2015 TICK 15:13 Part CHOICE with length 107 sec and transition hardcut 
+Wed Mar 25 16:36:50 2015 TICK 17:00 Part LIMIT with length 201 sec and transition free 
+Wed Mar 25 16:40:11 2015 TICK 20:22 Part LOOP with length 158 sec and transition crossfade 
+Wed Mar 25 16:42:49 2015 TICK 22:59 Part SCREW with length 147 sec and transition free 
+Wed Mar 25 16:45:16 2015 TICK 25:26 Part TWIST with length 169 sec and transition crossfade 
+Wed Mar 25 16:48:01 2015 <cancelled>
+Wed Mar 25 16:48:01 2015 TICK 28:11 Part TWIST with length 87 sec and transition hardcut 
+Wed Mar 25 16:48:14 2015 <nextPart>
+Wed Mar 25 16:48:22 2015 <cancelled>
+Wed Mar 25 16:48:22 2015 TICK 28:32 Part TWIST with length 85 sec and transition free 
+Wed Mar 25 16:48:37 2015 <nextPart>
+Wed Mar 25 16:48:40 2015 <cancelled>
+Wed Mar 25 16:48:40 2015 TICK 28:51 Part TWIST with length 107 sec and transition hardcut 
+Wed Mar 25 16:48:43 2015 <nextPart>
+Wed Mar 25 16:48:58 2015 TICK 29:09 Part ANCHOR with length 151 sec and transition hardcut 
+Wed Mar 25 16:49:04 2015 <nextPart>
+Wed Mar 25 16:49:19 2015 TICK 29:30 Part CLIP with length 75 sec and transition crossfade 
+Wed Mar 25 16:49:58 2015 <nextPart>
+Wed Mar 25 16:50:13 2015 TICK 30:24 Part TORQUE with length 146 sec and transition free 
+Wed Mar 25 16:51:00 2015 <nextPart>
+Wed Mar 25 16:51:12 2015 <cancelled>
+Wed Mar 25 16:51:12 2015 TICK 31:23 Part TORQUE with length 55 sec and transition hardcut 
+Wed Mar 25 16:51:14 2015 <nextPart>
+Wed Mar 25 16:51:29 2015 TICK 31:40 Part RIG with length 201 sec and transition hardcut 
+Wed Mar 25 16:54:50 2015 TICK 35:01 Part CHOICE with length 96 sec and transition hardcut 
+Wed Mar 25 16:56:26 2015 TICK 36:37 Part ANCHOR with length 165 sec and transition hardcut 
+Wed Mar 25 16:56:46 2015 <nextPart>
+Wed Mar 25 16:57:01 2015 TICK 37:12 Part ZIPPER with length 231 sec and transition crossfade 
+Wed Mar 25 16:59:51 2015 <nextPart>
+Wed Mar 25 17:00:06 2015 TICK 40:16 Part END with length 315 sec and transition hardcut 
+Wed Mar 25 17:00:07 2015 Generator stopped
+
+Wed Mar 25 17:11:35 2015 Generator started
+Wed Mar 25 17:11:46 2015 <cancelled>
+Wed Mar 25 17:11:46 2015 TICK 00:11 Part ANCHOR with length 231 sec and transition crossfade 
+Wed Mar 25 17:11:47 2015 <nextPart>
+Wed Mar 25 17:11:49 2015 <cancelled>
+Wed Mar 25 17:11:49 2015 TICK 00:14 Part ANCHOR with length 193 sec and transition hardcut 
+Wed Mar 25 17:11:50 2015 <nextPart>
+Wed Mar 25 17:12:05 2015 TICK 00:30 Part LOOP with length 117 sec and transition free 
+Wed Mar 25 17:14:02 2015 TICK 02:27 Part THIMBLE with length 103 sec and transition hardcut 
+Wed Mar 25 17:14:14 2015 <nextPart>
+Wed Mar 25 17:14:18 2015 <cancelled>
+Wed Mar 25 17:14:18 2015 TICK 02:43 Part THIMBLE with length 68 sec and transition free 
+Wed Mar 25 17:14:23 2015 <nextPart>
+Wed Mar 25 17:14:38 2015 TICK 03:03 Part LIMIT with length 101 sec and transition hardcut 
+Wed Mar 25 17:16:19 2015 TICK 04:44 Part LOOP with length 126 sec and transition crossfade 
+Wed Mar 25 17:18:25 2015 TICK 06:50 Part CUFF with length 96 sec and transition crossfade 
+Wed Mar 25 17:20:01 2015 TICK 08:25 Part TORQUE with length 168 sec and transition free 
+Wed Mar 25 17:22:49 2015 TICK 11:14 Part SNAP with length 146 sec and transition free 
+Wed Mar 25 17:25:15 2015 TICK 13:40 Part CHOICE with length 91 sec and transition free 
+Wed Mar 25 17:26:46 2015 TICK 15:11 Part TORQUE with length 118 sec and transition hardcut 
+Wed Mar 25 17:28:44 2015 TICK 17:09 Part PIN with length 94 sec and transition hardcut 
+Wed Mar 25 17:29:49 2015 <nextPart>
+Wed Mar 25 17:29:53 2015 <cancelled>
+Wed Mar 25 17:29:53 2015 TICK 18:18 Part PIN with length 47 sec and transition free 
+Wed Mar 25 17:30:09 2015 <nextPart>
+Wed Mar 25 17:30:12 2015 <cancelled>
+Wed Mar 25 17:30:12 2015 TICK 18:37 Part PIN with length 59 sec and transition free 
+Wed Mar 25 17:30:14 2015 <nextPart>
+Wed Mar 25 17:30:20 2015 <cancelled>
+Wed Mar 25 17:30:20 2015 TICK 18:45 Part PIN with length 67 sec and transition hardcut 
+Wed Mar 25 17:30:26 2015 <nextPart>
+Wed Mar 25 17:30:29 2015 <cancelled>
+Wed Mar 25 17:30:29 2015 TICK 18:54 Part PIN with length 71 sec and transition crossfade 
+Wed Mar 25 17:31:40 2015 TICK 20:05 Part EYE with length 191 sec and transition hardcut 
+Wed Mar 25 17:34:16 2015 <nextPart>
+Wed Mar 25 17:34:31 2015 TICK 22:56 Part SNAP with length 136 sec and transition crossfade 
+Wed Mar 25 17:35:22 2015 <nextPart>
+Wed Mar 25 17:35:34 2015 <cancelled>
+Wed Mar 25 17:35:34 2015 TICK 23:59 Part SNAP with length 63 sec and transition hardcut 
+Wed Mar 25 17:36:37 2015 TICK 25:02 Part CUFF with length 75 sec and transition hardcut 
+Wed Mar 25 17:37:52 2015 TICK 26:16 Part FORGE with length 201 sec and transition hardcut 
+Wed Mar 25 17:38:40 2015 <nextPart>
+Wed Mar 25 17:38:42 2015 <cancelled>
+Wed Mar 25 17:38:42 2015 TICK 27:07 Part FORGE with length 130 sec and transition hardcut 
+Wed Mar 25 17:38:43 2015 <nextPart>
+Wed Mar 25 17:38:45 2015 <cancelled>
+Wed Mar 25 17:38:45 2015 TICK 27:10 Part FORGE with length 84 sec and transition free 
+Wed Mar 25 17:38:46 2015 <nextPart>
+Wed Mar 25 17:39:01 2015 TICK 27:26 Part IMAGINE with length 232 sec and transition hardcut 
+Wed Mar 25 17:39:39 2015 <nextPart>
+Wed Mar 25 17:39:41 2015 <cancelled>
+Wed Mar 25 17:39:41 2015 TICK 28:06 Part IMAGINE with length 121 sec and transition hardcut 
+Wed Mar 25 17:41:42 2015 TICK 30:07 Part BOLT with length 73 sec and transition free 
+Wed Mar 25 17:41:56 2015 <nextPart>
+Wed Mar 25 17:41:57 2015 <cancelled>
+Wed Mar 25 17:41:57 2015 TICK 30:22 Part BOLT with length 81 sec and transition hardcut 
+Wed Mar 25 17:41:59 2015 <nextPart>
+Wed Mar 25 17:42:02 2015 <cancelled>
+Wed Mar 25 17:42:02 2015 TICK 30:27 Part BOLT with length 110 sec and transition crossfade 
+Wed Mar 25 17:42:04 2015 <nextPart>
+Wed Mar 25 17:42:19 2015 TICK 30:44 Part THIMBLE with length 184 sec and transition crossfade 
+Wed Mar 25 17:43:15 2015 <nextPart>
+Wed Mar 25 17:43:30 2015 TICK 31:55 Part RIG with length 151 sec and transition free 
+Wed Mar 25 17:45:08 2015 <nextPart>
+Wed Mar 25 17:45:09 2015 <cancelled>
+Wed Mar 25 17:45:09 2015 TICK 33:34 Part RIG with length 97 sec and transition crossfade 
+Wed Mar 25 17:45:12 2015 <nextPart>
+Wed Mar 25 17:45:14 2015 <cancelled>
+Wed Mar 25 17:45:14 2015 TICK 33:39 Part RIG with length 94 sec and transition free 
+Wed Mar 25 17:45:15 2015 <nextPart>
+Wed Mar 25 17:45:30 2015 TICK 33:55 Part BOLT with length 172 sec and transition crossfade 
+Wed Mar 25 17:48:22 2015 TICK 36:47 Part PIN with length 110 sec and transition free 
+Wed Mar 25 17:49:21 2015 Generator stopped
+
+Wed Mar 25 17:49:24 2015 Generator started
+Wed Mar 25 17:49:39 2015 TICK 00:15 Part ANCHOR with length 246 sec and transition hardcut 
+Wed Mar 25 17:52:40 2015 <nextPart>
+Wed Mar 25 17:52:55 2015 TICK 03:31 Part ZIPPER with length 179 sec and transition hardcut 
+Wed Mar 25 17:54:59 2015 <nextPart>
+Wed Mar 25 17:55:14 2015 TICK 05:49 Part CLIP with length 79 sec and transition crossfade 
+Wed Mar 25 17:56:33 2015 TICK 07:09 Part IMAGINE with length 245 sec and transition hardcut 
+Wed Mar 25 17:58:54 2015 <nextPart>
+Wed Mar 25 17:59:09 2015 TICK 09:45 Part CUFF with length 109 sec and transition hardcut 
+Wed Mar 25 18:00:39 2015 <nextPart>
+Wed Mar 25 18:00:54 2015 TICK 11:29 Part LIMIT with length 219 sec and transition free 
+Wed Mar 25 18:04:33 2015 TICK 15:09 Part CHAIN with length 111 sec and transition free 
+
+Wed Mar 25 20:19:22 2015 Generator started
+Wed Mar 25 20:19:37 2015 TICK 00:15 Part TORQUE with length 149 sec and transition free 
+Wed Mar 25 20:19:39 2015 <nextPart>
+Wed Mar 25 20:19:54 2015 TICK 00:32 Part IMAGINE with length 157 sec and transition crossfade 
+
+Wed Mar 25 20:22:30 2015 Generator started
+Wed Mar 25 20:22:45 2015 TICK 00:15 Part FORGE with length 251 sec and transition free 
+Wed Mar 25 20:24:02 2015 <nextPart>
+Wed Mar 25 20:24:08 2015 <cancelled>
+Wed Mar 25 20:24:08 2015 TICK 01:37 Part FORGE with length 88 sec and transition crossfade 
+Wed Mar 25 20:24:18 2015 <nextPart>
+Wed Mar 25 20:24:33 2015 TICK 02:02 Part IMAGINE with length 244 sec and transition free 
+Wed Mar 25 20:25:34 2015 <nextPart>
+Wed Mar 25 20:25:49 2015 TICK 03:18 Part FORGE with length 163 sec and transition free 
+Wed Mar 25 20:25:54 2015 <nextPart>
+Wed Mar 25 20:26:09 2015 TICK 03:38 Part CUFF with length 83 sec and transition hardcut 
+Wed Mar 25 20:27:32 2015 TICK 05:01 Part LOOP with length 141 sec and transition free 
+Wed Mar 25 20:29:53 2015 TICK 07:22 Part CLIP with length 72 sec and transition free 
+Wed Mar 25 20:31:05 2015 TICK 08:34 Part SHACKLE with length 100 sec and transition free 
+Wed Mar 25 20:32:45 2015 TICK 10:14 Part SCREW with length 235 sec and transition free 
+Wed Mar 25 20:36:40 2015 TICK 14:09 Part SNAP with length 124 sec and transition free 
+Wed Mar 25 20:38:44 2015 TICK 16:13 Part LOOP with length 127 sec and transition free 
+Wed Mar 25 20:40:51 2015 TICK 18:20 Part SCREW with length 150 sec and transition hardcut 
+Wed Mar 25 20:43:21 2015 TICK 20:50 Part CHAIN with length 169 sec and transition free 
+Wed Mar 25 20:46:10 2015 TICK 23:39 Part TWIST with length 156 sec and transition crossfade 
+Wed Mar 25 20:48:46 2015 TICK 26:15 Part ZIPPER with length 268 sec and transition free 
+Wed Mar 25 20:52:32 2015 <nextPart>
+Wed Mar 25 20:52:47 2015 TICK 30:15 Part END with length 315 sec and transition hardcut 
+Wed Mar 25 20:52:48 2015 Generator stopped
+
+Wed Mar 25 21:57:44 2015 Generator started
+Wed Mar 25 21:57:45 2015 <cancelled>
+Wed Mar 25 21:57:45 2015 TICK 00:01 Part SHACKLE with length 177 sec and transition hardcut 
+Wed Mar 25 21:57:46 2015 <nextPart>
+Wed Mar 25 21:58:01 2015 TICK 00:16 Part CLIP with length 67 sec and transition free 
+Wed Mar 25 21:59:08 2015 TICK 01:24 Part BOW with length 132 sec and transition crossfade 
+Wed Mar 25 21:59:25 2015 <nextPart>
+Wed Mar 25 21:59:40 2015 TICK 01:55 Part SHACKLE with length 159 sec and transition free 
+Wed Mar 25 21:59:49 2015 <nextPart>
+Wed Mar 25 22:00:04 2015 TICK 02:19 Part LOOP with length 133 sec and transition crossfade 
+Wed Mar 25 22:00:43 2015 <nextPart>
+Wed Mar 25 22:00:50 2015 <cancelled>
+Wed Mar 25 22:00:50 2015 TICK 03:06 Part LOOP with length 86 sec and transition crossfade 
+Wed Mar 25 22:00:54 2015 <nextPart>
+Wed Mar 25 22:00:59 2015 <cancelled>
+Wed Mar 25 22:00:59 2015 TICK 03:15 Part LOOP with length 70 sec and transition crossfade 
+Wed Mar 25 22:01:01 2015 Generator stopped
+
+Wed Mar 25 22:07:25 2015 Generator started
+Wed Mar 25 22:07:29 2015 <cancelled>
+Wed Mar 25 22:07:29 2015 TICK 00:04 Part LOOP with length 118 sec and transition free 
+Wed Mar 25 22:07:30 2015 <nextPart>
+Wed Mar 25 22:07:45 2015 TICK 00:19 Part TWIST with length 140 sec and transition crossfade 
+Wed Mar 25 22:10:04 2015 <cancelled>
+Wed Mar 25 22:10:04 2015 TICK 02:38 Part TWIST with length 96 sec and transition crossfade 
+Wed Mar 25 22:10:11 2015 <nextPart>
+Wed Mar 25 22:10:15 2015 <cancelled>
+Wed Mar 25 22:10:15 2015 TICK 02:50 Part TWIST with length 85 sec and transition crossfade 
+Wed Mar 25 22:10:16 2015 <nextPart>
+Wed Mar 25 22:10:31 2015 TICK 03:05 Part ZIPPER with length 180 sec and transition hardcut 
+Wed Mar 25 22:13:24 2015 <cancelled>
+Wed Mar 25 22:13:24 2015 TICK 05:59 Part ZIPPER with length 89 sec and transition free 
+Wed Mar 25 22:13:35 2015 <nextPart>
+Wed Mar 25 22:13:50 2015 TICK 06:25 Part CHAIN with length 132 sec and transition crossfade 
+Wed Mar 25 22:16:02 2015 TICK 08:37 Part SCREW with length 190 sec and transition crossfade 
+Wed Mar 25 22:16:33 2015 <nextPart>
+Wed Mar 25 22:16:48 2015 TICK 09:23 Part CLIP with length 67 sec and transition hardcut 
+Wed Mar 25 22:17:45 2015 <cancelled>
+Wed Mar 25 22:17:45 2015 TICK 10:20 Part CLIP with length 37 sec and transition hardcut 
+Wed Mar 25 22:18:12 2015 <cancelled>
+Wed Mar 25 22:18:12 2015 TICK 10:47 Part CLIP with length 48 sec and transition hardcut 
+Wed Mar 25 22:18:37 2015 <nextPart>
+Wed Mar 25 22:18:39 2015 <cancelled>
+Wed Mar 25 22:18:39 2015 TICK 11:14 Part CLIP with length 44 sec and transition crossfade 
+Wed Mar 25 22:18:40 2015 <nextPart>
+Wed Mar 25 22:18:55 2015 TICK 11:30 Part THIMBLE with length 109 sec and transition hardcut 
+Wed Mar 25 22:20:37 2015 <cancelled>
+Wed Mar 25 22:20:37 2015 TICK 13:12 Part THIMBLE with length 69 sec and transition hardcut 
+Wed Mar 25 22:20:38 2015 <nextPart>
+Wed Mar 25 22:20:46 2015 <cancelled>
+Wed Mar 25 22:20:46 2015 TICK 13:20 Part THIMBLE with length 79 sec and transition free 
+Wed Mar 25 22:21:17 2015 <nextPart>
+Wed Mar 25 22:21:32 2015 TICK 14:06 Part LOOP with length 148 sec and transition crossfade 
+Wed Mar 25 22:23:49 2015 <cancelled>
+Wed Mar 25 22:23:49 2015 TICK 16:24 Part LOOP with length 59 sec and transition crossfade 
+Wed Mar 25 22:23:52 2015 <nextPart>
+Wed Mar 25 22:24:07 2015 TICK 16:42 Part BOW with length 131 sec and transition crossfade 
+Wed Mar 25 22:26:18 2015 TICK 18:53 Part SHACKLE with length 85 sec and transition crossfade 
+Wed Mar 25 22:27:38 2015 <cancelled>
+Wed Mar 25 22:27:38 2015 TICK 20:13 Part SHACKLE with length 87 sec and transition crossfade 
+Wed Mar 25 22:29:02 2015 <cancelled>
+Wed Mar 25 22:29:02 2015 TICK 21:37 Part SHACKLE with length 82 sec and transition crossfade 
+Wed Mar 25 22:29:15 2015 <nextPart>
+Wed Mar 25 22:29:30 2015 TICK 22:05 Part CLIP with length 70 sec and transition hardcut 
+Wed Mar 25 22:29:59 2015 <nextPart>
+Wed Mar 25 22:30:14 2015 <cancelled>
+Wed Mar 25 22:30:14 2015 TICK 22:49 Part CLIP with length 57 sec and transition free 
+Wed Mar 25 22:30:15 2015 <nextPart>
+Wed Mar 25 22:30:24 2015 <cancelled>
+Wed Mar 25 22:30:24 2015 TICK 22:59 Part CLIP with length 47 sec and transition hardcut 
+Wed Mar 25 22:30:25 2015 <nextPart>
+Wed Mar 25 22:30:28 2015 <cancelled>
+Wed Mar 25 22:30:28 2015 TICK 23:03 Part CLIP with length 45 sec and transition hardcut 
+Wed Mar 25 22:30:29 2015 <nextPart>
+Wed Mar 25 22:30:32 2015 <cancelled>
+Wed Mar 25 22:30:32 2015 TICK 23:07 Part CLIP with length 45 sec and transition hardcut 
+Wed Mar 25 22:30:33 2015 <nextPart>
+Wed Mar 25 22:30:35 2015 <cancelled>
+Wed Mar 25 22:30:35 2015 TICK 23:10 Part CLIP with length 58 sec and transition crossfade 
+Wed Mar 25 22:30:37 2015 <nextPart>
+Wed Mar 25 22:30:38 2015 <cancelled>
+Wed Mar 25 22:30:38 2015 TICK 23:13 Part CLIP with length 37 sec and transition crossfade 
+Wed Mar 25 22:31:15 2015 TICK 23:50 Part IMAGINE with length 267 sec and transition crossfade 
+Wed Mar 25 22:35:42 2015 TICK 28:17 Part TORQUE with length 179 sec and transition hardcut 
+Wed Mar 25 22:37:25 2015 <nextPart>
+Wed Mar 25 22:37:40 2015 TICK 30:14 Part END with length 315 sec and transition free 
+Wed Mar 25 22:37:41 2015 Generator stopped
+
+Wed Mar 25 22:41:20 2015 Generator started
+Wed Mar 25 22:41:35 2015 TICK 00:14 Part CHOICE with length 85 sec and transition crossfade 
+Wed Mar 25 22:41:43 2015 <nextPart>
+Wed Mar 25 22:41:58 2015 <cancelled>
+Wed Mar 25 22:41:58 2015 TICK 00:38 Part CHOICE with length 58 sec and transition hardcut 
+Wed Mar 25 22:41:59 2015 <nextPart>
+Wed Mar 25 22:42:01 2015 <cancelled>
+Wed Mar 25 22:42:01 2015 TICK 00:40 Part CHOICE with length 68 sec and transition crossfade 
+Wed Mar 25 22:42:02 2015 <nextPart>
+Wed Mar 25 22:42:17 2015 TICK 00:56 Part RIG with length 159 sec and transition hardcut 
+Wed Mar 25 22:43:04 2015 <nextPart>
+Wed Mar 25 22:43:12 2015 <cancelled>
+Wed Mar 25 22:43:12 2015 TICK 01:52 Part RIG with length 86 sec and transition hardcut 
+Wed Mar 25 22:43:36 2015 <nextPart>
+Wed Mar 25 22:43:51 2015 TICK 02:30 Part ZIPPER with length 163 sec and transition crossfade 
+Wed Mar 25 22:44:49 2015 <nextPart>
+Wed Mar 25 22:44:50 2015 <cancelled>
+Wed Mar 25 22:44:50 2015 TICK 03:29 Part ZIPPER with length 130 sec and transition hardcut 
+Wed Mar 25 22:44:52 2015 <nextPart>
+Wed Mar 25 22:44:56 2015 <cancelled>
+Wed Mar 25 22:44:56 2015 TICK 03:35 Part ZIPPER with length 109 sec and transition free 
+Wed Mar 25 22:44:59 2015 <nextPart>
+Wed Mar 25 22:45:14 2015 TICK 03:53 Part LIMIT with length 149 sec and transition crossfade 
+Wed Mar 25 22:47:43 2015 TICK 06:22 Part SNAP with length 111 sec and transition crossfade 
+Wed Mar 25 22:49:34 2015 TICK 08:13 Part LOOP with length 122 sec and transition free 
+Wed Mar 25 22:51:29 2015 Generator stopped
+
+Mon May 11 18:13:12 2015 Generator started
+Mon May 11 18:13:27 2015 TICK 00:14 Part CHOICE with length 123 sec and transition crossfade 
+Mon May 11 18:13:36 2015 <nextPart>
+Mon May 11 18:13:51 2015 TICK 00:39 Part EYE with length 209 sec and transition hardcut 
+Mon May 11 18:13:57 2015 <nextPart>
+Mon May 11 18:14:12 2015 TICK 01:00 Part CHAIN with length 86 sec and transition hardcut 
+Mon May 11 18:14:18 2015 <nextPart>
+Mon May 11 18:14:33 2015 TICK 01:20 Part TORQUE with length 114 sec and transition hardcut 
+Mon May 11 18:14:39 2015 <nextPart>
+Mon May 11 18:14:54 2015 TICK 01:42 Part SNAP with length 138 sec and transition crossfade 
+Mon May 11 18:15:00 2015 <nextPart>
+Mon May 11 18:15:15 2015 TICK 02:03 Part LOOP with length 163 sec and transition free 
+Mon May 11 18:15:21 2015 <nextPart>
+Mon May 11 18:15:36 2015 TICK 02:23 Part SCREW with length 135 sec and transition hardcut 
+Mon May 11 18:15:42 2015 <nextPart>
+Mon May 11 18:15:57 2015 TICK 02:44 Part CHAIN with length 171 sec and transition crossfade 
+Mon May 11 18:15:59 2015 Generator stopped
+
+Mon May 11 18:16:07 2015 Generator started
+Mon May 11 18:16:22 2015 TICK 00:15 Part THIMBLE with length 188 sec and transition hardcut 
+Mon May 11 18:19:09 2015 <nextPart>
+Mon May 11 18:19:16 2015 <cancelled>
+Mon May 11 18:19:16 2015 TICK 03:09 Part THIMBLE with length 57 sec and transition crossfade 
+Mon May 11 18:19:18 2015 <nextPart>
+Mon May 11 18:19:33 2015 TICK 03:26 Part RIG with length 173 sec and transition crossfade 
+Mon May 11 18:22:26 2015 TICK 06:19 Part SNAP with length 165 sec and transition free 
+Mon May 11 18:25:04 2015 <cancelled>
+Mon May 11 18:25:04 2015 TICK 08:57 Part SNAP with length 52 sec and transition hardcut 
+Mon May 11 18:25:56 2015 TICK 09:49 Part LOOP with length 111 sec and transition crossfade 
+Mon May 11 18:27:47 2015 TICK 11:40 Part LIMIT with length 162 sec and transition crossfade 
+Mon May 11 18:30:29 2015 TICK 14:21 Part TWIST with length 221 sec and transition hardcut 
+Mon May 11 18:34:05 2015 <cancelled>
+Mon May 11 18:34:05 2015 TICK 17:58 Part TWIST with length 118 sec and transition crossfade 
+Mon May 11 18:35:53 2015 <cancelled>
+Mon May 11 18:35:53 2015 TICK 19:46 Part TWIST with length 128 sec and transition hardcut 
+Mon May 11 18:38:01 2015 TICK 21:54 Part SCREW with length 194 sec and transition crossfade 
+Mon May 11 18:38:07 2015 Generator stopped
+
+Mon May 11 22:14:35 2015 Generator started
+Mon May 11 22:14:40 2015 TICK 00:05 Part CUFF with length 15 sec and transition hardcut 
+Mon May 11 22:14:46 2015 <nextPart>
+Mon May 11 22:14:51 2015 TICK 00:16 Part SNAP with length 18 sec and transition free 
+Mon May 11 22:15:09 2015 TICK 00:33 Part CLIP with length 10 sec and transition free 
+Mon May 11 22:15:14 2015 <nextPart>
+Mon May 11 22:15:19 2015 TICK 00:43 Part IMAGINE with length 20 sec and transition free 
+Mon May 11 22:15:21 2015 Generator stopped
+
+Mon May 11 22:19:11 2015 Generator started
+Mon May 11 22:19:26 2015 TICK 00:15 Part SNAP with length 125 sec and transition free 
+Mon May 11 22:19:30 2015 Generator stopped
+
+Mon May 11 22:26:52 2015 Generator started
+Mon May 11 22:27:07 2015 TICK 00:15 Part RIG with length 153 sec and transition hardcut 
+Mon May 11 22:27:16 2015 Generator stopped
+
+Mon May 11 22:27:41 2015 Generator started
+Mon May 11 22:27:56 2015 TICK 00:14 Part EYE with length 249 sec and transition crossfade 
+Mon May 11 22:27:57 2015 Generator stopped
+
+Mon May 11 22:28:07 2015 Generator started
+Mon May 11 22:28:22 2015 TICK 00:15 Part SCREW with length 199 sec and transition crossfade 
+Mon May 11 22:28:40 2015 Generator stopped
+
+Mon May 11 22:28:46 2015 Generator started
+Mon May 11 22:29:01 2015 TICK 00:14 Part ZIPPER with length 230 sec and transition free 
+Mon May 11 22:29:14 2015 Generator stopped
+
+Tue May 12 10:17:28 2015 Generator started
+Tue May 12 10:17:42 2015 Generator stopped
+
+Tue May 12 10:18:20 2015 Generator started
+Tue May 12 10:18:35 2015 TICK 00:14 Part ANCHOR with length 176 sec and transition hardcut 
+Tue May 12 10:18:45 2015 <nextPart>
+Tue May 12 10:19:00 2015 TICK 00:39 Part CHOICE with length 122 sec and transition crossfade 
+Tue May 12 10:21:02 2015 TICK 02:42 Part PIN with length 93 sec and transition free 
+Tue May 12 10:21:45 2015 <nextPart>
+Tue May 12 10:21:51 2015 <cancelled>
+Tue May 12 10:21:51 2015 TICK 03:31 Part PIN with length 62 sec and transition hardcut 
+Tue May 12 10:21:52 2015 <nextPart>
+Tue May 12 10:22:07 2015 TICK 03:47 Part CUFF with length 125 sec and transition hardcut 
+Tue May 12 10:22:16 2015 <nextPart>
+Tue May 12 10:22:17 2015 <cancelled>
+Tue May 12 10:22:17 2015 TICK 03:57 Part CUFF with length 74 sec and transition hardcut 
+Tue May 12 10:22:47 2015 <nextPart>
+Tue May 12 10:23:02 2015 TICK 04:42 Part SHACKLE with length 85 sec and transition crossfade 
+Tue May 12 10:23:07 2015 <nextPart>
+Tue May 12 10:23:10 2015 <cancelled>
+Tue May 12 10:23:10 2015 TICK 04:49 Part SHACKLE with length 113 sec and transition hardcut 
+Tue May 12 10:23:19 2015 <nextPart>
+Tue May 12 10:23:29 2015 <cancelled>
+Tue May 12 10:23:29 2015 TICK 05:08 Part SHACKLE with length 105 sec and transition hardcut 
+Tue May 12 10:25:14 2015 TICK 06:53 Part THIMBLE with length 120 sec and transition hardcut 
+Tue May 12 10:25:47 2015 <nextPart>
+Tue May 12 10:25:59 2015 Generator stopped
+
+Tue May 12 10:27:35 2015 Generator started
+Tue May 12 10:27:50 2015 TICK 00:15 Part SCREW with length 222 sec and transition crossfade 
+Tue May 12 10:28:28 2015 <nextPart>
+Tue May 12 10:28:43 2015 TICK 01:08 Part IMAGINE with length 258 sec and transition hardcut 
+Tue May 12 10:33:01 2015 TICK 05:25 Part CHAIN with length 83 sec and transition hardcut 
+Tue May 12 10:34:24 2015 TICK 06:49 Part ZIPPER with length 223 sec and transition hardcut 
+Tue May 12 10:38:07 2015 TICK 10:32 Part RIG with length 224 sec and transition crossfade 
+Tue May 12 10:41:51 2015 TICK 14:16 Part ZIPPER with length 184 sec and transition hardcut 
+Tue May 12 10:44:55 2015 TICK 17:20 Part TORQUE with length 132 sec and transition free 
+Tue May 12 10:47:07 2015 TICK 19:32 Part PIN with length 95 sec and transition free 
+Tue May 12 10:48:36 2015 <cancelled>
+Tue May 12 10:48:36 2015 TICK 21:00 Part PIN with length 56 sec and transition free 
+Tue May 12 10:49:32 2015 TICK 21:56 Part CHAIN with length 102 sec and transition free 
+Tue May 12 10:51:14 2015 TICK 23:38 Part CLIP with length 100 sec and transition crossfade 
+Tue May 12 10:52:54 2015 TICK 25:18 Part CUFF with length 162 sec and transition crossfade 
+Tue May 12 10:55:24 2015 <cancelled>
+Tue May 12 10:55:24 2015 TICK 27:48 Part CUFF with length 64 sec and transition free 
+Tue May 12 10:56:16 2015 <cancelled>
+Tue May 12 10:56:16 2015 TICK 28:41 Part CUFF with length 86 sec and transition free 
+Tue May 12 10:57:42 2015 TICK 30:01 Part SCREW with length 166 sec and transition crossfade 
+Tue May 12 10:57:44 2015 <nextPart>
+Tue May 12 10:57:59 2015 TICK 30:15 Part END with length 315 sec and transition crossfade 
+Tue May 12 10:58:00 2015 Generator stopped
+
+Tue May 12 10:58:58 2015 Generator started
+Tue May 12 10:59:13 2015 TICK 00:14 Part BOLT with length 185 sec and transition free 
+Tue May 12 11:02:18 2015 TICK 03:19 Part RIG with length 114 sec and transition crossfade 
+Tue May 12 11:04:12 2015 TICK 05:14 Part ANCHOR with length 216 sec and transition crossfade 
+Tue May 12 11:07:48 2015 TICK 08:50 Part IMAGINE with length 243 sec and transition hardcut 
+Tue May 12 11:11:06 2015 <nextPart>
+Tue May 12 11:11:07 2015 <cancelled>
+Tue May 12 11:11:07 2015 TICK 12:09 Part IMAGINE with length 100 sec and transition crossfade 
+Tue May 12 11:11:08 2015 <nextPart>
+Tue May 12 11:11:09 2015 <cancelled>
+Tue May 12 11:11:09 2015 TICK 12:11 Part IMAGINE with length 134 sec and transition free 
+Tue May 12 11:13:23 2015 TICK 14:25 Part CLIP with length 74 sec and transition crossfade 
+Tue May 12 11:14:37 2015 TICK 15:39 Part CUFF with length 116 sec and transition crossfade 
+Tue May 12 11:16:33 2015 TICK 17:35 Part BOLT with length 81 sec and transition hardcut 
+Tue May 12 11:17:54 2015 TICK 18:56 Part SNAP with length 122 sec and transition free 
+Tue May 12 11:19:56 2015 TICK 20:58 Part CLIP with length 68 sec and transition hardcut 
+Tue May 12 11:20:29 2015 Generator stopped
+
+Tue May 12 11:23:33 2015 Generator started
+Tue May 12 11:23:48 2015 TICK 00:15 Part LIMIT with length 123 sec and transition crossfade 
+Tue May 12 11:23:58 2015 <nextPart>
+Tue May 12 11:24:05 2015 <cancelled>
+Tue May 12 11:24:05 2015 TICK 00:31 Part LIMIT with length 98 sec and transition free 
+Tue May 12 11:24:45 2015 <nextPart>
+Tue May 12 11:25:00 2015 TICK 01:27 Part BOW with length 178 sec and transition hardcut 
+Tue May 12 11:25:16 2015 <nextPart>
+Tue May 12 11:25:31 2015 TICK 01:57 Part LOOP with length 134 sec and transition hardcut 
+Tue May 12 11:27:45 2015 TICK 04:12 Part ZIPPER with length 150 sec and transition crossfade 
+Tue May 12 11:30:15 2015 TICK 06:41 Part LIMIT with length 121 sec and transition hardcut 
+Tue May 12 11:32:02 2015 Generator stopped
+
+Tue May 12 11:32:03 2015 Generator started
+Tue May 12 11:32:18 2015 TICK 00:14 Part IMAGINE with length 178 sec and transition free 
+Tue May 12 11:34:29 2015 Generator stopped
+
+Tue May 12 11:34:30 2015 Generator started
+Tue May 12 11:34:45 2015 TICK 00:15 Part THIMBLE with length 173 sec and transition crossfade 
+Tue May 12 11:37:19 2015 <nextPart>
+Tue May 12 11:37:26 2015 <cancelled>
+Tue May 12 11:37:26 2015 TICK 02:55 Part THIMBLE with length 73 sec and transition hardcut 
+Tue May 12 11:37:27 2015 <nextPart>
+Tue May 12 11:37:42 2015 TICK 03:11 Part ZIPPER with length 218 sec and transition hardcut 
+Tue May 12 11:41:14 2015 <cancelled>
+Tue May 12 11:41:14 2015 TICK 06:44 Part ZIPPER with length 91 sec and transition crossfade 
+Tue May 12 11:42:45 2015 TICK 08:15 Part BOLT with length 81 sec and transition crossfade 
+Tue May 12 11:44:06 2015 TICK 09:36 Part IMAGINE with length 212 sec and transition free 
+Tue May 12 11:47:27 2015 <cancelled>
+Tue May 12 11:47:27 2015 TICK 12:56 Part IMAGINE with length 105 sec and transition crossfade 
+Tue May 12 11:49:12 2015 TICK 14:41 Part SCREW with length 171 sec and transition free 
+Tue May 12 11:52:03 2015 TICK 17:32 Part CUFF with length 110 sec and transition free 
+Tue May 12 11:53:41 2015 <cancelled>
+Tue May 12 11:53:41 2015 TICK 19:11 Part CUFF with length 84 sec and transition hardcut 
+Tue May 12 11:55:00 2015 <cancelled>
+Tue May 12 11:55:00 2015 TICK 20:30 Part CUFF with length 87 sec and transition crossfade 
+Tue May 12 11:56:19 2015 <cancelled>
+Tue May 12 11:56:19 2015 TICK 21:48 Part CUFF with length 82 sec and transition hardcut 
+Tue May 12 11:56:20 2015 <nextPart>
+Tue May 12 11:56:35 2015 TICK 22:04 Part PIN with length 87 sec and transition free 
+Tue May 12 11:57:49 2015 <cancelled>
+Tue May 12 11:57:49 2015 TICK 23:19 Part PIN with length 67 sec and transition crossfade 
+Tue May 12 11:58:45 2015 <cancelled>
+Tue May 12 11:58:45 2015 TICK 24:14 Part PIN with length 54 sec and transition hardcut 
+Tue May 12 11:59:39 2015 TICK 25:08 Part BOW with length 161 sec and transition free 
+Tue May 12 12:02:10 2015 <cancelled>
+Tue May 12 12:02:10 2015 TICK 27:39 Part BOW with length 105 sec and transition free 
+Tue May 12 12:03:49 2015 <cancelled>
+Tue May 12 12:03:49 2015 TICK 29:19 Part BOW with length 74 sec and transition hardcut 
+Tue May 12 12:03:50 2015 <nextPart>
+Tue May 12 12:04:05 2015 TICK 29:34 Part RIG with length 178 sec and transition hardcut 
+Tue May 12 12:04:32 2015 <nextPart>
+Tue May 12 12:04:47 2015 TICK 30:15 Part END with length 315 sec and transition free 
+Tue May 12 12:04:48 2015 Generator stopped
+
+Tue May 12 16:37:53 2015 Generator started
+Tue May 12 16:38:08 2015 TICK 00:14 Part SCREW with length 227 sec and transition crossfade 
+Tue May 12 16:38:13 2015 <nextPart>
+Tue May 12 16:38:20 2015 <cancelled>
+Tue May 12 16:38:20 2015 TICK 00:26 Part SCREW with length 120 sec and transition free 
+Tue May 12 16:38:58 2015 <nextPart>
+Tue May 12 16:39:13 2015 TICK 01:19 Part TORQUE with length 144 sec and transition free 
+Tue May 12 16:39:56 2015 <nextPart>
+Tue May 12 16:40:11 2015 TICK 02:17 Part LIMIT with length 148 sec and transition crossfade 
+Tue May 12 16:40:43 2015 Generator stopped
+
+Tue May 12 16:43:44 2015 Generator started
+Tue May 12 16:43:45 2015 <cancelled>
+Tue May 12 16:43:45 2015 TICK 00:00 Part LIMIT with length 225 sec and transition free 
+Tue May 12 16:43:46 2015 <nextPart>
+Tue May 12 16:44:01 2015 TICK 00:16 Part SHACKLE with length 134 sec and transition crossfade 
+Tue May 12 16:46:15 2015 TICK 02:30 Part ANCHOR with length 163 sec and transition crossfade 
+Tue May 12 16:48:58 2015 TICK 05:14 Part IMAGINE with length 231 sec and transition free 
+Tue May 12 16:51:34 2015 <nextPart>
+Tue May 12 16:51:38 2015 <cancelled>
+Tue May 12 16:51:38 2015 TICK 07:54 Part IMAGINE with length 114 sec and transition hardcut 
+Tue May 12 16:51:39 2015 <nextPart>
+Tue May 12 16:51:54 2015 TICK 08:10 Part LIMIT with length 173 sec and transition crossfade 
+Tue May 12 16:54:47 2015 TICK 11:03 Part TORQUE with length 129 sec and transition free 
+Tue May 12 16:56:46 2015 <cancelled>
+Tue May 12 16:56:46 2015 TICK 13:02 Part TORQUE with length 74 sec and transition hardcut 
+Tue May 12 16:58:00 2015 TICK 14:16 Part FORGE with length 232 sec and transition free 
+Tue May 12 17:00:24 2015 <nextPart>
+Tue May 12 17:00:39 2015 TICK 16:55 Part SHACKLE with length 223 sec and transition free 
+Tue May 12 17:03:45 2015 <nextPart>
+Tue May 12 17:04:00 2015 TICK 20:15 Part END with length 315 sec and transition crossfade 
+Tue May 12 17:04:01 2015 Generator stopped
+
+Wed May 13 09:50:29 2015 Generator started
+Wed May 13 09:50:31 2015 <cancelled>
+Wed May 13 09:50:31 2015 TICK 00:02 Part BOW with length 216 sec and transition free 
+Wed May 13 09:50:32 2015 <nextPart>
+Wed May 13 09:50:32 2015 Generator stopped
+
+Wed May 13 09:51:44 2015 Generator started
+Wed May 13 09:51:46 2015 <cancelled>
+Wed May 13 09:51:46 2015 TICK 00:02 Part BOW with length 142 sec and transition crossfade 
+Wed May 13 09:51:47 2015 <nextPart>
+Wed May 13 09:51:51 2015 <cancelled>
+Wed May 13 09:51:51 2015 TICK 00:07 Part BOW with length 141 sec and transition crossfade 
+Wed May 13 09:51:52 2015 <nextPart>
+Wed May 13 09:51:56 2015 <cancelled>
+Wed May 13 09:51:56 2015 TICK 00:11 Part BOW with length 213 sec and transition free 
+Wed May 13 09:51:57 2015 <nextPart>
+Wed May 13 09:51:58 2015 <cancelled>
+Wed May 13 09:51:58 2015 TICK 00:13 Part BOW with length 141 sec and transition free 
+Wed May 13 09:52:02 2015 <nextPart>
+Wed May 13 09:52:05 2015 <cancelled>
+Wed May 13 09:52:05 2015 TICK 00:20 Part BOW with length 170 sec and transition free 
+Wed May 13 09:52:06 2015 <nextPart>
+Wed May 13 09:52:09 2015 <cancelled>
+Wed May 13 09:52:09 2015 TICK 00:25 Part BOW with length 182 sec and transition crossfade 
+Wed May 13 09:52:10 2015 <nextPart>
+Wed May 13 09:52:13 2015 <cancelled>
+Wed May 13 09:52:13 2015 TICK 00:28 Part BOW with length 139 sec and transition crossfade 
+Wed May 13 09:52:14 2015 <nextPart>
+Wed May 13 09:52:17 2015 <cancelled>
+Wed May 13 09:52:17 2015 TICK 00:33 Part BOW with length 211 sec and transition free 
+Wed May 13 09:52:18 2015 <nextPart>
+Wed May 13 09:52:21 2015 Generator stopped
+
+Wed May 13 15:42:40 2015 Generator started
+Wed May 13 15:42:55 2015 TICK 00:15 Part LIMIT with length 108 sec and transition free 
+Wed May 13 15:42:58 2015 <nextPart>
+Wed May 13 15:43:13 2015 TICK 00:33 Part BOLT with length 191 sec and transition crossfade 
+Wed May 13 15:43:19 2015 <nextPart>
+Wed May 13 15:43:34 2015 TICK 00:54 Part LIMIT with length 169 sec and transition hardcut 
+Wed May 13 15:44:36 2015 <nextPart>
+Wed May 13 15:44:38 2015 <cancelled>
+Wed May 13 15:44:38 2015 TICK 01:58 Part LIMIT with length 105 sec and transition free 
+Wed May 13 15:44:39 2015 Generator stopped
+
+Wed May 13 15:44:40 2015 Generator started
+Wed May 13 15:44:47 2015 <cancelled>
+Wed May 13 15:44:47 2015 TICK 00:07 Part LIMIT with length 113 sec and transition free 
+Wed May 13 15:44:48 2015 <nextPart>
+Wed May 13 15:45:03 2015 TICK 00:23 Part ANCHOR with length 212 sec and transition hardcut 
+Wed May 13 15:46:45 2015 Generator stopped
+
+Wed May 13 16:09:37 2015 Generator started
+Wed May 13 16:09:52 2015 TICK 00:15 Part PIN with length 115 sec and transition crossfade 
+Wed May 13 16:11:47 2015 TICK 02:10 Part SHACKLE with length 188 sec and transition hardcut 
+Wed May 13 16:14:55 2015 TICK 05:18 Part SNAP with length 119 sec and transition free 
+Wed May 13 16:16:45 2015 <cancelled>
+Wed May 13 16:16:45 2015 TICK 07:08 Part SNAP with length 73 sec and transition free 
+Wed May 13 16:16:58 2015 <nextPart>
+Wed May 13 16:17:04 2015 <cancelled>
+Wed May 13 16:17:04 2015 TICK 07:27 Part SNAP with length 56 sec and transition free 
+Wed May 13 16:18:00 2015 TICK 08:23 Part SCREW with length 229 sec and transition crossfade 
+Wed May 13 16:21:49 2015 TICK 12:12 Part TWIST with length 238 sec and transition crossfade 
+Wed May 13 16:24:36 2015 <nextPart>
+Wed May 13 16:24:48 2015 Generator stopped
+
+Wed May 13 19:52:47 2015 Generator started
+Wed May 13 19:53:02 2015 TICK 00:14 Part LIMIT with length 135 sec and transition hardcut 
+Wed May 13 19:55:17 2015 TICK 02:29 Part SCREW with length 222 sec and transition free 
+Wed May 13 19:58:40 2015 Generator stopped
+
+Wed May 13 20:22:30 2015 Generator started
+Wed May 13 20:22:45 2015 TICK 00:15 Part ANCHOR with length 178 sec and transition free 
+Wed May 13 20:22:51 2015 Generator stopped
+
+Wed May 13 20:31:18 2015 Generator started
+Wed May 13 20:31:23 2015 Generator stopped
+
+Wed May 13 20:34:57 2015 Generator started
+Wed May 13 20:35:12 2015 TICK 00:15 Part SNAP with length 80 sec and transition hardcut 
+Wed May 13 20:35:25 2015 <nextPart>
+Wed May 13 20:35:28 2015 <cancelled>
+Wed May 13 20:35:28 2015 TICK 00:31 Part SNAP with length 57 sec and transition crossfade 
+Wed May 13 20:35:57 2015 <nextPart>
+Wed May 13 20:35:59 2015 <cancelled>
+Wed May 13 20:35:59 2015 TICK 01:02 Part SNAP with length 51 sec and transition hardcut 
+Wed May 13 20:36:05 2015 <nextPart>
+Wed May 13 20:36:10 2015 <cancelled>
+Wed May 13 20:36:10 2015 TICK 01:12 Part SNAP with length 61 sec and transition hardcut 
+Wed May 13 20:36:13 2015 Generator stopped
+
+Wed May 13 20:36:56 2015 Generator started
+Wed May 13 20:37:00 2015 <cancelled>
+Wed May 13 20:37:00 2015 TICK 00:04 Part SNAP with length 80 sec and transition free 
+Wed May 13 20:37:01 2015 <nextPart>
+Wed May 13 20:37:16 2015 TICK 00:19 Part EYE with length 277 sec and transition crossfade 
+Wed May 13 20:41:53 2015 TICK 04:56 Part SNAP with length 101 sec and transition free 
+Wed May 13 20:43:34 2015 TICK 06:37 Part CHOICE with length 83 sec and transition free 
+Wed May 13 20:43:51 2015 <nextPart>
+Wed May 13 20:43:55 2015 <cancelled>
+Wed May 13 20:43:55 2015 TICK 06:59 Part CHOICE with length 47 sec and transition free 
+Wed May 13 20:44:30 2015 <cancelled>
+Wed May 13 20:44:30 2015 TICK 07:33 Part CHOICE with length 66 sec and transition hardcut 
+Wed May 13 20:45:24 2015 <cancelled>
+Wed May 13 20:45:24 2015 TICK 08:27 Part CHOICE with length 67 sec and transition hardcut 
+Wed May 13 20:45:32 2015 <nextPart>
+Wed May 13 20:45:42 2015 <cancelled>
+Wed May 13 20:45:42 2015 TICK 08:46 Part CHOICE with length 52 sec and transition crossfade 
+Wed May 13 20:46:34 2015 TICK 09:38 Part BOW with length 176 sec and transition crossfade 
+Wed May 13 20:49:19 2015 <cancelled>
+Wed May 13 20:49:19 2015 TICK 12:23 Part BOW with length 90 sec and transition hardcut 
+Wed May 13 20:50:49 2015 TICK 13:53 Part THIMBLE with length 101 sec and transition free 
+Wed May 13 20:52:18 2015 <cancelled>
+Wed May 13 20:52:18 2015 TICK 15:21 Part THIMBLE with length 66 sec and transition hardcut 
+Wed May 13 20:53:12 2015 <cancelled>
+Wed May 13 20:53:12 2015 TICK 16:15 Part THIMBLE with length 93 sec and transition crossfade 
+Wed May 13 20:54:45 2015 TICK 17:48 Part CHAIN with length 158 sec and transition hardcut 
+Wed May 13 20:56:57 2015 <nextPart>
+Wed May 13 20:57:12 2015 TICK 20:14 Part END with length 315 sec and transition free 
+Wed May 13 20:57:13 2015 Generator stopped
+
+Mon Aug 24 11:54:09 2015 Generator started
+Mon Aug 24 11:54:24 2015 TICK 00:14 Part CLIP with length 86 sec and transition hardcut 
+Mon Aug 24 11:54:49 2015 Generator stopped
+
+Mon Aug 24 11:54:57 2015 Generator started
+Mon Aug 24 11:55:08 2015 Generator stopped
+
+Mon Aug 24 11:55:25 2015 Generator started
+Mon Aug 24 11:55:40 2015 TICK 00:14 Part CUFF with length 95 sec and transition hardcut 
+Mon Aug 24 11:56:05 2015 Generator stopped
+
+Mon Aug 24 11:56:21 2015 Generator started
+Mon Aug 24 11:56:36 2015 TICK 00:15 Part PIN with length 124 sec and transition crossfade 
+Mon Aug 24 11:56:43 2015 <nextPart>
+Mon Aug 24 11:56:53 2015 Generator stopped
+
+Sat Aug 29 14:21:31 2015 Generator started
+Sat Aug 29 14:21:46 2015 TICK 00:14 Part LOOP with length 152 sec and transition crossfade 
+Sat Aug 29 14:22:20 2015 <nextPart>
+Sat Aug 29 14:22:23 2015 <cancelled>
+Sat Aug 29 14:22:23 2015 TICK 00:51 Part LOOP with length 77 sec and transition crossfade 
+Sat Aug 29 14:22:54 2015 <nextPart>
+Sat Aug 29 14:23:09 2015 TICK 01:37 Part BOW with length 150 sec and transition crossfade 
+Sat Aug 29 14:25:39 2015 TICK 04:07 Part TWIST with length 211 sec and transition free 
+Sat Aug 29 14:26:26 2015 Generator stopped
+
+Sat Aug 29 14:26:27 2015 Generator started
+Sat Aug 29 14:26:29 2015 <cancelled>
+Sat Aug 29 14:26:29 2015 TICK 00:02 Part TWIST with length 248 sec and transition crossfade 
+Sat Aug 29 14:26:30 2015 <nextPart>
+Sat Aug 29 14:26:32 2015 <cancelled>
+Sat Aug 29 14:26:32 2015 TICK 00:05 Part TWIST with length 244 sec and transition hardcut 
+Sat Aug 29 14:26:33 2015 <nextPart>
+Sat Aug 29 14:26:48 2015 TICK 00:21 Part CUFF with length 150 sec and transition crossfade 
+Sat Aug 29 14:27:35 2015 <nextPart>
+Sat Aug 29 14:27:38 2015 <cancelled>
+Sat Aug 29 14:27:38 2015 TICK 01:10 Part CUFF with length 90 sec and transition hardcut 
+Sat Aug 29 14:28:04 2015 <nextPart>
+Sat Aug 29 14:28:19 2015 TICK 01:51 Part RIG with length 138 sec and transition crossfade 
+Sat Aug 29 14:29:46 2015 <nextPart>
+Sat Aug 29 14:30:01 2015 TICK 03:33 Part CHOICE with length 90 sec and transition hardcut 
+Sat Aug 29 14:31:31 2015 TICK 05:04 Part PIN with length 133 sec and transition free 
+Sat Aug 29 14:33:44 2015 TICK 07:17 Part BOLT with length 133 sec and transition free 
+Sat Aug 29 14:35:57 2015 TICK 09:30 Part TORQUE with length 147 sec and transition free 
+Sat Aug 29 14:38:24 2015 TICK 11:56 Part THIMBLE with length 151 sec and transition crossfade 
+Sat Aug 29 14:40:55 2015 TICK 14:27 Part LIMIT with length 166 sec and transition crossfade 
+Sat Aug 29 14:43:41 2015 TICK 17:14 Part SCREW with length 237 sec and transition crossfade 
+Sat Aug 29 14:47:38 2015 TICK 21:10 Part SNAP with length 120 sec and transition hardcut 
+Sat Aug 29 14:48:57 2015 <nextPart>
+Sat Aug 29 14:49:12 2015 TICK 22:45 Part PIN with length 93 sec and transition free 
+Sat Aug 29 14:49:50 2015 <nextPart>
+Sat Aug 29 14:50:05 2015 TICK 23:37 Part SHACKLE with length 82 sec and transition crossfade 
+Sat Aug 29 14:51:18 2015 <cancelled>
+Sat Aug 29 14:51:18 2015 TICK 24:50 Part SHACKLE with length 63 sec and transition hardcut 
+Sat Aug 29 14:52:21 2015 TICK 25:53 Part SNAP with length 147 sec and transition crossfade 
+Sat Aug 29 14:54:48 2015 TICK 28:21 Part SCREW with length 126 sec and transition crossfade 
+Sat Aug 29 14:55:28 2015 <nextPart>
+Sat Aug 29 14:55:43 2015 TICK 29:16 Part THIMBLE with length 165 sec and transition hardcut 
+Sat Aug 29 14:56:29 2015 <nextPart>
+Sat Aug 29 14:56:40 2015 Generator stopped
+
+Sat Aug 29 14:56:41 2015 Generator started
+Sat Aug 29 14:56:45 2015 Generator stopped
+
+Sat Aug 29 20:33:00 2015 Generator started
+Sat Aug 29 20:33:15 2015 TICK 00:15 Part SHACKLE with length 200 sec and transition hardcut 
+Sat Aug 29 20:36:16 2015 <nextPart>
+Sat Aug 29 20:36:20 2015 <cancelled>
+Sat Aug 29 20:36:20 2015 TICK 03:20 Part SHACKLE with length 45 sec and transition free 
+Sat Aug 29 20:37:05 2015 TICK 04:05 Part PIN with length 108 sec and transition hardcut 
+Sat Aug 29 20:38:53 2015 TICK 05:53 Part EYE with length 235 sec and transition free 
+Sat Aug 29 20:42:10 2015 <nextPart>
+Sat Aug 29 20:42:25 2015 TICK 09:25 Part ANCHOR with length 238 sec and transition free 
+Sat Aug 29 20:46:23 2015 TICK 13:23 Part LOOP with length 143 sec and transition crossfade 
+Sat Aug 29 20:48:46 2015 TICK 15:46 Part LIMIT with length 74 sec and transition free 
+Sat Aug 29 20:50:00 2015 TICK 17:00 Part SCREW with length 195 sec and transition crossfade 
+Sat Aug 29 20:52:48 2015 <nextPart>
+Sat Aug 29 20:53:03 2015 TICK 20:03 Part EYE with length 196 sec and transition hardcut 
+Sat Aug 29 20:54:44 2015 <nextPart>
+Sat Aug 29 20:54:59 2015 TICK 21:58 Part FORGE with length 159 sec and transition free 
+Sat Aug 29 20:57:38 2015 TICK 24:38 Part LIMIT with length 193 sec and transition crossfade 
+Sat Aug 29 21:00:51 2015 TICK 27:50 Part BOW with length 126 sec and transition crossfade 
+Sat Aug 29 21:02:57 2015 TICK 29:56 Part CHAIN with length 186 sec and transition crossfade 
+Sat Aug 29 21:03:02 2015 <nextPart>
+Sat Aug 29 21:03:17 2015 TICK 30:14 Part END with length 315 sec and transition free 
+Sat Aug 29 21:03:18 2015 Generator stopped
+
+Sat Aug 29 21:20:02 2015 Generator started
+Sat Aug 29 21:20:17 2015 TICK 00:15 Part BOLT with length 149 sec and transition crossfade 
+Sat Aug 29 21:22:46 2015 TICK 02:43 Part CLIP with length 61 sec and transition crossfade 
+Sat Aug 29 21:23:47 2015 TICK 03:45 Part CHOICE with length 84 sec and transition crossfade 
+Sat Aug 29 21:25:11 2015 TICK 05:09 Part IMAGINE with length 236 sec and transition crossfade 
+Sat Aug 29 21:27:49 2015 <nextPart>
+Sat Aug 29 21:27:52 2015 <cancelled>
+Sat Aug 29 21:27:52 2015 TICK 07:50 Part IMAGINE with length 131 sec and transition hardcut 
+Sat Aug 29 21:27:53 2015 <nextPart>
+Sat Aug 29 21:27:54 2015 <cancelled>
+Sat Aug 29 21:27:54 2015 TICK 07:52 Part IMAGINE with length 135 sec and transition free 
+Sat Aug 29 21:27:55 2015 <nextPart>
+Sat Aug 29 21:28:10 2015 TICK 08:08 Part THIMBLE with length 123 sec and transition free 
+Sat Aug 29 21:29:33 2015 <nextPart>
+Sat Aug 29 21:29:37 2015 <cancelled>
+Sat Aug 29 21:29:37 2015 TICK 09:35 Part THIMBLE with length 80 sec and transition free 
+Sat Aug 29 21:29:39 2015 <nextPart>
+Sat Aug 29 21:29:54 2015 TICK 09:52 Part RIG with length 114 sec and transition hardcut 
+Sat Aug 29 21:31:36 2015 <cancelled>
+Sat Aug 29 21:31:36 2015 TICK 11:34 Part RIG with length 112 sec and transition hardcut 
+Sat Aug 29 21:33:28 2015 TICK 13:26 Part CUFF with length 164 sec and transition crossfade 
+Sat Aug 29 21:36:12 2015 TICK 16:10 Part SCREW with length 230 sec and transition free 
+Sat Aug 29 21:40:02 2015 TICK 20:00 Part EYE with length 184 sec and transition hardcut 
+Sat Aug 29 21:40:25 2015 <nextPart>
+Sat Aug 29 21:40:40 2015 TICK 20:38 Part CHAIN with length 90 sec and transition hardcut 
+Sat Aug 29 21:42:10 2015 TICK 22:08 Part LOOP with length 135 sec and transition free 
+Sat Aug 29 21:44:25 2015 TICK 24:23 Part FORGE with length 235 sec and transition free 
+Sat Aug 29 21:48:20 2015 TICK 28:18 Part BOLT with length 72 sec and transition free 
+Sat Aug 29 21:49:32 2015 TICK 29:30 Part CLIP with length 78 sec and transition free 
+Sat Aug 29 21:50:02 2015 <nextPart>
+Sat Aug 29 21:50:17 2015 TICK 30:14 Part END with length 315 sec and transition crossfade 
+Sat Aug 29 21:50:18 2015 Generator stopped
+
+Tue Sep  1 10:03:09 2015 Generator started
+Tue Sep  1 10:03:11 2015 <cancelled>
+Tue Sep  1 10:03:11 2015 TICK 00:01 Part THIMBLE with length 185 sec and transition hardcut 
+Tue Sep  1 10:03:12 2015 <nextPart>
+Tue Sep  1 10:03:12 2015 <cancelled>
+Tue Sep  1 10:03:12 2015 TICK 00:03 Part THIMBLE with length 110 sec and transition free 
+Tue Sep  1 10:03:18 2015 <nextPart>
+Tue Sep  1 10:03:22 2015 <cancelled>
+Tue Sep  1 10:03:22 2015 TICK 00:13 Part THIMBLE with length 133 sec and transition free 
+Tue Sep  1 10:03:27 2015 Generator stopped
+
+Tue Sep  1 10:04:35 2015 Generator started
+Tue Sep  1 10:04:40 2015 TICK 00:04 Part IMAGINE with length 28 sec and transition free 
+Tue Sep  1 10:04:43 2015 <nextPart>
+Tue Sep  1 10:04:46 2015 <cancelled>
+Tue Sep  1 10:04:46 2015 TICK 00:10 Part IMAGINE with length 104 sec and transition crossfade 
+Tue Sep  1 10:04:50 2015 <nextPart>
+Tue Sep  1 10:04:54 2015 <cancelled>
+Tue Sep  1 10:04:54 2015 TICK 00:18 Part IMAGINE with length 118 sec and transition hardcut 
+Tue Sep  1 10:04:57 2015 <nextPart>
+Tue Sep  1 10:05:02 2015 <cancelled>
+Tue Sep  1 10:05:02 2015 TICK 00:27 Part IMAGINE with length 134 sec and transition hardcut 
+Tue Sep  1 10:05:09 2015 <nextPart>
+Tue Sep  1 10:05:12 2015 <cancelled>
+Tue Sep  1 10:05:12 2015 TICK 00:36 Part IMAGINE with length 134 sec and transition free 
+
+Fri Nov 27 16:07:28 2015 Generator started
+Fri Nov 27 16:07:38 2015 TICK 00:09 Part CHOICE with length 104 sec and transition crossfade 
+Fri Nov 27 16:07:42 2015 Generator stopped
+
+Fri Nov 27 16:07:54 2015 Generator started
+Fri Nov 27 16:07:57 2015 <cancelled>
+Fri Nov 27 16:07:57 2015 TICK 00:02 Part THIMBLE with length 190 sec and transition crossfade 
+Fri Nov 27 16:07:58 2015 <nextPart>
+Fri Nov 27 16:08:08 2015 TICK 00:13 Part IMAGINE with length 233 sec and transition crossfade 
+Fri Nov 27 16:09:09 2015 <nextPart>
+Fri Nov 27 16:09:19 2015 TICK 01:24 Part SNAP with length 132 sec and transition free 
+Fri Nov 27 16:09:26 2015 Generator stopped
+
+Fri Nov 27 16:13:53 2015 Generator started
+Fri Nov 27 16:13:56 2015 <cancelled>
+Fri Nov 27 16:13:56 2015 TICK 00:02 Part SHACKLE with length 53 sec and transition hardcut 
+Fri Nov 27 16:13:57 2015 <nextPart>
+Fri Nov 27 16:14:07 2015 TICK 00:14 Part FORGE with length 190 sec and transition crossfade 
+Fri Nov 27 16:16:25 2015 <nextPart>
+Fri Nov 27 16:16:35 2015 TICK 02:42 Part THIMBLE with length 197 sec and transition crossfade 
+Fri Nov 27 16:17:09 2015 <nextPart>
+Fri Nov 27 16:17:10 2015 <cancelled>
+Fri Nov 27 16:17:10 2015 TICK 03:17 Part THIMBLE with length 53 sec and transition crossfade 
+Fri Nov 27 16:17:11 2015 <nextPart>
+Fri Nov 27 16:17:12 2015 <cancelled>
+Fri Nov 27 16:17:12 2015 TICK 03:19 Part THIMBLE with length 57 sec and transition crossfade 
+Fri Nov 27 16:17:13 2015 <nextPart>
+Fri Nov 27 16:17:23 2015 TICK 03:30 Part ZIPPER with length 143 sec and transition free 
+Fri Nov 27 16:17:47 2015 <nextPart>
+Fri Nov 27 16:17:47 2015 <cancelled>
+Fri Nov 27 16:17:47 2015 TICK 03:54 Part ZIPPER with length 111 sec and transition free 
+Fri Nov 27 16:17:50 2015 <nextPart>
+Fri Nov 27 16:18:00 2015 TICK 04:07 Part LIMIT with length 192 sec and transition hardcut 
+Fri Nov 27 16:18:09 2015 <nextPart>
+Fri Nov 27 16:18:19 2015 TICK 04:26 Part LOOP with length 109 sec and transition free 
+
+Wed Dec  2 12:59:16 2015 Generator started
+Wed Dec  2 12:59:21 2015 Generator stopped
+
+Wed Dec  2 14:37:41 2015 Generator started
+Wed Dec  2 14:37:47 2015 Generator stopped
+
+Wed Dec  2 14:41:58 2015 Generator started
+Wed Dec  2 14:42:13 2015 TICK 00:14 Part TORQUE with length 151 sec and transition crossfade 
+Wed Dec  2 14:42:28 2015 <nextPart>
+Wed Dec  2 14:42:41 2015 <cancelled>
+Wed Dec  2 14:42:41 2015 TICK 00:42 Part TORQUE with length 54 sec and transition crossfade 
+Wed Dec  2 14:42:50 2015 <nextPart>
+Wed Dec  2 14:43:05 2015 TICK 01:07 Part THIMBLE with length 204 sec and transition hardcut 
+Wed Dec  2 14:45:07 2015 <nextPart>
+Wed Dec  2 14:45:22 2015 TICK 03:24 Part BOW with length 187 sec and transition free 
+Wed Dec  2 14:46:25 2015 <nextPart>
+Wed Dec  2 14:46:29 2015 <cancelled>
+Wed Dec  2 14:46:29 2015 TICK 04:31 Part BOW with length 110 sec and transition hardcut 
+Wed Dec  2 14:46:33 2015 <nextPart>
+Wed Dec  2 14:46:35 2015 <cancelled>
+Wed Dec  2 14:46:35 2015 TICK 04:37 Part BOW with length 86 sec and transition free 
+Wed Dec  2 14:46:37 2015 <nextPart>
+Wed Dec  2 14:46:52 2015 TICK 04:53 Part PIN with length 116 sec and transition free 
+Wed Dec  2 14:46:56 2015 <nextPart>
+Wed Dec  2 14:46:57 2015 <cancelled>
+Wed Dec  2 14:46:57 2015 TICK 04:58 Part PIN with length 59 sec and transition hardcut 
+Wed Dec  2 14:47:06 2015 <nextPart>
+Wed Dec  2 14:47:08 2015 <cancelled>
+Wed Dec  2 14:47:08 2015 TICK 05:10 Part PIN with length 47 sec and transition crossfade 
+Wed Dec  2 14:47:13 2015 <nextPart>
+Wed Dec  2 14:47:19 2015 <cancelled>
+Wed Dec  2 14:47:19 2015 TICK 05:21 Part PIN with length 52 sec and transition free 
+Wed Dec  2 14:47:24 2015 <nextPart>
+Wed Dec  2 14:47:26 2015 <cancelled>
+Wed Dec  2 14:47:26 2015 TICK 05:28 Part PIN with length 53 sec and transition free 
+Wed Dec  2 14:47:34 2015 <nextPart>
+Wed Dec  2 14:47:36 2015 <cancelled>
+Wed Dec  2 14:47:36 2015 TICK 05:37 Part PIN with length 48 sec and transition hardcut 
+Wed Dec  2 14:47:43 2015 <nextPart>
+Wed Dec  2 14:47:44 2015 <cancelled>
+Wed Dec  2 14:47:44 2015 TICK 05:46 Part PIN with length 45 sec and transition free 
+Wed Dec  2 14:47:54 2015 <nextPart>
+Wed Dec  2 14:48:09 2015 TICK 06:11 Part TWIST with length 186 sec and transition crossfade 
+Wed Dec  2 14:49:14 2015 Generator stopped
+
+Wed Dec  2 14:49:26 2015 Generator started
+Wed Dec  2 14:49:41 2015 TICK 00:14 Part THIMBLE with length 111 sec and transition crossfade 
+Wed Dec  2 14:51:23 2015 <cancelled>
+Wed Dec  2 14:51:23 2015 TICK 01:57 Part THIMBLE with length 109 sec and transition hardcut 
+Wed Dec  2 14:51:31 2015 <nextPart>
+Wed Dec  2 14:51:46 2015 TICK 02:20 Part TORQUE with length 144 sec and transition free 
+Wed Dec  2 14:53:18 2015 <nextPart>
+Wed Dec  2 14:53:33 2015 TICK 04:07 Part EYE with length 241 sec and transition hardcut 
+Wed Dec  2 14:55:51 2015 <nextPart>
+Wed Dec  2 14:56:06 2015 TICK 06:40 Part BOLT with length 176 sec and transition free 
+Wed Dec  2 14:58:55 2015 <cancelled>
+Wed Dec  2 14:58:55 2015 TICK 09:29 Part BOLT with length 51 sec and transition crossfade 
+Wed Dec  2 14:58:57 2015 <nextPart>
+Wed Dec  2 14:59:12 2015 TICK 09:46 Part SCREW with length 142 sec and transition hardcut 
+Wed Dec  2 14:59:27 2015 <nextPart>
+Wed Dec  2 14:59:42 2015 TICK 10:15 Part END with length 315 sec and transition crossfade 
+Wed Dec  2 14:59:43 2015 Generator stopped
+
+Wed Dec  2 15:13:38 2015 Generator started
+Wed Dec  2 15:13:42 2015 <cancelled>
+Wed Dec  2 15:13:42 2015 TICK 00:04 Part CLIP with length 70 sec and transition free 
+Wed Dec  2 15:13:43 2015 <nextPart>
+Wed Dec  2 15:13:46 2015 <cancelled>
+Wed Dec  2 15:13:46 2015 TICK 00:08 Part CLIP with length 82 sec and transition crossfade 
+Wed Dec  2 15:13:47 2015 <nextPart>
+Wed Dec  2 15:13:50 2015 <cancelled>
+Wed Dec  2 15:13:50 2015 TICK 00:12 Part CLIP with length 101 sec and transition crossfade 
+Wed Dec  2 15:13:51 2015 <nextPart>
+Wed Dec  2 15:14:06 2015 TICK 00:28 Part PIN with length 118 sec and transition free 
+Wed Dec  2 15:15:43 2015 <nextPart>
+Wed Dec  2 15:15:58 2015 TICK 02:20 Part CUFF with length 146 sec and transition crossfade 
+Wed Dec  2 15:18:24 2015 TICK 04:46 Part FORGE with length 145 sec and transition free 
+Wed Dec  2 15:20:25 2015 <nextPart>
+Wed Dec  2 15:20:29 2015 <cancelled>
+Wed Dec  2 15:20:29 2015 TICK 06:51 Part FORGE with length 119 sec and transition free 
+Wed Dec  2 15:20:30 2015 <nextPart>
+Wed Dec  2 15:20:38 2015 <cancelled>
+Wed Dec  2 15:20:38 2015 TICK 06:59 Part FORGE with length 114 sec and transition crossfade 
+Wed Dec  2 15:20:44 2015 <nextPart>
+Wed Dec  2 15:20:59 2015 TICK 07:20 Part IMAGINE with length 268 sec and transition crossfade 
+Wed Dec  2 15:23:40 2015 <nextPart>
+Wed Dec  2 15:23:55 2015 TICK 10:15 Part END with length 315 sec and transition hardcut 
+Wed Dec  2 15:23:56 2015 Generator stopped
+
+Wed Dec  2 15:37:12 2015 Generator started
+Wed Dec  2 15:37:19 2015 <cancelled>
+Wed Dec  2 15:37:19 2015 TICK 00:07 Part CHOICE with length 104 sec and transition free 
+Wed Dec  2 15:37:20 2015 <nextPart>
+Wed Dec  2 15:37:35 2015 TICK 00:23 Part TWIST with length 191 sec and transition crossfade 
+Wed Dec  2 15:39:20 2015 <nextPart>
+Wed Dec  2 15:39:21 2015 <cancelled>
+Wed Dec  2 15:39:21 2015 TICK 02:09 Part TWIST with length 94 sec and transition crossfade 
+Wed Dec  2 15:39:23 2015 <nextPart>
+Wed Dec  2 15:39:36 2015 <cancelled>
+Wed Dec  2 15:39:36 2015 TICK 02:23 Part TWIST with length 98 sec and transition hardcut 
+Wed Dec  2 15:39:46 2015 <nextPart>
+Wed Dec  2 15:39:52 2015 <cancelled>
+Wed Dec  2 15:39:52 2015 TICK 02:40 Part TWIST with length 78 sec and transition free 
+Wed Dec  2 15:39:55 2015 <nextPart>
+Wed Dec  2 15:40:10 2015 TICK 02:58 Part RIG with length 188 sec and transition hardcut 
+Wed Dec  2 15:42:13 2015 <nextPart>
+Wed Dec  2 15:42:16 2015 <cancelled>
+Wed Dec  2 15:42:16 2015 TICK 05:04 Part RIG with length 72 sec and transition free 
+Wed Dec  2 15:42:21 2015 <nextPart>
+Wed Dec  2 15:42:36 2015 TICK 05:24 Part CHOICE with length 100 sec and transition crossfade 
+Wed Dec  2 15:44:04 2015 <cancelled>
+Wed Dec  2 15:44:04 2015 TICK 06:52 Part CHOICE with length 77 sec and transition crossfade 
+Wed Dec  2 15:44:07 2015 <nextPart>
+Wed Dec  2 15:44:09 2015 <cancelled>
+Wed Dec  2 15:44:09 2015 TICK 06:57 Part CHOICE with length 47 sec and transition crossfade 
+Wed Dec  2 15:44:10 2015 <nextPart>
+Wed Dec  2 15:44:25 2015 TICK 07:13 Part TORQUE with length 160 sec and transition hardcut 
+Wed Dec  2 15:46:29 2015 <nextPart>
+Wed Dec  2 15:46:44 2015 TICK 09:32 Part ZIPPER with length 225 sec and transition free 
+Wed Dec  2 15:48:18 2015 <nextPart>
+Wed Dec  2 15:48:20 2015 <cancelled>
+Wed Dec  2 15:48:20 2015 TICK 11:08 Part ZIPPER with length 95 sec and transition crossfade 
+Wed Dec  2 15:48:32 2015 <nextPart>
+Wed Dec  2 15:48:47 2015 TICK 11:35 Part LIMIT with length 108 sec and transition crossfade 
+Wed Dec  2 15:50:10 2015 <nextPart>
+Wed Dec  2 15:50:13 2015 <cancelled>
+Wed Dec  2 15:50:13 2015 TICK 13:01 Part LIMIT with length 68 sec and transition hardcut 
+Wed Dec  2 15:50:16 2015 <nextPart>
+Wed Dec  2 15:50:31 2015 TICK 13:19 Part BOW with length 202 sec and transition crossfade 
+Wed Dec  2 15:50:43 2015 <nextPart>
+Wed Dec  2 15:50:47 2015 <cancelled>
+Wed Dec  2 15:50:47 2015 TICK 13:35 Part BOW with length 89 sec and transition free 
+Wed Dec  2 15:52:06 2015 <cancelled>
+Wed Dec  2 15:52:06 2015 TICK 14:54 Part BOW with length 108 sec and transition hardcut 
+Wed Dec  2 15:52:07 2015 <nextPart>
+Wed Dec  2 15:52:22 2015 TICK 15:10 Part IMAGINE with length 211 sec and transition hardcut 
+Wed Dec  2 15:53:56 2015 <nextPart>
+Wed Dec  2 15:54:11 2015 TICK 16:59 Part LOOP with length 143 sec and transition hardcut 
+Wed Dec  2 15:55:27 2015 <nextPart>
+Wed Dec  2 15:55:30 2015 <cancelled>
+Wed Dec  2 15:55:30 2015 TICK 18:18 Part LOOP with length 65 sec and transition crossfade 
+Wed Dec  2 15:55:33 2015 <nextPart>
+Wed Dec  2 15:55:39 2015 <cancelled>
+Wed Dec  2 15:55:39 2015 TICK 18:26 Part LOOP with length 84 sec and transition crossfade 
+Wed Dec  2 15:55:42 2015 <nextPart>
+Wed Dec  2 15:55:57 2015 TICK 18:45 Part ANCHOR with length 214 sec and transition hardcut 
+Wed Dec  2 15:58:13 2015 <nextPart>
+Wed Dec  2 15:58:28 2015 TICK 21:16 Part ZIPPER with length 246 sec and transition crossfade 
+Wed Dec  2 15:59:49 2015 <nextPart>
+Wed Dec  2 15:59:53 2015 <cancelled>
+Wed Dec  2 15:59:53 2015 TICK 22:41 Part ZIPPER with length 123 sec and transition crossfade 
+Wed Dec  2 15:59:54 2015 <nextPart>
+Wed Dec  2 15:59:55 2015 <cancelled>
+Wed Dec  2 15:59:55 2015 TICK 22:43 Part ZIPPER with length 99 sec and transition free 
+Wed Dec  2 15:59:56 2015 <nextPart>
+Wed Dec  2 16:00:11 2015 TICK 22:59 Part IMAGINE with length 269 sec and transition hardcut 
+Wed Dec  2 16:00:12 2015 <nextPart>
+Wed Dec  2 16:00:27 2015 TICK 23:15 Part CLIP with length 90 sec and transition crossfade 
+Wed Dec  2 16:01:48 2015 <cancelled>
+Wed Dec  2 16:01:48 2015 TICK 24:36 Part CLIP with length 55 sec and transition hardcut 
+Wed Dec  2 16:02:13 2015 <nextPart>
+Wed Dec  2 16:02:28 2015 TICK 25:15 Part END with length 315 sec and transition free 
+Wed Dec  2 16:02:29 2015 Generator stopped
+
+Thu Dec  3 11:08:33 2015 Generator started
+Thu Dec  3 11:08:48 2015 TICK 00:14 Part CLIP with length 71 sec and transition hardcut 
+Thu Dec  3 11:08:50 2015 <nextPart>
+Thu Dec  3 11:08:51 2015 <cancelled>
+Thu Dec  3 11:08:51 2015 TICK 00:18 Part CLIP with length 44 sec and transition free 
+Thu Dec  3 11:09:11 2015 Generator stopped
+
+Thu Dec  3 12:13:17 2015 Generator started
+Thu Dec  3 12:13:20 2015 <cancelled>
+Thu Dec  3 12:13:20 2015 TICK 00:03 Part EYE with length 203 sec and transition crossfade 
+Thu Dec  3 12:13:21 2015 <nextPart>
+Thu Dec  3 12:13:25 2015 <cancelled>
+Thu Dec  3 12:13:25 2015 TICK 00:08 Part EYE with length 282 sec and transition crossfade 
+Thu Dec  3 12:13:26 2015 <nextPart>
+Thu Dec  3 12:13:28 2015 Generator stopped
+
+Thu Dec  3 12:14:49 2015 Generator started
+Thu Dec  3 12:14:59 2015 <cancelled>
+Thu Dec  3 12:14:59 2015 TICK 00:09 Part EYE with length 255 sec and transition crossfade 
+Thu Dec  3 12:15:07 2015 <nextPart>
+Thu Dec  3 12:15:13 2015 <cancelled>
+Thu Dec  3 12:15:13 2015 TICK 00:23 Part EYE with length 261 sec and transition crossfade 
+Thu Dec  3 12:15:14 2015 <nextPart>
+Thu Dec  3 12:15:17 2015 Generator stopped
+
+Thu Dec  3 12:15:32 2015 Generator started
+Thu Dec  3 12:15:47 2015 TICK 00:15 Part TWIST with length 170 sec and transition crossfade 
+Thu Dec  3 12:18:37 2015 TICK 03:05 Part IMAGINE with length 245 sec and transition hardcut 
+Thu Dec  3 12:20:20 2015 <nextPart>
+Thu Dec  3 12:20:35 2015 TICK 05:03 Part BOW with length 149 sec and transition crossfade 
+Thu Dec  3 12:23:04 2015 TICK 07:32 Part ZIPPER with length 155 sec and transition hardcut 
+Thu Dec  3 12:25:11 2015 <nextPart>
+Thu Dec  3 12:25:13 2015 <cancelled>
+Thu Dec  3 12:25:13 2015 TICK 09:41 Part ZIPPER with length 106 sec and transition hardcut 
+Thu Dec  3 12:25:15 2015 <nextPart>
+Thu Dec  3 12:25:17 2015 <cancelled>
+Thu Dec  3 12:25:17 2015 TICK 09:45 Part ZIPPER with length 131 sec and transition crossfade 
+Thu Dec  3 12:25:18 2015 <nextPart>
+Thu Dec  3 12:25:19 2015 <cancelled>
+Thu Dec  3 12:25:19 2015 TICK 09:47 Part ZIPPER with length 79 sec and transition free 
+Thu Dec  3 12:25:20 2015 <nextPart>
+Thu Dec  3 12:25:35 2015 TICK 10:01 Part SHACKLE with length 180 sec and transition crossfade 
+Thu Dec  3 12:25:36 2015 <nextPart>
+Thu Dec  3 12:25:51 2015 TICK 10:15 Part END with length 315 sec and transition hardcut 
+Thu Dec  3 12:25:52 2015 Generator stopped
+
+Thu Dec  3 13:37:21 2015 Generator started
+Thu Dec  3 13:37:36 2015 TICK 00:15 Part BOLT with length 131 sec and transition crossfade 
+Thu Dec  3 13:38:24 2015 <nextPart>
+Thu Dec  3 13:38:39 2015 TICK 01:17 Part FORGE with length 251 sec and transition crossfade 
+Thu Dec  3 13:41:28 2015 <nextPart>
+Thu Dec  3 13:41:43 2015 TICK 04:22 Part LOOP with length 121 sec and transition crossfade 
+Thu Dec  3 13:43:44 2015 TICK 06:23 Part THIMBLE with length 144 sec and transition crossfade 
+Thu Dec  3 13:46:08 2015 TICK 08:47 Part SNAP with length 144 sec and transition hardcut 
+Thu Dec  3 13:48:31 2015 <cancelled>
+Thu Dec  3 13:48:31 2015 TICK 11:09 Part SNAP with length 67 sec and transition free 
+Thu Dec  3 13:48:42 2015 <nextPart>
+Thu Dec  3 13:48:57 2015 TICK 11:35 Part ZIPPER with length 176 sec and transition free 
+Thu Dec  3 13:51:26 2015 <nextPart>
+Thu Dec  3 13:51:41 2015 TICK 14:19 Part CLIP with length 94 sec and transition hardcut 
+Thu Dec  3 13:53:04 2015 <cancelled>
+Thu Dec  3 13:53:04 2015 TICK 15:42 Part CLIP with length 56 sec and transition free 
+Thu Dec  3 13:53:08 2015 <nextPart>
+Thu Dec  3 13:53:23 2015 TICK 16:01 Part CHAIN with length 111 sec and transition crossfade 
+Thu Dec  3 13:54:15 2015 <nextPart>
+Thu Dec  3 13:54:30 2015 TICK 17:08 Part TWIST with length 151 sec and transition hardcut 
+Thu Dec  3 13:57:01 2015 TICK 19:39 Part LIMIT with length 168 sec and transition hardcut 
+Thu Dec  3 13:59:05 2015 <nextPart>
+Thu Dec  3 13:59:09 2015 <cancelled>
+Thu Dec  3 13:59:09 2015 TICK 21:48 Part LIMIT with length 46 sec and transition free 
+Thu Dec  3 13:59:28 2015 <nextPart>
+Thu Dec  3 13:59:30 2015 <cancelled>
+Thu Dec  3 13:59:30 2015 TICK 22:09 Part LIMIT with length 74 sec and transition hardcut 
+Thu Dec  3 13:59:31 2015 <nextPart>
+Thu Dec  3 13:59:36 2015 <cancelled>
+Thu Dec  3 13:59:36 2015 TICK 22:14 Part LIMIT with length 82 sec and transition hardcut 
+Thu Dec  3 13:59:41 2015 <nextPart>
+Thu Dec  3 13:59:44 2015 <cancelled>
+Thu Dec  3 13:59:44 2015 TICK 22:22 Part LIMIT with length 43 sec and transition free 
+Thu Dec  3 13:59:48 2015 <nextPart>
+Thu Dec  3 13:59:48 2015 <cancelled>
+Thu Dec  3 13:59:48 2015 TICK 22:27 Part LIMIT with length 113 sec and transition hardcut 
+Thu Dec  3 13:59:51 2015 <nextPart>
+Thu Dec  3 13:59:53 2015 <cancelled>
+Thu Dec  3 13:59:53 2015 TICK 22:31 Part LIMIT with length 100 sec and transition hardcut 
+Thu Dec  3 13:59:56 2015 <nextPart>
+Thu Dec  3 14:00:11 2015 TICK 22:49 Part RIG with length 125 sec and transition free 
+Thu Dec  3 14:00:23 2015 <nextPart>
+Thu Dec  3 14:00:38 2015 TICK 23:15 Part END with length 315 sec and transition crossfade 
+Thu Dec  3 14:00:39 2015 Generator stopped
+
+Tue Jan 12 11:02:23 2016 Generator started
+Tue Jan 12 11:02:38 2016 TICK 00:15 Part CLIP with length 65 sec and transition hardcut 
+Tue Jan 12 11:02:48 2016 Generator stopped
+
+Tue Jan 12 11:02:49 2016 Generator started
+Tue Jan 12 11:03:04 2016 TICK 00:14 Part BOLT with length 198 sec and transition hardcut 
+Tue Jan 12 11:03:07 2016 Generator stopped
+
+Tue Jan 12 11:03:13 2016 Generator started
+Tue Jan 12 11:03:28 2016 TICK 00:15 Part THIMBLE with length 159 sec and transition free 
+Tue Jan 12 11:03:31 2016 <nextPart>
+Tue Jan 12 11:03:33 2016 <cancelled>
+Tue Jan 12 11:03:33 2016 TICK 00:19 Part THIMBLE with length 103 sec and transition hardcut 
+Tue Jan 12 11:03:35 2016 <nextPart>
+Tue Jan 12 11:03:36 2016 <cancelled>
+Tue Jan 12 11:03:36 2016 TICK 00:22 Part THIMBLE with length 105 sec and transition hardcut 
+Tue Jan 12 11:04:54 2016 <nextPart>
+Tue Jan 12 11:05:09 2016 TICK 01:56 Part ANCHOR with length 249 sec and transition hardcut 
+Tue Jan 12 11:09:18 2016 TICK 06:05 Part CHOICE with length 80 sec and transition hardcut 
+Tue Jan 12 11:10:38 2016 TICK 07:24 Part PIN with length 120 sec and transition crossfade 
+Tue Jan 12 11:12:30 2016 <cancelled>
+Tue Jan 12 11:12:30 2016 TICK 09:16 Part PIN with length 64 sec and transition free 
+Tue Jan 12 11:13:34 2016 TICK 10:20 Part CHAIN with length 146 sec and transition crossfade 
+Tue Jan 12 11:13:37 2016 <nextPart>
+Tue Jan 12 11:13:52 2016 TICK 10:38 Part CHOICE with length 108 sec and transition hardcut 
+Tue Jan 12 11:13:55 2016 <nextPart>
+Tue Jan 12 11:14:10 2016 TICK 10:56 Part THIMBLE with length 187 sec and transition crossfade 
+Tue Jan 12 11:17:17 2016 TICK 14:03 Part SCREW with length 127 sec and transition free 
+Tue Jan 12 11:19:24 2016 TICK 16:10 Part IMAGINE with length 197 sec and transition hardcut 
+Tue Jan 12 11:21:59 2016 <nextPart>
+Tue Jan 12 11:22:03 2016 <cancelled>
+Tue Jan 12 11:22:03 2016 TICK 18:50 Part IMAGINE with length 109 sec and transition free 
+Tue Jan 12 11:23:52 2016 TICK 20:38 Part BOLT with length 150 sec and transition crossfade 
+Tue Jan 12 11:26:22 2016 TICK 23:08 Part CUFF with length 89 sec and transition hardcut 
+Tue Jan 12 11:27:51 2016 TICK 24:37 Part THIMBLE with length 134 sec and transition crossfade 
+Tue Jan 12 11:29:53 2016 <cancelled>
+Tue Jan 12 11:29:53 2016 TICK 26:39 Part THIMBLE with length 96 sec and transition crossfade 
+Tue Jan 12 11:31:29 2016 TICK 28:15 Part TWIST with length 189 sec and transition free 
+Tue Jan 12 11:34:38 2016 TICK 31:24 Part CHAIN with length 153 sec and transition free 
+Tue Jan 12 11:37:05 2016 <cancelled>
+Tue Jan 12 11:37:05 2016 TICK 33:51 Part CHAIN with length 63 sec and transition free 
+Tue Jan 12 11:37:58 2016 <cancelled>
+Tue Jan 12 11:37:58 2016 TICK 34:45 Part CHAIN with length 59 sec and transition free 
+Tue Jan 12 11:38:02 2016 <nextPart>
+Tue Jan 12 11:38:05 2016 <cancelled>
+Tue Jan 12 11:38:05 2016 TICK 34:51 Part CHAIN with length 101 sec and transition crossfade 
+Tue Jan 12 11:38:06 2016 <nextPart>
+Tue Jan 12 11:38:21 2016 TICK 35:07 Part LIMIT with length 191 sec and transition free 
+Tue Jan 12 11:41:32 2016 TICK 38:18 Part RIG with length 216 sec and transition free 
+Tue Jan 12 11:45:01 2016 <cancelled>
+Tue Jan 12 11:45:01 2016 TICK 41:47 Part RIG with length 73 sec and transition hardcut 
+Tue Jan 12 11:46:11 2016 <cancelled>
+Tue Jan 12 11:46:11 2016 TICK 42:57 Part RIG with length 86 sec and transition crossfade 
+Tue Jan 12 11:46:12 2016 <nextPart>
+Tue Jan 12 11:46:15 2016 <cancelled>
+Tue Jan 12 11:46:15 2016 TICK 43:01 Part RIG with length 111 sec and transition crossfade 
+Tue Jan 12 11:46:16 2016 <nextPart>
+Tue Jan 12 11:46:31 2016 TICK 43:17 Part SHACKLE with length 212 sec and transition crossfade 
+Tue Jan 12 11:49:51 2016 <cancelled>
+Tue Jan 12 11:49:51 2016 TICK 46:38 Part SHACKLE with length 39 sec and transition free 
+Tue Jan 12 11:50:19 2016 <cancelled>
+Tue Jan 12 11:50:19 2016 TICK 47:06 Part SHACKLE with length 87 sec and transition hardcut 
+Tue Jan 12 11:51:46 2016 TICK 48:32 Part THIMBLE with length 142 sec and transition hardcut 
+Tue Jan 12 11:53:14 2016 <nextPart>
+Tue Jan 12 11:53:29 2016 TICK 50:14 Part END with length 315 sec and transition free 
+Tue Jan 12 11:53:30 2016 Generator stopped
+
+Tue Jan 12 12:44:17 2016 Generator started
+Tue Jan 12 12:44:32 2016 TICK 00:15 Part CLIP with length 77 sec and transition hardcut 
+Tue Jan 12 12:45:37 2016 <cancelled>
+Tue Jan 12 12:45:37 2016 TICK 01:20 Part CLIP with length 41 sec and transition free 
+Tue Jan 12 12:46:06 2016 <cancelled>
+Tue Jan 12 12:46:06 2016 TICK 01:49 Part CLIP with length 37 sec and transition free 
+Tue Jan 12 12:46:43 2016 TICK 02:26 Part BOW with length 179 sec and transition hardcut 
+Tue Jan 12 12:49:33 2016 Generator stopped
+
+Tue Jan 12 12:49:49 2016 Generator started
+Tue Jan 12 12:50:04 2016 TICK 00:15 Part SCREW with length 227 sec and transition crossfade 
+Tue Jan 12 12:51:37 2016 <nextPart>
+Tue Jan 12 12:51:52 2016 TICK 02:03 Part LOOP with length 164 sec and transition crossfade 
+Tue Jan 12 12:54:27 2016 <cancelled>
+Tue Jan 12 12:54:27 2016 TICK 04:37 Part LOOP with length 85 sec and transition hardcut 
+Tue Jan 12 12:55:52 2016 TICK 06:02 Part RIG with length 228 sec and transition hardcut 
+Tue Jan 12 12:59:24 2016 <nextPart>
+Tue Jan 12 12:59:39 2016 TICK 09:49 Part THIMBLE with length 150 sec and transition crossfade 
+Tue Jan 12 13:01:57 2016 <cancelled>
+Tue Jan 12 13:01:57 2016 TICK 12:08 Part THIMBLE with length 99 sec and transition free 
+Tue Jan 12 13:03:36 2016 TICK 13:47 Part BOLT with length 138 sec and transition free 
+Tue Jan 12 13:05:45 2016 <cancelled>
+Tue Jan 12 13:05:45 2016 TICK 15:56 Part BOLT with length 97 sec and transition free 
+Tue Jan 12 13:06:15 2016 <nextPart>
+Tue Jan 12 13:06:18 2016 <cancelled>
+Tue Jan 12 13:06:18 2016 TICK 16:29 Part BOLT with length 102 sec and transition free 
+Tue Jan 12 13:06:20 2016 <nextPart>
+Tue Jan 12 13:06:35 2016 TICK 16:45 Part TWIST with length 206 sec and transition crossfade 
+Tue Jan 12 13:09:51 2016 <cancelled>
+Tue Jan 12 13:09:51 2016 TICK 20:02 Part TWIST with length 108 sec and transition free 
+Tue Jan 12 13:09:52 2016 <nextPart>
+Tue Jan 12 13:10:07 2016 TICK 20:18 Part CLIP with length 67 sec and transition hardcut 
+Tue Jan 12 13:11:14 2016 TICK 21:25 Part IMAGINE with length 207 sec and transition hardcut 
+Tue Jan 12 13:14:41 2016 TICK 24:52 Part LOOP with length 146 sec and transition hardcut 
+Tue Jan 12 13:16:56 2016 <cancelled>
+Tue Jan 12 13:16:56 2016 TICK 27:07 Part LOOP with length 90 sec and transition free 
+Tue Jan 12 13:18:17 2016 <cancelled>
+Tue Jan 12 13:18:17 2016 TICK 28:28 Part LOOP with length 74 sec and transition crossfade 
+Tue Jan 12 13:18:19 2016 <nextPart>
+Tue Jan 12 13:18:34 2016 TICK 28:45 Part TORQUE with length 159 sec and transition crossfade 
+Tue Jan 12 13:19:51 2016 <nextPart>
+Tue Jan 12 13:20:06 2016 TICK 30:16 Part END with length 315 sec and transition hardcut 
+Tue Jan 12 13:20:07 2016 Generator stopped
+
+Tue Jan 19 15:22:59 2016 Generator started
+Tue Jan 19 15:23:14 2016 TICK 00:15 Part BOLT with length 106 sec and transition free 
+Tue Jan 19 15:25:00 2016 TICK 02:01 Part LIMIT with length 196 sec and transition free 
+Tue Jan 19 15:25:31 2016 <nextPart>
+Tue Jan 19 15:25:46 2016 TICK 02:46 Part RIG with length 212 sec and transition hardcut 
+Tue Jan 19 15:26:12 2016 <nextPart>
+Tue Jan 19 15:26:16 2016 <cancelled>
+Tue Jan 19 15:26:16 2016 TICK 03:17 Part RIG with length 107 sec and transition free 
+Tue Jan 19 15:28:03 2016 TICK 05:04 Part LIMIT with length 99 sec and transition free 
+Tue Jan 19 15:29:42 2016 TICK 06:43 Part THIMBLE with length 195 sec and transition hardcut 
+Tue Jan 19 15:29:48 2016 <nextPart>
+Tue Jan 19 15:30:03 2016 TICK 07:04 Part PIN with length 83 sec and transition crossfade 
+Tue Jan 19 15:31:26 2016 TICK 08:27 Part TORQUE with length 155 sec and transition hardcut 
+Tue Jan 19 15:34:01 2016 TICK 11:01 Part TWIST with length 210 sec and transition free 
+Tue Jan 19 15:35:20 2016 <nextPart>
+Tue Jan 19 15:35:22 2016 <cancelled>
+Tue Jan 19 15:35:22 2016 TICK 12:22 Part TWIST with length 108 sec and transition crossfade 
+Tue Jan 19 15:37:10 2016 TICK 14:10 Part THIMBLE with length 181 sec and transition crossfade 
+Tue Jan 19 15:40:11 2016 TICK 17:11 Part IMAGINE with length 159 sec and transition free 
+Tue Jan 19 15:42:50 2016 TICK 19:50 Part SNAP with length 161 sec and transition hardcut 
+Tue Jan 19 15:45:31 2016 TICK 22:31 Part CHOICE with length 131 sec and transition hardcut 
+Tue Jan 19 15:47:42 2016 TICK 24:42 Part THIMBLE with length 117 sec and transition crossfade 
+Tue Jan 19 15:49:39 2016 TICK 26:39 Part CUFF with length 128 sec and transition hardcut 
+Tue Jan 19 15:51:47 2016 TICK 28:47 Part ANCHOR with length 200 sec and transition free 
+Tue Jan 19 15:53:01 2016 <nextPart>
+Tue Jan 19 15:53:16 2016 TICK 30:15 Part END with length 315 sec and transition hardcut 
+Tue Jan 19 15:53:17 2016 Generator stopped
+
+Tue Jan 19 17:28:54 2016 Generator started
+Tue Jan 19 17:29:03 2016 <cancelled>
+Tue Jan 19 17:29:03 2016 TICK 00:09 Part SCREW with length 156 sec and transition hardcut 
+Tue Jan 19 17:29:04 2016 <nextPart>
+Tue Jan 19 17:29:19 2016 TICK 00:25 Part BOLT with length 80 sec and transition crossfade 
+Tue Jan 19 17:29:31 2016 <nextPart>
+Tue Jan 19 17:29:37 2016 <cancelled>
+Tue Jan 19 17:29:37 2016 TICK 00:43 Part BOLT with length 52 sec and transition crossfade 
+Tue Jan 19 17:30:06 2016 <nextPart>
+Tue Jan 19 17:30:21 2016 TICK 01:26 Part TWIST with length 181 sec and transition hardcut 
+Tue Jan 19 17:30:46 2016 <nextPart>
+Tue Jan 19 17:31:01 2016 TICK 02:06 Part SCREW with length 195 sec and transition hardcut 
+Tue Jan 19 17:31:17 2016 <nextPart>
+Tue Jan 19 17:31:27 2016 <cancelled>
+Tue Jan 19 17:31:27 2016 TICK 02:33 Part SCREW with length 110 sec and transition hardcut 
+Tue Jan 19 17:32:12 2016 <nextPart>
+Tue Jan 19 17:32:14 2016 <cancelled>
+Tue Jan 19 17:32:14 2016 TICK 03:20 Part SCREW with length 111 sec and transition free 
+Tue Jan 19 17:32:31 2016 <nextPart>
+Tue Jan 19 17:32:35 2016 <cancelled>
+Tue Jan 19 17:32:35 2016 TICK 03:40 Part SCREW with length 86 sec and transition crossfade 
+Tue Jan 19 17:34:01 2016 TICK 05:06 Part PIN with length 103 sec and transition free 
+Tue Jan 19 17:35:44 2016 TICK 06:50 Part SCREW with length 210 sec and transition hardcut 
+Tue Jan 19 17:39:03 2016 Generator stopped
+
+Tue Jan 19 17:39:33 2016 Generator started
+Tue Jan 19 17:39:48 2016 TICK 00:15 Part ZIPPER with length 198 sec and transition crossfade 
+Tue Jan 19 17:42:07 2016 <nextPart>
+Tue Jan 19 17:42:22 2016 TICK 02:49 Part LOOP with length 122 sec and transition crossfade 
+Tue Jan 19 17:44:24 2016 TICK 04:51 Part SCREW with length 190 sec and transition free 
+Tue Jan 19 17:45:21 2016 <nextPart>
+Tue Jan 19 17:45:36 2016 TICK 06:03 Part TORQUE with length 161 sec and transition hardcut 
+Tue Jan 19 17:47:43 2016 <nextPart>
+Tue Jan 19 17:47:58 2016 TICK 08:25 Part EYE with length 230 sec and transition hardcut 
+Tue Jan 19 17:49:05 2016 <nextPart>
+Tue Jan 19 17:49:09 2016 <cancelled>
+Tue Jan 19 17:49:09 2016 TICK 09:35 Part EYE with length 101 sec and transition crossfade 
+Tue Jan 19 17:49:34 2016 <nextPart>
+Tue Jan 19 17:49:49 2016 TICK 10:14 Part END with length 315 sec and transition crossfade 
+Tue Jan 19 17:49:50 2016 Generator stopped
+
+Tue Jan 19 18:01:10 2016 Generator started
+Tue Jan 19 18:01:14 2016 <cancelled>
+Tue Jan 19 18:01:14 2016 TICK 00:03 Part SCREW with length 193 sec and transition free 
+Tue Jan 19 18:01:15 2016 <nextPart>
+Tue Jan 19 18:01:30 2016 TICK 00:19 Part SNAP with length 151 sec and transition free 
+Tue Jan 19 18:02:54 2016 <nextPart>
+Tue Jan 19 18:03:09 2016 TICK 01:58 Part ANCHOR with length 155 sec and transition hardcut 
+Tue Jan 19 18:05:44 2016 TICK 04:33 Part PIN with length 77 sec and transition hardcut 
+Tue Jan 19 18:06:55 2016 <cancelled>
+Tue Jan 19 18:06:55 2016 TICK 05:44 Part PIN with length 55 sec and transition crossfade 
+Tue Jan 19 18:07:46 2016 <cancelled>
+Tue Jan 19 18:07:46 2016 TICK 06:36 Part PIN with length 70 sec and transition hardcut 
+Tue Jan 19 18:08:21 2016 <nextPart>
+Tue Jan 19 18:08:29 2016 <cancelled>
+Tue Jan 19 18:08:29 2016 TICK 07:19 Part PIN with length 48 sec and transition hardcut 
+Tue Jan 19 18:08:30 2016 <nextPart>
+Tue Jan 19 18:08:45 2016 TICK 07:35 Part FORGE with length 168 sec and transition hardcut 
+Tue Jan 19 18:09:20 2016 <nextPart>
+Tue Jan 19 18:09:23 2016 <cancelled>
+Tue Jan 19 18:09:23 2016 TICK 08:12 Part FORGE with length 78 sec and transition crossfade 
+Tue Jan 19 18:09:24 2016 <nextPart>
+Tue Jan 19 18:09:29 2016 <cancelled>
+Tue Jan 19 18:09:29 2016 TICK 08:18 Part FORGE with length 129 sec and transition hardcut 
+Tue Jan 19 18:11:06 2016 <nextPart>
+Tue Jan 19 18:11:07 2016 <cancelled>
+Tue Jan 19 18:11:07 2016 TICK 09:57 Part FORGE with length 88 sec and transition hardcut 
+Tue Jan 19 18:11:08 2016 <nextPart>
+Tue Jan 19 18:11:23 2016 TICK 10:13 Part THIMBLE with length 190 sec and transition crossfade 
+Tue Jan 19 18:13:36 2016 <nextPart>
+Tue Jan 19 18:13:38 2016 <cancelled>
+Tue Jan 19 18:13:38 2016 TICK 12:28 Part THIMBLE with length 89 sec and transition hardcut 
+Tue Jan 19 18:13:39 2016 <nextPart>
+Tue Jan 19 18:13:54 2016 TICK 12:43 Part CHOICE with length 95 sec and transition crossfade 
+Tue Jan 19 18:15:29 2016 TICK 14:18 Part BOLT with length 195 sec and transition crossfade 
+Tue Jan 19 18:16:11 2016 <nextPart>
+Tue Jan 19 18:16:26 2016 TICK 15:15 Part END with length 315 sec and transition hardcut 
+Tue Jan 19 18:16:27 2016 Generator stopped
+
+Tue Jan 19 21:31:50 2016 Generator started
+Tue Jan 19 21:31:54 2016 Generator stopped
+
+Tue Jan 19 21:40:33 2016 Generator started
+Tue Jan 19 21:40:48 2016 TICK 00:15 Part CLIP with length 70 sec and transition crossfade 
+Tue Jan 19 21:41:48 2016 <cancelled>
+Tue Jan 19 21:41:48 2016 TICK 01:15 Part CLIP with length 59 sec and transition crossfade 
+Tue Jan 19 21:42:35 2016 <cancelled>
+Tue Jan 19 21:42:35 2016 TICK 02:02 Part CLIP with length 54 sec and transition crossfade 
+Tue Jan 19 21:43:29 2016 TICK 02:56 Part THIMBLE with length 124 sec and transition hardcut 
+Tue Jan 19 21:45:33 2016 TICK 05:00 Part SCREW with length 126 sec and transition crossfade 
+Tue Jan 19 21:47:39 2016 TICK 07:06 Part IMAGINE with length 194 sec and transition hardcut 
+Tue Jan 19 21:50:53 2016 TICK 10:20 Part ANCHOR with length 184 sec and transition crossfade 
+Tue Jan 19 21:53:26 2016 <nextPart>
+Tue Jan 19 21:53:29 2016 <cancelled>
+Tue Jan 19 21:53:29 2016 TICK 12:56 Part ANCHOR with length 96 sec and transition crossfade 
+Tue Jan 19 21:54:14 2016 <nextPart>
+Tue Jan 19 21:54:16 2016 <cancelled>
+Tue Jan 19 21:54:16 2016 TICK 13:43 Part ANCHOR with length 113 sec and transition free 
+Tue Jan 19 21:55:29 2016 <nextPart>
+Tue Jan 19 21:55:44 2016 TICK 15:11 Part FORGE with length 157 sec and transition hardcut 
+Tue Jan 19 21:56:53 2016 <nextPart>
+Tue Jan 19 21:57:08 2016 TICK 16:35 Part SCREW with length 206 sec and transition free 
+Tue Jan 19 22:00:34 2016 TICK 20:01 Part CUFF with length 144 sec and transition free 
+Tue Jan 19 22:02:45 2016 <cancelled>
+Tue Jan 19 22:02:45 2016 TICK 22:12 Part CUFF with length 67 sec and transition free 
+Tue Jan 19 22:03:34 2016 <nextPart>
+Tue Jan 19 22:03:49 2016 TICK 23:16 Part THIMBLE with length 156 sec and transition crossfade 
+Tue Jan 19 22:05:34 2016 <nextPart>
+Tue Jan 19 22:05:49 2016 TICK 25:16 Part CHAIN with length 105 sec and transition hardcut 
+Tue Jan 19 22:07:22 2016 <cancelled>
+Tue Jan 19 22:07:22 2016 TICK 26:49 Part CHAIN with length 85 sec and transition hardcut 
+Tue Jan 19 22:08:45 2016 <cancelled>
+Tue Jan 19 22:08:45 2016 TICK 28:12 Part CHAIN with length 102 sec and transition free 
+Tue Jan 19 22:08:47 2016 <nextPart>
+Tue Jan 19 22:09:02 2016 TICK 28:28 Part TORQUE with length 171 sec and transition hardcut 
+Tue Jan 19 22:10:04 2016 <nextPart>
+Tue Jan 19 22:10:05 2016 <cancelled>
+Tue Jan 19 22:10:05 2016 TICK 29:32 Part TORQUE with length 57 sec and transition free 
+Tue Jan 19 22:10:07 2016 <nextPart>
+Tue Jan 19 22:10:08 2016 <cancelled>
+Tue Jan 19 22:10:08 2016 TICK 29:35 Part TORQUE with length 89 sec and transition crossfade 
+Tue Jan 19 22:10:17 2016 <nextPart>
+Tue Jan 19 22:10:21 2016 <cancelled>
+Tue Jan 19 22:10:21 2016 TICK 29:48 Part TORQUE with length 85 sec and transition hardcut 
+Tue Jan 19 22:10:22 2016 <nextPart>
+Tue Jan 19 22:10:34 2016 <cancelled>
+Tue Jan 19 22:10:34 2016 TICK 30:01 Part TORQUE with length 63 sec and transition free 
+Tue Jan 19 22:11:37 2016 TICK 31:04 Part SHACKLE with length 129 sec and transition hardcut 
+Tue Jan 19 22:13:35 2016 <cancelled>
+Tue Jan 19 22:13:35 2016 TICK 33:02 Part SHACKLE with length 54 sec and transition free 
+Tue Jan 19 22:14:25 2016 <cancelled>
+Tue Jan 19 22:14:25 2016 TICK 33:52 Part SHACKLE with length 46 sec and transition hardcut 
+Tue Jan 19 22:14:59 2016 <cancelled>
+Tue Jan 19 22:14:59 2016 TICK 34:26 Part SHACKLE with length 96 sec and transition free 
+Tue Jan 19 22:15:01 2016 <nextPart>
+Tue Jan 19 22:15:16 2016 TICK 34:42 Part SNAP with length 156 sec and transition free 
+Tue Jan 19 22:17:52 2016 TICK 37:19 Part LIMIT with length 182 sec and transition hardcut 
+Tue Jan 19 22:20:07 2016 <nextPart>
+Tue Jan 19 22:20:22 2016 TICK 39:48 Part CHOICE with length 125 sec and transition crossfade 
+Tue Jan 19 22:22:19 2016 <cancelled>
+Tue Jan 19 22:22:19 2016 TICK 41:46 Part CHOICE with length 74 sec and transition hardcut 
+Tue Jan 19 22:23:24 2016 <cancelled>
+Tue Jan 19 22:23:24 2016 TICK 42:51 Part CHOICE with length 60 sec and transition free 
+Tue Jan 19 22:23:25 2016 <nextPart>
+Tue Jan 19 22:23:27 2016 <cancelled>
+Tue Jan 19 22:23:27 2016 TICK 42:54 Part CHOICE with length 61 sec and transition hardcut 
+Tue Jan 19 22:23:28 2016 <nextPart>
+Tue Jan 19 22:23:43 2016 TICK 43:10 Part BOW with length 165 sec and transition crossfade 
+Tue Jan 19 22:25:35 2016 <nextPart>
+Tue Jan 19 22:25:50 2016 TICK 45:15 Part END with length 315 sec and transition hardcut 
+Tue Jan 19 22:25:51 2016 Generator stopped
+
+Wed Jan 20 15:50:47 2016 Generator started
+Wed Jan 20 15:51:02 2016 TICK 00:14 Part SCREW with length 176 sec and transition crossfade 
+Wed Jan 20 15:51:06 2016 <nextPart>
+Wed Jan 20 15:51:21 2016 TICK 00:33 Part BOLT with length 136 sec and transition hardcut 
+Wed Jan 20 15:51:22 2016 Generator stopped
+
+Wed Jan 20 20:08:53 2016 Generator started
+Wed Jan 20 20:08:59 2016 Generator stopped
+
+Wed Jan 20 20:10:01 2016 Generator started
+Wed Jan 20 20:10:04 2016 <cancelled>
+Wed Jan 20 20:10:04 2016 TICK 00:02 Part SHACKLE with length 93 sec and transition crossfade 
+Wed Jan 20 20:10:05 2016 <nextPart>
+Wed Jan 20 20:10:08 2016 Generator stopped
+
+Tue Jun  7 19:47:59 2016 Generator started
+Tue Jun  7 19:48:14 2016 TICK 00:15 Part SHACKLE with length 74 sec and transition hardcut 
+Tue Jun  7 19:48:35 2016 <nextPart>
+Tue Jun  7 19:48:45 2016 <cancelled>
+Tue Jun  7 19:48:45 2016 TICK 00:45 Part SHACKLE with length 62 sec and transition free 
+Tue Jun  7 19:48:49 2016 <nextPart>
+Tue Jun  7 19:49:04 2016 TICK 01:04 Part BOLT with length 95 sec and transition hardcut 
+Tue Jun  7 19:49:44 2016 <nextPart>
+Tue Jun  7 19:49:59 2016 TICK 01:59 Part CHOICE with length 115 sec and transition hardcut 
+Tue Jun  7 19:50:26 2016 <nextPart>
+Tue Jun  7 19:50:29 2016 <cancelled>
+Tue Jun  7 19:50:29 2016 TICK 02:29 Part CHOICE with length 77 sec and transition crossfade 
+Tue Jun  7 19:51:00 2016 <nextPart>
+Tue Jun  7 19:51:15 2016 TICK 03:15 Part CHAIN with length 151 sec and transition crossfade 
+Tue Jun  7 19:53:46 2016 TICK 05:46 Part RIG with length 145 sec and transition crossfade 
+Tue Jun  7 19:53:59 2016 <nextPart>
+Tue Jun  7 19:54:06 2016 <cancelled>
+Tue Jun  7 19:54:06 2016 TICK 06:06 Part RIG with length 67 sec and transition crossfade 
+Tue Jun  7 19:54:07 2016 <nextPart>
+Tue Jun  7 19:54:21 2016 <cancelled>
+Tue Jun  7 19:54:21 2016 TICK 06:21 Part RIG with length 83 sec and transition crossfade 
+Tue Jun  7 19:54:32 2016 <nextPart>
+Tue Jun  7 19:54:33 2016 <cancelled>
+Tue Jun  7 19:54:33 2016 TICK 06:33 Part RIG with length 113 sec and transition hardcut 
+Tue Jun  7 19:54:35 2016 <nextPart>
+Tue Jun  7 19:54:50 2016 TICK 06:50 Part PIN with length 91 sec and transition crossfade 
+Tue Jun  7 19:56:21 2016 TICK 08:21 Part LOOP with length 119 sec and transition hardcut 
+Tue Jun  7 19:58:19 2016 <cancelled>
+Tue Jun  7 19:58:19 2016 TICK 10:20 Part LOOP with length 63 sec and transition free 
+Tue Jun  7 19:59:22 2016 TICK 11:23 Part CHOICE with length 127 sec and transition free 
+Tue Jun  7 20:00:21 2016 <nextPart>
+Tue Jun  7 20:00:36 2016 TICK 12:37 Part THIMBLE with length 131 sec and transition hardcut 
+Tue Jun  7 20:01:23 2016 <nextPart>
+Tue Jun  7 20:01:29 2016 <cancelled>
+Tue Jun  7 20:01:29 2016 TICK 13:29 Part THIMBLE with length 67 sec and transition crossfade 
+Tue Jun  7 20:01:31 2016 <nextPart>
+Tue Jun  7 20:01:46 2016 TICK 13:46 Part CUFF with length 144 sec and transition free 
+Tue Jun  7 20:03:10 2016 <nextPart>
+Tue Jun  7 20:03:25 2016 TICK 15:25 Part ZIPPER with length 184 sec and transition free 
+Tue Jun  7 20:06:29 2016 TICK 18:29 Part CHAIN with length 153 sec and transition free 
+Tue Jun  7 20:09:02 2016 TICK 21:02 Part EYE with length 248 sec and transition crossfade 
+Tue Jun  7 20:09:32 2016 <nextPart>
+Tue Jun  7 20:09:33 2016 <cancelled>
+Tue Jun  7 20:09:33 2016 TICK 21:33 Part EYE with length 134 sec and transition free 
+Tue Jun  7 20:09:35 2016 <nextPart>
+Tue Jun  7 20:09:50 2016 TICK 21:50 Part CUFF with length 81 sec and transition free 
+Tue Jun  7 20:11:11 2016 TICK 23:11 Part CHOICE with length 126 sec and transition crossfade 
+Tue Jun  7 20:13:17 2016 TICK 25:17 Part SCREW with length 132 sec and transition hardcut 
+Tue Jun  7 20:15:01 2016 <nextPart>
+Tue Jun  7 20:15:06 2016 Generator stopped
+
+Tue Jun  7 20:15:07 2016 Generator started
+Tue Jun  7 20:15:13 2016 <cancelled>
+Tue Jun  7 20:15:13 2016 TICK 00:05 Part SCREW with length 190 sec and transition crossfade 
+Tue Jun  7 20:15:14 2016 <nextPart>
+Tue Jun  7 20:15:18 2016 <cancelled>
+Tue Jun  7 20:15:18 2016 TICK 00:10 Part SCREW with length 221 sec and transition free 
+Tue Jun  7 20:15:19 2016 <nextPart>
+Tue Jun  7 20:15:24 2016 <cancelled>
+Tue Jun  7 20:15:24 2016 TICK 00:16 Part SCREW with length 155 sec and transition crossfade 
+Tue Jun  7 20:15:25 2016 <nextPart>
+Tue Jun  7 20:15:40 2016 TICK 00:33 Part SNAP with length 167 sec and transition free 
+Tue Jun  7 20:15:45 2016 <nextPart>
+Tue Jun  7 20:15:49 2016 <cancelled>
+Tue Jun  7 20:15:49 2016 TICK 00:41 Part SNAP with length 89 sec and transition crossfade 
+Tue Jun  7 20:16:02 2016 <nextPart>
+Tue Jun  7 20:16:06 2016 <cancelled>
+Tue Jun  7 20:16:06 2016 TICK 00:58 Part SNAP with length 93 sec and transition free 
+Tue Jun  7 20:16:13 2016 <nextPart>
+Tue Jun  7 20:16:28 2016 TICK 01:20 Part THIMBLE with length 184 sec and transition hardcut 
+Tue Jun  7 20:17:38 2016 <nextPart>
+Tue Jun  7 20:17:53 2016 TICK 02:45 Part TWIST with length 136 sec and transition crossfade 
+Tue Jun  7 20:18:43 2016 <nextPart>
+Tue Jun  7 20:18:46 2016 <cancelled>
+Tue Jun  7 20:18:46 2016 TICK 03:38 Part TWIST with length 112 sec and transition crossfade 
+Tue Jun  7 20:18:59 2016 <nextPart>
+Tue Jun  7 20:19:09 2016 <cancelled>
+Tue Jun  7 20:19:09 2016 TICK 04:01 Part TWIST with length 123 sec and transition free 
+Tue Jun  7 20:19:23 2016 <nextPart>
+Tue Jun  7 20:19:38 2016 TICK 04:30 Part EYE with length 210 sec and transition free 
+Tue Jun  7 20:21:07 2016 <nextPart>
+Tue Jun  7 20:21:12 2016 <cancelled>
+Tue Jun  7 20:21:12 2016 TICK 06:05 Part EYE with length 111 sec and transition crossfade 
+Tue Jun  7 20:21:23 2016 <nextPart>
+Tue Jun  7 20:21:38 2016 TICK 06:31 Part PIN with length 120 sec and transition hardcut 
+Tue Jun  7 20:22:54 2016 <nextPart>
+Tue Jun  7 20:23:09 2016 TICK 08:01 Part CLIP with length 95 sec and transition free 
+Tue Jun  7 20:24:44 2016 TICK 09:37 Part IMAGINE with length 184 sec and transition hardcut 
+Tue Jun  7 20:27:15 2016 <nextPart>
+Tue Jun  7 20:27:30 2016 TICK 12:22 Part RIG with length 212 sec and transition crossfade 
+Tue Jun  7 20:29:53 2016 <nextPart>
+Tue Jun  7 20:30:08 2016 TICK 15:00 Part CUFF with length 126 sec and transition crossfade 
+Tue Jun  7 20:32:14 2016 TICK 17:07 Part FORGE with length 139 sec and transition free 
+Tue Jun  7 20:32:56 2016 Generator stopped
+
+Tue Jun  7 22:51:16 2016 Generator started
+Tue Jun  7 22:51:19 2016 <cancelled>
+Tue Jun  7 22:51:19 2016 TICK 00:03 Part SHACKLE with length 129 sec and transition hardcut 
+Tue Jun  7 22:51:20 2016 <nextPart>
+Tue Jun  7 22:51:35 2016 TICK 00:19 Part ZIPPER with length 209 sec and transition hardcut 
+Tue Jun  7 22:52:18 2016 <nextPart>
+Tue Jun  7 22:52:33 2016 TICK 01:17 Part SNAP with length 89 sec and transition crossfade 
+Tue Jun  7 22:52:48 2016 <nextPart>
+Tue Jun  7 22:52:53 2016 <cancelled>
+Tue Jun  7 22:52:53 2016 TICK 01:37 Part SNAP with length 92 sec and transition free 
+Tue Jun  7 22:53:01 2016 <nextPart>
+Tue Jun  7 22:53:07 2016 <cancelled>
+Tue Jun  7 22:53:07 2016 TICK 01:50 Part SNAP with length 64 sec and transition crossfade 
+Tue Jun  7 22:53:10 2016 <nextPart>
+Tue Jun  7 22:53:25 2016 TICK 02:08 Part SCREW with length 152 sec and transition free 
+Tue Jun  7 22:54:05 2016 <nextPart>
+Tue Jun  7 22:54:20 2016 TICK 03:03 Part ANCHOR with length 150 sec and transition hardcut 
+Tue Jun  7 22:56:37 2016 <cancelled>
+Tue Jun  7 22:56:37 2016 TICK 05:21 Part ANCHOR with length 105 sec and transition crossfade 
+Tue Jun  7 22:56:47 2016 <nextPart>
+Tue Jun  7 22:56:52 2016 <cancelled>
+Tue Jun  7 22:56:52 2016 TICK 05:35 Part ANCHOR with length 131 sec and transition free 
+Tue Jun  7 22:56:56 2016 <nextPart>
+Tue Jun  7 22:57:00 2016 <cancelled>
+Tue Jun  7 22:57:00 2016 TICK 05:44 Part ANCHOR with length 103 sec and transition crossfade 
+Tue Jun  7 22:57:03 2016 <nextPart>
+Tue Jun  7 22:57:06 2016 <cancelled>
+Tue Jun  7 22:57:06 2016 TICK 05:50 Part ANCHOR with length 105 sec and transition crossfade 
+Tue Jun  7 22:57:12 2016 <nextPart>
+Tue Jun  7 22:57:27 2016 TICK 06:11 Part TWIST with length 157 sec and transition crossfade 
+Tue Jun  7 22:58:53 2016 <nextPart>
+Tue Jun  7 22:58:58 2016 <cancelled>
+Tue Jun  7 22:58:58 2016 TICK 07:42 Part TWIST with length 90 sec and transition free 
+Tue Jun  7 22:59:00 2016 <nextPart>
+Tue Jun  7 22:59:09 2016 <cancelled>
+Tue Jun  7 22:59:09 2016 TICK 07:53 Part TWIST with length 131 sec and transition hardcut 
+Tue Jun  7 22:59:11 2016 <nextPart>
+Tue Jun  7 22:59:15 2016 <cancelled>
+Tue Jun  7 22:59:15 2016 TICK 07:59 Part TWIST with length 128 sec and transition free 
+Tue Jun  7 22:59:16 2016 <nextPart>
+Tue Jun  7 22:59:27 2016 <cancelled>
+Tue Jun  7 22:59:27 2016 TICK 08:10 Part TWIST with length 120 sec and transition hardcut 
+Tue Jun  7 22:59:31 2016 <nextPart>
+Tue Jun  7 22:59:33 2016 <cancelled>
+Tue Jun  7 22:59:33 2016 TICK 08:17 Part TWIST with length 98 sec and transition free 
+Tue Jun  7 22:59:35 2016 <nextPart>
+Tue Jun  7 22:59:44 2016 <cancelled>
+Tue Jun  7 22:59:44 2016 TICK 08:28 Part TWIST with length 106 sec and transition crossfade 
+Tue Jun  7 22:59:54 2016 <nextPart>
+Tue Jun  7 23:00:09 2016 TICK 08:53 Part CHAIN with length 127 sec and transition crossfade 
+Tue Jun  7 23:01:44 2016 <nextPart>
+Tue Jun  7 23:01:59 2016 TICK 10:43 Part FORGE with length 169 sec and transition free 
+Tue Jun  7 23:03:20 2016 <nextPart>
+Tue Jun  7 23:03:35 2016 TICK 12:19 Part TWIST with length 193 sec and transition hardcut 
+Tue Jun  7 23:04:36 2016 <nextPart>
+Tue Jun  7 23:04:38 2016 <cancelled>
+Tue Jun  7 23:04:38 2016 TICK 13:22 Part TWIST with length 98 sec and transition crossfade 
+Tue Jun  7 23:04:46 2016 <nextPart>
+Tue Jun  7 23:05:01 2016 TICK 13:45 Part TORQUE with length 114 sec and transition crossfade 
+Tue Jun  7 23:06:15 2016 <nextPart>
+Tue Jun  7 23:06:30 2016 TICK 15:14 Part CHOICE with length 123 sec and transition crossfade 
+Tue Jun  7 23:08:18 2016 <nextPart>
+Tue Jun  7 23:08:20 2016 <cancelled>
+Tue Jun  7 23:08:20 2016 TICK 17:04 Part CHOICE with length 51 sec and transition hardcut 
+Tue Jun  7 23:08:21 2016 <nextPart>
+Tue Jun  7 23:08:23 2016 <cancelled>
+Tue Jun  7 23:08:23 2016 TICK 17:07 Part CHOICE with length 65 sec and transition hardcut 
+Tue Jun  7 23:08:24 2016 <nextPart>
+Tue Jun  7 23:08:39 2016 TICK 17:23 Part RIG with length 137 sec and transition hardcut 
+Tue Jun  7 23:10:47 2016 <cancelled>
+Tue Jun  7 23:10:47 2016 TICK 19:32 Part RIG with length 68 sec and transition free 
+Tue Jun  7 23:10:58 2016 <nextPart>
+Tue Jun  7 23:11:01 2016 <cancelled>
+Tue Jun  7 23:11:01 2016 TICK 19:46 Part RIG with length 100 sec and transition crossfade 
+Tue Jun  7 23:11:04 2016 <nextPart>
+Tue Jun  7 23:11:19 2016 TICK 20:04 Part ANCHOR with length 239 sec and transition crossfade 
+Tue Jun  7 23:14:07 2016 <nextPart>
+Tue Jun  7 23:14:10 2016 <cancelled>
+Tue Jun  7 23:14:10 2016 TICK 22:55 Part ANCHOR with length 115 sec and transition free 
+Tue Jun  7 23:14:14 2016 <nextPart>
+Tue Jun  7 23:14:21 2016 <cancelled>
+Tue Jun  7 23:14:21 2016 TICK 23:05 Part ANCHOR with length 127 sec and transition free 
+Tue Jun  7 23:14:23 2016 <nextPart>
+Tue Jun  7 23:14:27 2016 <cancelled>
+Tue Jun  7 23:14:27 2016 TICK 23:11 Part ANCHOR with length 109 sec and transition free 
+Tue Jun  7 23:14:29 2016 <nextPart>
+Tue Jun  7 23:14:31 2016 <cancelled>
+Tue Jun  7 23:14:31 2016 TICK 23:16 Part ANCHOR with length 131 sec and transition crossfade 
+Tue Jun  7 23:14:33 2016 <nextPart>
+Tue Jun  7 23:14:35 2016 <cancelled>
+Tue Jun  7 23:14:35 2016 TICK 23:20 Part ANCHOR with length 113 sec and transition crossfade 
+Tue Jun  7 23:14:36 2016 <nextPart>
+Tue Jun  7 23:14:38 2016 <cancelled>
+Tue Jun  7 23:14:38 2016 TICK 23:22 Part ANCHOR with length 110 sec and transition free 
+Tue Jun  7 23:14:40 2016 <nextPart>
+Tue Jun  7 23:14:55 2016 TICK 23:39 Part ZIPPER with length 203 sec and transition free 
+Tue Jun  7 23:18:18 2016 TICK 27:02 Part CLIP with length 66 sec and transition hardcut 
+Tue Jun  7 23:19:24 2016 TICK 28:08 Part TWIST with length 189 sec and transition crossfade 
+Tue Jun  7 23:19:30 2016 <nextPart>
+Tue Jun  7 23:19:31 2016 <cancelled>
+Tue Jun  7 23:19:31 2016 TICK 28:16 Part TWIST with length 102 sec and transition crossfade 
+Tue Jun  7 23:19:53 2016 <nextPart>
+Tue Jun  7 23:19:54 2016 <cancelled>
+Tue Jun  7 23:19:54 2016 TICK 28:38 Part TWIST with length 130 sec and transition free 
+Tue Jun  7 23:19:55 2016 <nextPart>
+Tue Jun  7 23:20:10 2016 TICK 28:54 Part PIN with length 86 sec and transition hardcut 
+Tue Jun  7 23:21:17 2016 <nextPart>
+Tue Jun  7 23:21:32 2016 TICK 30:15 Part END with length 315 sec and transition crossfade 
+Tue Jun  7 23:21:33 2016 Generator stopped
+
+Tue Jun  7 23:22:28 2016 Generator started
+Tue Jun  7 23:22:43 2016 TICK 00:14 Part BOLT with length 175 sec and transition hardcut 
+Tue Jun  7 23:23:03 2016 <nextPart>
+Tue Jun  7 23:23:15 2016 <cancelled>
+Tue Jun  7 23:23:15 2016 TICK 00:47 Part BOLT with length 44 sec and transition crossfade 
+Tue Jun  7 23:23:59 2016 TICK 01:30 Part RIG with length 222 sec and transition hardcut 
+Tue Jun  7 23:24:12 2016 <nextPart>
+Tue Jun  7 23:24:27 2016 TICK 01:58 Part ZIPPER with length 180 sec and transition free 
+Tue Jun  7 23:27:27 2016 TICK 04:59 Part SHACKLE with length 95 sec and transition free 
+Tue Jun  7 23:29:02 2016 TICK 06:33 Part CHOICE with length 123 sec and transition free 
+Tue Jun  7 23:31:05 2016 TICK 08:37 Part THIMBLE with length 176 sec and transition crossfade 
+
+Sun Mar 12 12:27:21 2017 Generator started
+Sun Mar 12 12:27:36 2017 TICK 00:15 Part SCREW with length 150 sec and transition free 
+Sun Mar 12 12:27:38 2017 <nextPart>
+Sun Mar 12 12:27:40 2017 <cancelled>
+Sun Mar 12 12:27:40 2017 TICK 00:18 Part SCREW with length 88 sec and transition crossfade 
+Sun Mar 12 12:27:42 2017 Generator stopped

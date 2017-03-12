@@ -1,0 +1,812 @@
+
+Sat Dec 27 14:43:48 2014 Generator started
+Sat Dec 27 14:44:03 2014 Part STUMBLE with length 178 sec and transition hardcut 
+Sat Dec 27 14:44:08 2014 <nextPart>
+Sat Dec 27 14:44:16 2014 Generator stopped
+
+Sat Dec 27 19:00:13 2014 Generator started
+Sat Dec 27 19:00:28 2014 Part FASGRO with length 89 sec and transition free 
+Sat Dec 27 19:00:59 2014 <nextPart>
+Sat Dec 27 19:01:02 2014 <cancelled>
+Sat Dec 27 19:01:02 2014 Part FASGRO with length 65 sec and transition hardcut 
+Sat Dec 27 19:01:03 2014 Generator stopped
+
+Sun Dec 28 21:10:07 2014 Generator started
+Sun Dec 28 21:10:22 2014 Part RIFF with length 94 sec and transition hardcut 
+Sun Dec 28 21:10:26 2014 Generator stopped
+
+Mon Jan  5 20:12:48 2015 Generator started
+Mon Jan  5 20:12:53 2015 Part SLIDE with length 16 sec and transition hardcut 
+Mon Jan  5 20:12:56 2015 <nextPart>
+Mon Jan  5 20:12:58 2015 <cancelled>
+Mon Jan  5 20:12:58 2015 Part SLIDE with length 9 sec and transition crossfade 
+Mon Jan  5 20:13:01 2015 Generator stopped
+
+Tue Jan  6 16:02:29 2015 Generator started
+Tue Jan  6 16:02:44 2015 Part SLOGRO with length 148 sec and transition hardcut 
+Tue Jan  6 16:02:52 2015 <nextPart>
+Tue Jan  6 16:02:56 2015 <cancelled>
+Tue Jan  6 16:02:56 2015 Part SLOGRO with length 90 sec and transition crossfade 
+Tue Jan  6 16:02:58 2015 Generator stopped
+
+Wed Jan  7 15:11:15 2015 Generator started
+Wed Jan  7 15:11:30 2015 Part BOLT with length 165 sec and transition crossfade 
+Wed Jan  7 15:11:59 2015 <nextPart>
+Wed Jan  7 15:12:01 2015 <cancelled>
+Wed Jan  7 15:12:01 2015 Part BOLT with length 104 sec and transition free 
+Wed Jan  7 15:12:05 2015 <nextPart>
+Wed Jan  7 15:12:20 2015 Part SLIDE with length 77 sec and transition crossfade 
+Wed Jan  7 15:13:37 2015 Part VIBRA with length 92 sec and transition crossfade 
+Wed Jan  7 15:15:03 2015 <cancelled>
+Wed Jan  7 15:15:03 2015 Part VIBRA with length 50 sec and transition free 
+Wed Jan  7 15:15:13 2015 <nextPart>
+Wed Jan  7 15:15:14 2015 <cancelled>
+Wed Jan  7 15:15:14 2015 Part VIBRA with length 52 sec and transition crossfade 
+Wed Jan  7 15:15:16 2015 <nextPart>
+Wed Jan  7 15:15:17 2015 <cancelled>
+Wed Jan  7 15:15:17 2015 Part VIBRA with length 59 sec and transition free 
+Wed Jan  7 15:15:18 2015 <nextPart>
+Wed Jan  7 15:15:33 2015 Part RATTLE with length 141 sec and transition free 
+Wed Jan  7 15:15:43 2015 Generator stopped
+
+Wed Jan  7 15:17:01 2015 Generator started
+Wed Jan  7 15:17:02 2015 <cancelled>
+Wed Jan  7 15:17:02 2015 Part RATTLE with length 132 sec and transition hardcut 
+Wed Jan  7 15:17:03 2015 <nextPart>
+Wed Jan  7 15:17:05 2015 <cancelled>
+Wed Jan  7 15:17:05 2015 Part RATTLE with length 105 sec and transition crossfade 
+Wed Jan  7 15:17:15 2015 Generator stopped
+
+Wed Jan  7 15:17:16 2015 Generator started
+Wed Jan  7 15:17:19 2015 <cancelled>
+Wed Jan  7 15:17:19 2015 Part RATTLE with length 107 sec and transition crossfade 
+Wed Jan  7 15:17:20 2015 <nextPart>
+Wed Jan  7 15:17:35 2015 Part VIBRA with length 101 sec and transition hardcut 
+Wed Jan  7 15:19:16 2015 Part BOLT with length 190 sec and transition free 
+Wed Jan  7 15:20:51 2015 <nextPart>
+Wed Jan  7 15:20:53 2015 <cancelled>
+Wed Jan  7 15:20:53 2015 Part BOLT with length 76 sec and transition hardcut 
+Wed Jan  7 15:20:55 2015 <nextPart>
+Wed Jan  7 15:21:10 2015 Part SCRATCH with length 98 sec and transition free 
+Wed Jan  7 15:22:48 2015 Part SLOGRO with length 171 sec and transition hardcut 
+Wed Jan  7 15:24:40 2015 <nextPart>
+Wed Jan  7 15:24:42 2015 <cancelled>
+Wed Jan  7 15:24:42 2015 Part SLOGRO with length 88 sec and transition free 
+Wed Jan  7 15:24:44 2015 <nextPart>
+Wed Jan  7 15:24:47 2015 <cancelled>
+Wed Jan  7 15:24:47 2015 Part SLOGRO with length 104 sec and transition free 
+Wed Jan  7 15:24:52 2015 <nextPart>
+Wed Jan  7 15:25:07 2015 Part SLIDE with length 108 sec and transition crossfade 
+Wed Jan  7 15:26:55 2015 Part RIPP with length 143 sec and transition crossfade 
+Wed Jan  7 15:29:08 2015 <cancelled>
+Wed Jan  7 15:29:08 2015 Part RIPP with length 89 sec and transition hardcut 
+Wed Jan  7 15:29:12 2015 <nextPart>
+Wed Jan  7 15:29:27 2015 Part JML with length 89 sec and transition hardcut 
+Wed Jan  7 15:30:09 2015 <nextPart>
+Wed Jan  7 15:30:10 2015 <cancelled>
+Wed Jan  7 15:30:10 2015 Part JML with length 51 sec and transition crossfade 
+Wed Jan  7 15:30:11 2015 <nextPart>
+Wed Jan  7 15:30:13 2015 <cancelled>
+Wed Jan  7 15:30:13 2015 Part JML with length 48 sec and transition hardcut 
+Wed Jan  7 15:30:14 2015 <nextPart>
+Wed Jan  7 15:30:18 2015 <cancelled>
+Wed Jan  7 15:30:18 2015 Part JML with length 45 sec and transition free 
+Wed Jan  7 15:30:21 2015 <nextPart>
+Wed Jan  7 15:30:36 2015 Part STUMBLE with length 143 sec and transition crossfade 
+Wed Jan  7 15:32:19 2015 <nextPart>
+Wed Jan  7 15:32:24 2015 <cancelled>
+Wed Jan  7 15:32:24 2015 Part STUMBLE with length 60 sec and transition free 
+Wed Jan  7 15:32:28 2015 <nextPart>
+Wed Jan  7 15:32:30 2015 <cancelled>
+Wed Jan  7 15:32:30 2015 Part STUMBLE with length 72 sec and transition free 
+Wed Jan  7 15:32:38 2015 <nextPart>
+Wed Jan  7 15:32:40 2015 <cancelled>
+Wed Jan  7 15:32:40 2015 Part STUMBLE with length 70 sec and transition crossfade 
+Wed Jan  7 15:32:42 2015 <nextPart>
+Wed Jan  7 15:32:44 2015 <cancelled>
+Wed Jan  7 15:32:44 2015 Part STUMBLE with length 68 sec and transition free 
+Wed Jan  7 15:32:46 2015 <nextPart>
+Wed Jan  7 15:33:01 2015 Part FUNERAL with length 93 sec and transition hardcut 
+Wed Jan  7 15:34:24 2015 <cancelled>
+Wed Jan  7 15:34:24 2015 Part FUNERAL with length 57 sec and transition crossfade 
+Wed Jan  7 15:35:21 2015 Part FASGRO with length 163 sec and transition crossfade 
+Wed Jan  7 15:37:13 2015 <nextPart>
+Wed Jan  7 15:37:15 2015 <cancelled>
+Wed Jan  7 15:37:15 2015 Part FASGRO with length 88 sec and transition hardcut 
+Wed Jan  7 15:37:16 2015 <nextPart>
+Wed Jan  7 15:37:21 2015 <cancelled>
+Wed Jan  7 15:37:21 2015 Part FASGRO with length 82 sec and transition hardcut 
+Wed Jan  7 15:37:30 2015 <nextPart>
+Wed Jan  7 15:37:45 2015 Part PATTERN with length 116 sec and transition free 
+Wed Jan  7 15:39:41 2015 Part RATTLE with length 105 sec and transition free 
+Wed Jan  7 15:41:15 2015 <cancelled>
+Wed Jan  7 15:41:15 2015 Part RATTLE with length 77 sec and transition hardcut 
+Wed Jan  7 15:41:25 2015 <nextPart>
+Wed Jan  7 15:41:29 2015 <cancelled>
+Wed Jan  7 15:41:29 2015 Part RATTLE with length 82 sec and transition free 
+Wed Jan  7 15:41:31 2015 <nextPart>
+Wed Jan  7 15:41:46 2015 Part SCRATCH with length 83 sec and transition crossfade 
+Wed Jan  7 15:42:17 2015 <nextPart>
+Wed Jan  7 15:42:32 2015 Part END with length 315 sec and transition hardcut 
+Wed Jan  7 15:42:33 2015 Generator stopped
+
+Mon Jan 12 15:22:34 2015 Generator started
+Mon Jan 12 15:22:37 2015 <cancelled>
+Mon Jan 12 15:22:37 2015 Part PATTERN with length 20 sec and transition free 
+Mon Jan 12 15:22:38 2015 <nextPart>
+Mon Jan 12 15:22:43 2015 Part SLOGRO with length 19 sec and transition free 
+Mon Jan 12 15:22:53 2015 <nextPart>
+Mon Jan 12 15:22:58 2015 Part VIBRA with length 12 sec and transition hardcut 
+Mon Jan 12 15:23:03 2015 <nextPart>
+Mon Jan 12 15:23:06 2015 <cancelled>
+Mon Jan 12 15:23:06 2015 Part VIBRA with length 8 sec and transition crossfade 
+Mon Jan 12 15:23:08 2015 <nextPart>
+Mon Jan 12 15:23:13 2015 Part FUNERAL with length 17 sec and transition free 
+Mon Jan 12 15:23:18 2015 <nextPart>
+Mon Jan 12 15:23:20 2015 <cancelled>
+Mon Jan 12 15:23:20 2015 Part FUNERAL with length 10 sec and transition free 
+Mon Jan 12 15:23:23 2015 <nextPart>
+Mon Jan 12 15:23:26 2015 <cancelled>
+Mon Jan 12 15:23:26 2015 Part FUNERAL with length 11 sec and transition free 
+Mon Jan 12 15:23:29 2015 <nextPart>
+Mon Jan 12 15:23:34 2015 Part FLAG with length 13 sec and transition free 
+Mon Jan 12 15:23:47 2015 Part STUMBLE with length 15 sec and transition crossfade 
+Mon Jan 12 15:23:50 2015 <nextPart>
+Mon Jan 12 15:23:52 2015 <cancelled>
+Mon Jan 12 15:23:52 2015 Part STUMBLE with length 10 sec and transition crossfade 
+Mon Jan 12 15:23:55 2015 <nextPart>
+Mon Jan 12 15:24:00 2015 Part SLIDE with length 12 sec and transition free 
+Mon Jan 12 15:24:02 2015 <nextPart>
+Mon Jan 12 15:24:07 2015 Part FASGRO with length 18 sec and transition crossfade 
+Mon Jan 12 15:24:17 2015 <nextPart>
+Mon Jan 12 15:24:22 2015 Part SCRATCH with length 16 sec and transition free 
+Mon Jan 12 15:24:25 2015 <nextPart>
+Mon Jan 12 15:24:30 2015 Part BOLT with length 18 sec and transition hardcut 
+Mon Jan 12 15:24:35 2015 <nextPart>
+Mon Jan 12 15:24:38 2015 <cancelled>
+Mon Jan 12 15:24:38 2015 Part BOLT with length 11 sec and transition hardcut 
+Mon Jan 12 15:24:40 2015 <nextPart>
+Mon Jan 12 15:24:45 2015 Part PATTERN with length 18 sec and transition crossfade 
+Mon Jan 12 15:24:47 2015 <nextPart>
+Mon Jan 12 15:24:50 2015 <cancelled>
+Mon Jan 12 15:24:50 2015 Part PATTERN with length 12 sec and transition hardcut 
+Mon Jan 12 15:24:52 2015 <nextPart>
+Mon Jan 12 15:24:55 2015 <cancelled>
+Mon Jan 12 15:24:55 2015 Part PATTERN with length 12 sec and transition crossfade 
+Mon Jan 12 15:24:57 2015 <nextPart>
+Mon Jan 12 15:25:02 2015 Part JML with length 13 sec and transition free 
+Mon Jan 12 15:25:08 2015 <nextPart>
+Mon Jan 12 15:25:11 2015 <cancelled>
+Mon Jan 12 15:25:11 2015 Part JML with length 9 sec and transition free 
+Mon Jan 12 15:25:13 2015 <nextPart>
+Mon Jan 12 15:25:18 2015 Part RIPP with length 19 sec and transition free 
+Mon Jan 12 15:25:21 2015 <nextPart>
+Mon Jan 12 15:25:23 2015 <cancelled>
+Mon Jan 12 15:25:23 2015 Part RIPP with length 12 sec and transition hardcut 
+Mon Jan 12 15:25:27 2015 <nextPart>
+Mon Jan 12 15:25:29 2015 <cancelled>
+Mon Jan 12 15:25:29 2015 Part RIPP with length 11 sec and transition free 
+Mon Jan 12 15:25:32 2015 <nextPart>
+Mon Jan 12 15:25:37 2015 Part RATTLE with length 15 sec and transition free 
+Mon Jan 12 15:25:44 2015 <nextPart>
+Mon Jan 12 15:25:49 2015 <cancelled>
+Mon Jan 12 15:25:49 2015 Part RATTLE with length 12 sec and transition crossfade 
+Mon Jan 12 15:25:52 2015 <nextPart>
+Mon Jan 12 15:25:57 2015 Part RIPP with length 23 sec and transition hardcut 
+Mon Jan 12 15:26:00 2015 Generator stopped
+
+Mon Jan 12 15:26:23 2015 Generator started
+Mon Jan 12 15:26:27 2015 Generator stopped
+
+Mon Jan 12 15:26:27 2015 Generator started
+Mon Jan 12 15:26:32 2015 Part FASGRO with length 17 sec and transition free 
+Mon Jan 12 15:26:37 2015 <nextPart>
+Mon Jan 12 15:26:42 2015 Part VIBRA with length 14 sec and transition crossfade 
+Mon Jan 12 15:26:45 2015 <nextPart>
+Mon Jan 12 15:26:47 2015 <cancelled>
+Mon Jan 12 15:26:47 2015 Part VIBRA with length 9 sec and transition hardcut 
+Mon Jan 12 15:26:49 2015 <nextPart>
+Mon Jan 12 15:26:51 2015 <cancelled>
+Mon Jan 12 15:26:51 2015 Part VIBRA with length 8 sec and transition hardcut 
+Mon Jan 12 15:26:52 2015 Generator stopped
+
+Wed Feb  4 13:27:04 2015 Generator started
+Wed Feb  4 13:27:19 2015 Part PATTERN with length 114 sec and transition crossfade 
+
+Wed Feb  4 13:29:10 2015 Generator started
+Wed Feb  4 13:29:25 2015 Part VIBRA with length 89 sec and transition crossfade 
+Wed Feb  4 13:30:54 2015 Part BOLT with length 140 sec and transition hardcut 
+Wed Feb  4 13:31:35 2015 <nextPart>
+Wed Feb  4 13:31:50 2015 Part FASGRO with length 185 sec and transition crossfade 
+Wed Feb  4 13:34:55 2015 Part JML with length 92 sec and transition crossfade 
+Wed Feb  4 13:36:27 2015 Part SCRATCH with length 124 sec and transition hardcut 
+Wed Feb  4 13:38:06 2015 <nextPart>
+Wed Feb  4 13:38:21 2015 Part RATTLE with length 158 sec and transition hardcut 
+Wed Feb  4 13:40:59 2015 Part SLIDE with length 80 sec and transition hardcut 
+Wed Feb  4 13:42:19 2015 Part STUMBLE with length 132 sec and transition free 
+Wed Feb  4 13:44:31 2015 Part SLOGRO with length 166 sec and transition crossfade 
+Wed Feb  4 13:47:17 2015 Part FLAG with length 99 sec and transition hardcut 
+Wed Feb  4 13:48:56 2015 Part PATTERN with length 120 sec and transition crossfade 
+Wed Feb  4 13:50:56 2015 Part FUNERAL with length 126 sec and transition crossfade 
+Wed Feb  4 13:53:02 2015 Part RIPP with length 182 sec and transition crossfade 
+Wed Feb  4 13:56:04 2015 Part VIBRA with length 81 sec and transition crossfade 
+Wed Feb  4 13:57:25 2015 Part FUNERAL with length 118 sec and transition free 
+Wed Feb  4 13:59:23 2015 Part SCRATCH with length 93 sec and transition hardcut 
+Wed Feb  4 13:59:25 2015 <nextPart>
+Wed Feb  4 13:59:40 2015 Part END with length 315 sec and transition hardcut 
+Wed Feb  4 13:59:41 2015 Generator stopped
+
+Wed Feb  4 15:51:45 2015 Generator started
+Wed Feb  4 15:51:47 2015 <cancelled>
+Wed Feb  4 15:51:47 2015 Part SCRATCH with length 95 sec and transition hardcut 
+Wed Feb  4 15:51:48 2015 <nextPart>
+Wed Feb  4 15:51:49 2015 <cancelled>
+Wed Feb  4 15:51:49 2015 Part SCRATCH with length 128 sec and transition hardcut 
+Wed Feb  4 15:51:54 2015 <nextPart>
+Wed Feb  4 15:51:56 2015 <cancelled>
+Wed Feb  4 15:51:56 2015 Part SCRATCH with length 103 sec and transition crossfade 
+Wed Feb  4 15:51:57 2015 <nextPart>
+Wed Feb  4 15:52:06 2015 Generator stopped
+
+Wed Feb  4 15:56:21 2015 Generator started
+Wed Feb  4 15:56:26 2015 Generator stopped
+
+Wed Feb  4 15:56:38 2015 Generator started
+Wed Feb  4 15:56:53 2015 Part PATTERN with length 132 sec and transition free 
+Wed Feb  4 15:58:59 2015 <cancelled>
+Wed Feb  4 15:58:59 2015 Part PATTERN with length 76 sec and transition hardcut 
+Wed Feb  4 15:59:30 2015 <nextPart>
+Wed Feb  4 15:59:45 2015 Part BOLT with length 181 sec and transition free 
+Wed Feb  4 16:02:46 2015 Part RATTLE with length 153 sec and transition hardcut 
+Wed Feb  4 16:05:19 2015 Part SLIDE with length 87 sec and transition crossfade 
+Wed Feb  4 16:06:36 2015 <cancelled>
+Wed Feb  4 16:06:36 2015 Part SLIDE with length 71 sec and transition hardcut 
+Wed Feb  4 16:06:40 2015 <nextPart>
+Wed Feb  4 16:06:55 2015 Part FLAG with length 99 sec and transition hardcut 
+Wed Feb  4 16:08:34 2015 Part SLOGRO with length 149 sec and transition crossfade 
+Wed Feb  4 16:11:03 2015 Part SCRATCH with length 100 sec and transition free 
+Wed Feb  4 16:12:07 2015 <nextPart>
+Wed Feb  4 16:12:22 2015 Part RIPP with length 191 sec and transition free 
+Wed Feb  4 16:14:11 2015 <nextPart>
+Wed Feb  4 16:14:26 2015 Part STUMBLE with length 134 sec and transition free 
+Wed Feb  4 16:16:40 2015 Part JML with length 82 sec and transition crossfade 
+Wed Feb  4 16:17:17 2015 <nextPart>
+Wed Feb  4 16:17:32 2015 Part STONE with length 113 sec and transition crossfade 
+Wed Feb  4 16:19:25 2015 Part FUNERAL with length 114 sec and transition free 
+Wed Feb  4 16:21:07 2015 <cancelled>
+Wed Feb  4 16:21:07 2015 Part FUNERAL with length 68 sec and transition crossfade 
+Wed Feb  4 16:22:15 2015 Part VIBRA with length 92 sec and transition hardcut 
+Wed Feb  4 16:23:47 2015 Part FASGRO with length 166 sec and transition hardcut 
+Wed Feb  4 16:25:49 2015 <nextPart>
+Wed Feb  4 16:25:52 2015 <cancelled>
+Wed Feb  4 16:25:52 2015 Part FASGRO with length 78 sec and transition free 
+Wed Feb  4 16:25:56 2015 <nextPart>
+Wed Feb  4 16:25:58 2015 <cancelled>
+Wed Feb  4 16:25:58 2015 Part FASGRO with length 78 sec and transition hardcut 
+Wed Feb  4 16:26:02 2015 <nextPart>
+Wed Feb  4 16:26:05 2015 <cancelled>
+Wed Feb  4 16:26:05 2015 Part FASGRO with length 93 sec and transition free 
+Wed Feb  4 16:26:06 2015 <nextPart>
+Wed Feb  4 16:26:07 2015 <cancelled>
+Wed Feb  4 16:26:07 2015 Part FASGRO with length 98 sec and transition crossfade 
+Wed Feb  4 16:26:10 2015 <nextPart>
+Wed Feb  4 16:26:25 2015 Part FLAG with length 92 sec and transition hardcut 
+Wed Feb  4 16:26:39 2015 <nextPart>
+Wed Feb  4 16:26:54 2015 Part END with length 315 sec and transition crossfade 
+Wed Feb  4 16:26:55 2015 Generator stopped
+
+Thu Feb  5 13:25:54 2015 Generator started
+Thu Feb  5 13:26:09 2015 Part RATTLE with length 132 sec and transition free 
+Thu Feb  5 13:26:12 2015 <nextPart>
+Thu Feb  5 13:26:17 2015 <cancelled>
+Thu Feb  5 13:26:17 2015 Part RATTLE with length 81 sec and transition hardcut 
+Thu Feb  5 13:26:19 2015 <nextPart>
+Thu Feb  5 13:26:22 2015 <cancelled>
+Thu Feb  5 13:26:22 2015 Part RATTLE with length 86 sec and transition free 
+Thu Feb  5 13:26:23 2015 Generator stopped
+
+Tue Feb 10 20:12:25 2015 Generator started
+Tue Feb 10 20:12:30 2015 TICK 00:04 Part BOLT with length 21 sec and transition crossfade 
+Tue Feb 10 20:12:35 2015 <nextPart>
+Tue Feb 10 20:12:38 2015 <cancelled>
+Tue Feb 10 20:12:38 2015 TICK 00:12 Part BOLT with length 12 sec and transition hardcut 
+Tue Feb 10 20:12:42 2015 <nextPart>
+Tue Feb 10 20:12:47 2015 TICK 00:21 Part RIPP with length 17 sec and transition hardcut 
+Tue Feb 10 20:12:57 2015 <nextPart>
+Tue Feb 10 20:13:02 2015 TICK 00:36 Part RATTLE with length 20 sec and transition free 
+Tue Feb 10 20:13:05 2015 Generator stopped
+
+Wed Apr 29 20:11:05 2015 Generator started
+Wed Apr 29 20:11:17 2015 Generator stopped
+
+Wed Apr 29 20:15:05 2015 Generator started
+Wed Apr 29 20:15:10 2015 TICK 00:05 Part SLIDE with length 13 sec and transition crossfade 
+Wed Apr 29 20:15:23 2015 TICK 00:18 Part STONE with length 17 sec and transition free 
+Wed Apr 29 20:15:28 2015 <nextPart>
+Wed Apr 29 20:15:33 2015 TICK 00:28 Part PATTERN with length 17 sec and transition free 
+Wed Apr 29 20:15:34 2015 Generator stopped
+
+Fri May  1 11:24:26 2015 Generator started
+Fri May  1 11:24:41 2015 TICK 00:14 Part FLAG with length 119 sec and transition free 
+Fri May  1 11:24:43 2015 <nextPart>
+Fri May  1 11:24:46 2015 <cancelled>
+Fri May  1 11:24:46 2015 TICK 00:19 Part FLAG with length 66 sec and transition crossfade 
+Fri May  1 11:24:48 2015 <nextPart>
+Fri May  1 11:25:03 2015 TICK 00:37 Part SLIDE with length 86 sec and transition crossfade 
+Fri May  1 11:25:21 2015 Generator stopped
+
+Wed May  6 10:43:39 2015 Generator started
+Wed May  6 10:43:54 2015 TICK 00:15 Part SCRATCH with length 78 sec and transition free 
+Wed May  6 10:45:05 2015 <cancelled>
+Wed May  6 10:45:05 2015 TICK 01:26 Part SCRATCH with length 60 sec and transition crossfade 
+Wed May  6 10:45:33 2015 <nextPart>
+Wed May  6 10:45:36 2015 <cancelled>
+Wed May  6 10:45:36 2015 TICK 01:56 Part SCRATCH with length 56 sec and transition free 
+Wed May  6 10:45:38 2015 <nextPart>
+Wed May  6 10:45:53 2015 TICK 02:13 Part SLIDE with length 102 sec and transition hardcut 
+Wed May  6 10:46:14 2015 <nextPart>
+Wed May  6 10:46:29 2015 TICK 02:49 Part RIPP with length 139 sec and transition free 
+Wed May  6 10:48:48 2015 TICK 05:09 Part VIBRA with length 78 sec and transition hardcut 
+Wed May  6 10:50:06 2015 TICK 06:26 Part PATTERN with length 134 sec and transition crossfade 
+Wed May  6 10:51:50 2015 <nextPart>
+Wed May  6 10:52:05 2015 TICK 08:26 Part STONE with length 130 sec and transition free 
+Wed May  6 10:53:09 2015 <nextPart>
+Wed May  6 10:53:24 2015 TICK 09:44 Part STUMBLE with length 120 sec and transition crossfade 
+Wed May  6 10:53:27 2015 <nextPart>
+Wed May  6 10:53:42 2015 TICK 10:03 Part FUNERAL with length 144 sec and transition free 
+Wed May  6 10:56:06 2015 TICK 12:26 Part FASGRO with length 144 sec and transition hardcut 
+Wed May  6 10:58:30 2015 TICK 14:50 Part RATTLE with length 161 sec and transition crossfade 
+Wed May  6 11:01:11 2015 TICK 17:32 Part BOLT with length 137 sec and transition crossfade 
+Wed May  6 11:03:28 2015 TICK 19:48 Part JML with length 101 sec and transition hardcut 
+Wed May  6 11:05:09 2015 TICK 21:29 Part SLOGRO with length 190 sec and transition hardcut 
+Wed May  6 11:08:19 2015 TICK 24:40 Part FLAG with length 114 sec and transition free 
+Wed May  6 11:08:41 2015 <nextPart>
+Wed May  6 11:08:56 2015 TICK 25:15 Part END with length 315 sec and transition hardcut 
+Wed May  6 11:08:57 2015 Generator stopped
+
+Wed May  6 11:31:36 2015 Generator started
+Wed May  6 11:31:51 2015 TICK 00:15 Part RATTLE with length 131 sec and transition free 
+Wed May  6 11:34:02 2015 TICK 02:26 Part BOLT with length 159 sec and transition crossfade 
+Wed May  6 11:36:41 2015 TICK 05:04 Part JML with length 80 sec and transition free 
+Wed May  6 11:38:01 2015 TICK 06:25 Part SLOGRO with length 178 sec and transition crossfade 
+Wed May  6 11:40:59 2015 TICK 09:23 Part FASGRO with length 144 sec and transition hardcut 
+Wed May  6 11:43:23 2015 TICK 11:47 Part SCRATCH with length 118 sec and transition crossfade 
+Wed May  6 11:45:10 2015 <cancelled>
+Wed May  6 11:45:10 2015 TICK 13:34 Part SCRATCH with length 67 sec and transition hardcut 
+Wed May  6 11:45:56 2015 <nextPart>
+Wed May  6 11:46:11 2015 TICK 14:35 Part STONE with length 113 sec and transition free 
+Wed May  6 11:48:04 2015 TICK 16:28 Part PATTERN with length 125 sec and transition hardcut 
+Wed May  6 11:50:09 2015 TICK 18:33 Part STUMBLE with length 164 sec and transition hardcut 
+Wed May  6 11:51:57 2015 <nextPart>
+Wed May  6 11:52:12 2015 TICK 20:36 Part VIBRA with length 89 sec and transition hardcut 
+Wed May  6 11:53:41 2015 TICK 22:05 Part FLAG with length 107 sec and transition hardcut 
+Wed May  6 11:55:28 2015 TICK 23:52 Part RIPP with length 158 sec and transition hardcut 
+Wed May  6 11:55:42 2015 <nextPart>
+Wed May  6 11:55:54 2015 <cancelled>
+Wed May  6 11:55:54 2015 TICK 24:18 Part RIPP with length 104 sec and transition hardcut 
+Wed May  6 11:56:33 2015 <nextPart>
+Wed May  6 11:56:36 2015 <cancelled>
+Wed May  6 11:56:36 2015 TICK 25:00 Part RIPP with length 88 sec and transition crossfade 
+Wed May  6 11:56:38 2015 <nextPart>
+Wed May  6 11:56:53 2015 TICK 25:15 Part END with length 315 sec and transition hardcut 
+Wed May  6 11:56:54 2015 Generator stopped
+
+Wed May  6 12:29:00 2015 Generator started
+Wed May  6 12:29:15 2015 TICK 00:15 Part FLAG with length 106 sec and transition free 
+Wed May  6 12:31:01 2015 TICK 02:01 Part STONE with length 121 sec and transition hardcut 
+Wed May  6 12:33:02 2015 TICK 04:01 Part SCRATCH with length 135 sec and transition hardcut 
+Wed May  6 12:34:49 2015 <nextPart>
+Wed May  6 12:35:04 2015 TICK 06:04 Part SLOGRO with length 140 sec and transition crossfade 
+Wed May  6 12:37:13 2015 <cancelled>
+Wed May  6 12:37:13 2015 TICK 08:13 Part SLOGRO with length 95 sec and transition hardcut 
+Wed May  6 12:37:47 2015 <nextPart>
+Wed May  6 12:38:02 2015 TICK 09:02 Part PATTERN with length 146 sec and transition crossfade 
+Wed May  6 12:40:28 2015 TICK 11:27 Part STUMBLE with length 108 sec and transition crossfade 
+Wed May  6 12:42:16 2015 TICK 13:16 Part SLIDE with length 119 sec and transition crossfade 
+Wed May  6 12:44:15 2015 TICK 15:15 Part FUNERAL with length 138 sec and transition hardcut 
+Wed May  6 12:46:33 2015 TICK 17:33 Part BOLT with length 176 sec and transition hardcut 
+Wed May  6 12:49:29 2015 TICK 20:29 Part VIBRA with length 90 sec and transition crossfade 
+Wed May  6 12:50:59 2015 TICK 21:58 Part JML with length 84 sec and transition hardcut 
+Wed May  6 12:51:38 2015 <nextPart>
+Wed May  6 12:51:53 2015 TICK 22:53 Part RATTLE with length 132 sec and transition free 
+Wed May  6 12:53:18 2015 <nextPart>
+Wed May  6 12:53:20 2015 <cancelled>
+Wed May  6 12:53:20 2015 TICK 24:20 Part RATTLE with length 68 sec and transition hardcut 
+Wed May  6 12:53:24 2015 <nextPart>
+Wed May  6 12:53:39 2015 TICK 24:39 Part FASGRO with length 173 sec and transition crossfade 
+Wed May  6 12:54:02 2015 <nextPart>
+Wed May  6 12:54:17 2015 TICK 25:14 Part END with length 315 sec and transition crossfade 
+Wed May  6 12:54:18 2015 Generator stopped
+
+Wed May  6 12:55:00 2015 Generator started
+Wed May  6 12:55:10 2015 <cancelled>
+Wed May  6 12:55:10 2015 TICK 00:10 Part SLIDE with length 93 sec and transition hardcut 
+Wed May  6 12:55:11 2015 <nextPart>
+Wed May  6 12:55:12 2015 Generator stopped
+
+Wed May  6 12:55:16 2015 Generator started
+Wed May  6 12:55:18 2015 Generator stopped
+
+Fri May  8 17:33:27 2015 Generator started
+Fri May  8 17:33:42 2015 TICK 00:15 Part VIBRA with length 101 sec and transition hardcut 
+Fri May  8 17:34:30 2015 <nextPart>
+Fri May  8 17:34:45 2015 TICK 01:17 Part PATTERN with length 153 sec and transition hardcut 
+Fri May  8 17:36:32 2015 <nextPart>
+Fri May  8 17:36:47 2015 TICK 03:19 Part FUNERAL with length 136 sec and transition crossfade 
+Fri May  8 17:36:53 2015 <nextPart>
+Fri May  8 17:37:01 2015 <cancelled>
+Fri May  8 17:37:01 2015 TICK 03:34 Part FUNERAL with length 87 sec and transition crossfade 
+Fri May  8 17:37:11 2015 <nextPart>
+Fri May  8 17:37:26 2015 TICK 03:58 Part SCRATCH with length 92 sec and transition hardcut 
+Fri May  8 17:38:54 2015 <cancelled>
+Fri May  8 17:38:54 2015 TICK 05:27 Part SCRATCH with length 67 sec and transition free 
+Fri May  8 17:38:57 2015 <nextPart>
+Fri May  8 17:39:12 2015 TICK 05:45 Part JML with length 75 sec and transition hardcut 
+Fri May  8 17:40:27 2015 TICK 07:00 Part SLIDE with length 111 sec and transition hardcut 
+Fri May  8 17:42:18 2015 TICK 08:51 Part FLAG with length 128 sec and transition free 
+Fri May  8 17:44:18 2015 <cancelled>
+Fri May  8 17:44:18 2015 TICK 10:50 Part FLAG with length 66 sec and transition crossfade 
+Fri May  8 17:45:24 2015 TICK 11:57 Part STUMBLE with length 141 sec and transition hardcut 
+Fri May  8 17:46:20 2015 <nextPart>
+Fri May  8 17:46:35 2015 TICK 13:07 Part RIPP with length 176 sec and transition hardcut 
+Fri May  8 17:48:55 2015 <nextPart>
+Fri May  8 17:49:10 2015 TICK 15:43 Part BOLT with length 194 sec and transition free 
+Fri May  8 17:49:33 2015 Generator stopped
+
+Fri May  8 17:50:42 2015 Generator started
+Fri May  8 17:50:57 2015 TICK 00:15 Part FUNERAL with length 159 sec and transition hardcut 
+Fri May  8 17:53:36 2015 TICK 02:54 Part SLIDE with length 101 sec and transition hardcut 
+Fri May  8 17:55:17 2015 TICK 04:35 Part RATTLE with length 145 sec and transition free 
+Fri May  8 17:56:36 2015 <nextPart>
+Fri May  8 17:56:37 2015 <cancelled>
+Fri May  8 17:56:37 2015 TICK 05:55 Part RATTLE with length 60 sec and transition hardcut 
+Fri May  8 17:56:38 2015 <nextPart>
+Fri May  8 17:56:41 2015 <cancelled>
+Fri May  8 17:56:41 2015 TICK 05:58 Part RATTLE with length 66 sec and transition free 
+Fri May  8 17:57:47 2015 TICK 07:05 Part BOLT with length 152 sec and transition free 
+Fri May  8 18:00:19 2015 TICK 09:36 Part FASGRO with length 194 sec and transition crossfade 
+Fri May  8 18:03:27 2015 Generator stopped
+
+Fri May  8 19:32:05 2015 Generator started
+Fri May  8 19:32:20 2015 TICK 00:15 Part SLIDE with length 92 sec and transition crossfade 
+Fri May  8 19:32:22 2015 <nextPart>
+Fri May  8 19:32:27 2015 <cancelled>
+Fri May  8 19:32:27 2015 TICK 00:22 Part SLIDE with length 48 sec and transition free 
+Fri May  8 19:33:15 2015 TICK 01:10 Part BOLT with length 139 sec and transition crossfade 
+Fri May  8 19:33:40 2015 Generator stopped
+
+Fri May  8 20:29:51 2015 Generator started
+Fri May  8 20:30:03 2015 <cancelled>
+Fri May  8 20:30:03 2015 TICK 00:12 Part BOLT with length 141 sec and transition crossfade 
+Fri May  8 20:30:04 2015 <nextPart>
+Fri May  8 20:30:16 2015 <cancelled>
+Fri May  8 20:30:16 2015 TICK 00:24 Part BOLT with length 142 sec and transition free 
+Fri May  8 20:30:17 2015 <nextPart>
+Fri May  8 20:30:32 2015 TICK 00:41 Part FUNERAL with length 149 sec and transition free 
+Fri May  8 20:30:40 2015 <nextPart>
+Fri May  8 20:30:45 2015 <cancelled>
+Fri May  8 20:30:45 2015 TICK 00:54 Part FUNERAL with length 82 sec and transition crossfade 
+Fri May  8 20:30:49 2015 Generator stopped
+
+Fri May  8 20:52:13 2015 Generator started
+Fri May  8 20:52:14 2015 <cancelled>
+Fri May  8 20:52:14 2015 TICK 00:00 Part FUNERAL with length 144 sec and transition crossfade 
+Fri May  8 20:52:15 2015 <nextPart>
+Fri May  8 20:52:30 2015 TICK 00:16 Part STUMBLE with length 114 sec and transition free 
+Fri May  8 20:54:18 2015 <cancelled>
+Fri May  8 20:54:18 2015 TICK 02:04 Part STUMBLE with length 88 sec and transition crossfade 
+Fri May  8 20:54:27 2015 <nextPart>
+Fri May  8 20:54:30 2015 <cancelled>
+Fri May  8 20:54:30 2015 TICK 02:16 Part STUMBLE with length 88 sec and transition hardcut 
+Fri May  8 20:55:11 2015 <nextPart>
+Fri May  8 20:55:19 2015 <cancelled>
+Fri May  8 20:55:19 2015 TICK 03:05 Part STUMBLE with length 86 sec and transition hardcut 
+Fri May  8 20:55:23 2015 <nextPart>
+Fri May  8 20:55:38 2015 TICK 03:24 Part PATTERN with length 137 sec and transition crossfade 
+Fri May  8 20:57:51 2015 <cancelled>
+Fri May  8 20:57:51 2015 TICK 05:38 Part PATTERN with length 73 sec and transition hardcut 
+Fri May  8 20:58:02 2015 <nextPart>
+Fri May  8 20:58:17 2015 TICK 06:04 Part JML with length 96 sec and transition crossfade 
+Fri May  8 20:59:11 2015 <nextPart>
+Fri May  8 20:59:26 2015 TICK 07:12 Part RATTLE with length 158 sec and transition crossfade 
+Fri May  8 21:02:04 2015 TICK 09:51 Part FASGRO with length 192 sec and transition free 
+Fri May  8 21:04:05 2015 <nextPart>
+Fri May  8 21:04:11 2015 <cancelled>
+Fri May  8 21:04:11 2015 TICK 11:57 Part FASGRO with length 101 sec and transition crossfade 
+Fri May  8 21:04:13 2015 <nextPart>
+Fri May  8 21:04:28 2015 TICK 12:14 Part BOLT with length 148 sec and transition crossfade 
+Fri May  8 21:06:52 2015 <cancelled>
+Fri May  8 21:06:52 2015 TICK 14:38 Part BOLT with length 90 sec and transition hardcut 
+Fri May  8 21:06:59 2015 <nextPart>
+Fri May  8 21:07:14 2015 TICK 15:00 Part FLAG with length 119 sec and transition free 
+Fri May  8 21:09:13 2015 TICK 16:59 Part SLIDE with length 109 sec and transition free 
+Fri May  8 21:11:02 2015 TICK 18:48 Part SLOGRO with length 192 sec and transition free 
+Fri May  8 21:13:10 2015 <nextPart>
+Fri May  8 21:13:20 2015 <cancelled>
+Fri May  8 21:13:20 2015 TICK 21:07 Part SLOGRO with length 79 sec and transition hardcut 
+Fri May  8 21:13:55 2015 <nextPart>
+Fri May  8 21:14:10 2015 TICK 21:57 Part STONE with length 116 sec and transition hardcut 
+Fri May  8 21:16:01 2015 <cancelled>
+Fri May  8 21:16:01 2015 TICK 23:47 Part STONE with length 73 sec and transition free 
+Fri May  8 21:16:03 2015 <nextPart>
+Fri May  8 21:16:08 2015 <cancelled>
+Fri May  8 21:16:08 2015 TICK 23:55 Part STONE with length 67 sec and transition free 
+Fri May  8 21:17:15 2015 TICK 25:01 Part SCRATCH with length 88 sec and transition crossfade 
+Fri May  8 21:17:16 2015 <nextPart>
+Fri May  8 21:17:31 2015 TICK 25:14 Part END with length 315 sec and transition free 
+Fri May  8 21:17:32 2015 Generator stopped
+
+Tue May 31 14:30:15 2016 Generator started
+Tue May 31 14:30:20 2016 TICK 00:05 Part PATTERN with length 20 sec and transition free 
+Tue May 31 14:30:27 2016 <nextPart>
+Tue May 31 14:30:32 2016 TICK 00:17 Part FLAG with length 17 sec and transition crossfade 
+Tue May 31 14:30:48 2016 <cancelled>
+Tue May 31 14:30:48 2016 TICK 00:32 Part FLAG with length 10 sec and transition free 
+Tue May 31 14:30:49 2016 <nextPart>
+Tue May 31 14:30:54 2016 TICK 00:38 Part FASGRO with length 22 sec and transition crossfade 
+Tue May 31 14:30:55 2016 Generator stopped
+
+Tue May 31 14:32:00 2016 Generator started
+Tue May 31 14:32:05 2016 TICK 00:05 Part STONE with length 17 sec and transition free 
+Tue May 31 14:32:09 2016 <nextPart>
+Tue May 31 14:32:11 2016 <cancelled>
+Tue May 31 14:32:11 2016 TICK 00:11 Part STONE with length 10 sec and transition free 
+Tue May 31 14:32:20 2016 <cancelled>
+Tue May 31 14:32:20 2016 TICK 00:19 Part STONE with length 10 sec and transition crossfade 
+Tue May 31 14:32:24 2016 <nextPart>
+Tue May 31 14:32:29 2016 TICK 00:29 Part SCRATCH with length 13 sec and transition hardcut 
+Tue May 31 14:32:32 2016 <nextPart>
+Tue May 31 14:32:37 2016 TICK 00:37 Part SLOGRO with length 18 sec and transition crossfade 
+Tue May 31 14:32:41 2016 <nextPart>
+Tue May 31 14:32:44 2016 <cancelled>
+Tue May 31 14:32:44 2016 TICK 00:43 Part SLOGRO with length 11 sec and transition crossfade 
+Tue May 31 14:32:48 2016 <nextPart>
+Tue May 31 14:32:53 2016 TICK 00:53 Part RIPP with length 22 sec and transition crossfade 
+Tue May 31 14:32:58 2016 <nextPart>
+Tue May 31 14:33:03 2016 TICK 01:03 Part FLAG with length 15 sec and transition hardcut 
+Tue May 31 14:33:11 2016 Generator stopped
+
+Mon Jun  6 11:22:43 2016 Generator started
+Mon Jun  6 11:22:58 2016 TICK 00:15 Part RATTLE with length 160 sec and transition hardcut 
+Mon Jun  6 11:23:10 2016 <nextPart>
+Mon Jun  6 11:23:22 2016 <cancelled>
+Mon Jun  6 11:23:22 2016 TICK 00:38 Part RATTLE with length 75 sec and transition crossfade 
+Mon Jun  6 11:23:30 2016 <nextPart>
+Mon Jun  6 11:23:45 2016 TICK 01:01 Part FASGRO with length 144 sec and transition hardcut 
+
+Mon Jun  6 11:24:29 2016 Generator started
+Mon Jun  6 11:24:44 2016 TICK 00:15 Part SCRATCH with length 97 sec and transition crossfade 
+Mon Jun  6 11:25:03 2016 <nextPart>
+Mon Jun  6 11:25:18 2016 TICK 00:49 Part RIPP with length 141 sec and transition free 
+Mon Jun  6 11:25:45 2016 <nextPart>
+Mon Jun  6 11:26:00 2016 TICK 01:31 Part RATTLE with length 153 sec and transition hardcut 
+Mon Jun  6 11:27:01 2016 <nextPart>
+Mon Jun  6 11:27:16 2016 TICK 02:47 Part PATTERN with length 119 sec and transition free 
+Mon Jun  6 11:27:44 2016 <nextPart>
+Mon Jun  6 11:27:59 2016 TICK 03:29 Part JML with length 79 sec and transition free 
+Mon Jun  6 11:28:57 2016 <nextPart>
+Mon Jun  6 11:29:12 2016 TICK 04:43 Part FUNERAL with length 164 sec and transition hardcut 
+Mon Jun  6 11:30:07 2016 <nextPart>
+Mon Jun  6 11:30:22 2016 TICK 05:53 Part FASGRO with length 179 sec and transition free 
+
+Mon Jun  6 11:37:20 2016 Generator started
+Mon Jun  6 11:37:35 2016 TICK 00:15 Part FUNERAL with length 149 sec and transition free 
+Mon Jun  6 11:38:25 2016 <nextPart>
+Mon Jun  6 11:38:40 2016 TICK 01:20 Part SLOGRO with length 186 sec and transition crossfade 
+Mon Jun  6 11:41:46 2016 TICK 04:26 Part SCRATCH with length 110 sec and transition crossfade 
+Mon Jun  6 11:43:36 2016 TICK 06:16 Part BOLT with length 138 sec and transition hardcut 
+Mon Jun  6 11:45:54 2016 TICK 08:34 Part RIPP with length 146 sec and transition free 
+Mon Jun  6 11:47:12 2016 <nextPart>
+Mon Jun  6 11:47:18 2016 <cancelled>
+Mon Jun  6 11:47:18 2016 TICK 09:58 Part RIPP with length 90 sec and transition hardcut 
+Mon Jun  6 11:47:20 2016 <nextPart>
+Mon Jun  6 11:47:28 2016 <cancelled>
+Mon Jun  6 11:47:28 2016 TICK 10:07 Part RIPP with length 76 sec and transition free 
+Mon Jun  6 11:47:29 2016 <nextPart>
+Mon Jun  6 11:47:44 2016 TICK 10:23 Part FASGRO with length 150 sec and transition hardcut 
+Mon Jun  6 11:48:11 2016 <nextPart>
+Mon Jun  6 11:48:13 2016 <cancelled>
+Mon Jun  6 11:48:13 2016 TICK 10:52 Part FASGRO with length 104 sec and transition hardcut 
+Mon Jun  6 11:48:15 2016 <nextPart>
+Mon Jun  6 11:48:18 2016 <cancelled>
+Mon Jun  6 11:48:18 2016 TICK 10:57 Part FASGRO with length 83 sec and transition free 
+Mon Jun  6 11:49:29 2016 <cancelled>
+Mon Jun  6 11:49:29 2016 TICK 12:08 Part FASGRO with length 78 sec and transition hardcut 
+Mon Jun  6 11:50:38 2016 Generator stopped
+
+Mon Jun  6 12:03:15 2016 Generator started
+Mon Jun  6 12:03:20 2016 Generator stopped
+
+Mon Jun  6 12:08:26 2016 Generator started
+Mon Jun  6 12:08:31 2016 Generator stopped
+
+Tue Jun  7 17:52:15 2016 Generator started
+Tue Jun  7 17:52:20 2016 Generator stopped
+
+Tue Jun  7 17:52:38 2016 Generator started
+Tue Jun  7 17:52:41 2016 <cancelled>
+Tue Jun  7 17:52:41 2016 TICK 00:03 Part JML with length 100 sec and transition crossfade 
+Tue Jun  7 17:52:42 2016 <nextPart>
+Tue Jun  7 17:52:45 2016 <cancelled>
+Tue Jun  7 17:52:45 2016 TICK 00:07 Part JML with length 101 sec and transition hardcut 
+Tue Jun  7 17:52:46 2016 <nextPart>
+Tue Jun  7 17:52:49 2016 <cancelled>
+Tue Jun  7 17:52:49 2016 TICK 00:11 Part JML with length 79 sec and transition crossfade 
+Tue Jun  7 17:52:50 2016 <nextPart>
+Tue Jun  7 17:53:05 2016 TICK 00:27 Part JML with length 104 sec and transition hardcut 
+Tue Jun  7 17:54:49 2016 TICK 02:11 Part BOLT with length 159 sec and transition free 
+Tue Jun  7 17:57:28 2016 TICK 04:50 Part SLIDE with length 100 sec and transition free 
+Tue Jun  7 17:58:09 2016 Generator stopped
+
+Tue Jun  7 18:05:33 2016 Generator started
+Tue Jun  7 18:05:48 2016 TICK 00:15 Part SLIDE with length 128 sec and transition free 
+Tue Jun  7 18:07:08 2016 <nextPart>
+Tue Jun  7 18:07:13 2016 <cancelled>
+Tue Jun  7 18:07:13 2016 TICK 01:40 Part SLIDE with length 60 sec and transition free 
+Tue Jun  7 18:07:19 2016 <nextPart>
+Tue Jun  7 18:07:34 2016 TICK 02:01 Part RIPP with length 150 sec and transition hardcut 
+Tue Jun  7 18:08:25 2016 <nextPart>
+Tue Jun  7 18:08:28 2016 <cancelled>
+Tue Jun  7 18:08:28 2016 TICK 02:54 Part RIPP with length 90 sec and transition hardcut 
+Tue Jun  7 18:08:29 2016 <nextPart>
+Tue Jun  7 18:08:44 2016 TICK 03:11 Part STUMBLE with length 149 sec and transition crossfade 
+Tue Jun  7 18:11:13 2016 TICK 05:40 Part JML with length 88 sec and transition free 
+Tue Jun  7 18:12:41 2016 TICK 07:08 Part SCRATCH with length 116 sec and transition free 
+Tue Jun  7 18:14:29 2016 <cancelled>
+Tue Jun  7 18:14:29 2016 TICK 08:56 Part SCRATCH with length 61 sec and transition hardcut 
+Tue Jun  7 18:15:30 2016 TICK 09:57 Part VIBRA with length 102 sec and transition hardcut 
+Tue Jun  7 18:16:27 2016 <nextPart>
+Tue Jun  7 18:16:30 2016 <cancelled>
+Tue Jun  7 18:16:30 2016 TICK 10:57 Part VIBRA with length 51 sec and transition hardcut 
+Tue Jun  7 18:17:21 2016 TICK 11:48 Part RATTLE with length 158 sec and transition hardcut 
+Tue Jun  7 18:19:59 2016 TICK 14:26 Part PATTERN with length 152 sec and transition free 
+Tue Jun  7 18:21:39 2016 <nextPart>
+Tue Jun  7 18:21:54 2016 TICK 16:21 Part FUNERAL with length 154 sec and transition hardcut 
+Tue Jun  7 18:24:28 2016 TICK 18:55 Part BOLT with length 183 sec and transition free 
+Tue Jun  7 18:25:34 2016 <nextPart>
+Tue Jun  7 18:25:49 2016 TICK 20:15 Part END with length 315 sec and transition free 
+Tue Jun  7 18:25:50 2016 Generator stopped
+
+Tue Jun  7 18:39:36 2016 Generator started
+Tue Jun  7 18:39:51 2016 TICK 00:15 Part FUNERAL with length 162 sec and transition free 
+Tue Jun  7 18:40:13 2016 <nextPart>
+Tue Jun  7 18:40:21 2016 <cancelled>
+Tue Jun  7 18:40:21 2016 TICK 00:44 Part FUNERAL with length 80 sec and transition hardcut 
+Tue Jun  7 18:40:25 2016 <nextPart>
+Tue Jun  7 18:40:29 2016 <cancelled>
+Tue Jun  7 18:40:29 2016 TICK 00:52 Part FUNERAL with length 80 sec and transition free 
+Tue Jun  7 18:40:31 2016 <nextPart>
+Tue Jun  7 18:40:39 2016 <cancelled>
+Tue Jun  7 18:40:39 2016 TICK 01:03 Part FUNERAL with length 79 sec and transition hardcut 
+Tue Jun  7 18:40:41 2016 <nextPart>
+Tue Jun  7 18:40:56 2016 TICK 01:20 Part SCRATCH with length 117 sec and transition free 
+Tue Jun  7 18:42:53 2016 TICK 03:16 Part JML with length 80 sec and transition free 
+Tue Jun  7 18:44:13 2016 TICK 04:37 Part PATTERN with length 127 sec and transition crossfade 
+Tue Jun  7 18:46:02 2016 <nextPart>
+Tue Jun  7 18:46:17 2016 TICK 06:41 Part STUMBLE with length 153 sec and transition free 
+Tue Jun  7 18:47:09 2016 <nextPart>
+Tue Jun  7 18:47:24 2016 TICK 07:48 Part RATTLE with length 116 sec and transition hardcut 
+Tue Jun  7 18:49:20 2016 TICK 09:44 Part RIPP with length 142 sec and transition hardcut 
+Tue Jun  7 18:51:09 2016 Generator stopped
+
+Tue Jun  7 18:55:29 2016 Generator started
+Tue Jun  7 18:55:44 2016 TICK 00:14 Part JML with length 94 sec and transition free 
+Tue Jun  7 18:56:40 2016 <nextPart>
+Tue Jun  7 18:56:55 2016 TICK 01:26 Part SCRATCH with length 98 sec and transition crossfade 
+Tue Jun  7 18:58:13 2016 <nextPart>
+Tue Jun  7 18:58:28 2016 TICK 02:59 Part STUMBLE with length 109 sec and transition hardcut 
+Tue Jun  7 19:00:17 2016 TICK 04:48 Part RATTLE with length 134 sec and transition free 
+Tue Jun  7 19:01:40 2016 <nextPart>
+Tue Jun  7 19:01:55 2016 TICK 06:25 Part BOLT with length 163 sec and transition crossfade 
+Tue Jun  7 19:02:50 2016 <nextPart>
+Tue Jun  7 19:03:05 2016 TICK 07:35 Part SLIDE with length 104 sec and transition hardcut 
+Tue Jun  7 19:04:38 2016 <cancelled>
+Tue Jun  7 19:04:38 2016 TICK 09:08 Part SLIDE with length 57 sec and transition hardcut 
+Tue Jun  7 19:05:01 2016 <nextPart>
+Tue Jun  7 19:05:16 2016 TICK 09:46 Part VIBRA with length 78 sec and transition hardcut 
+Tue Jun  7 19:06:25 2016 <cancelled>
+Tue Jun  7 19:06:25 2016 TICK 10:55 Part VIBRA with length 59 sec and transition free 
+Tue Jun  7 19:06:28 2016 <nextPart>
+Tue Jun  7 19:06:36 2016 <cancelled>
+Tue Jun  7 19:06:36 2016 TICK 11:07 Part VIBRA with length 57 sec and transition hardcut 
+Tue Jun  7 19:06:40 2016 <nextPart>
+Tue Jun  7 19:06:55 2016 TICK 11:25 Part PATTERN with length 157 sec and transition hardcut 
+Tue Jun  7 19:08:25 2016 <nextPart>
+Tue Jun  7 19:08:40 2016 TICK 13:10 Part RIPP with length 161 sec and transition free 
+Tue Jun  7 19:10:33 2016 <nextPart>
+Tue Jun  7 19:10:48 2016 TICK 15:19 Part FUNERAL with length 142 sec and transition hardcut 
+Tue Jun  7 19:13:07 2016 <cancelled>
+Tue Jun  7 19:13:07 2016 TICK 17:37 Part FUNERAL with length 80 sec and transition crossfade 
+Tue Jun  7 19:13:26 2016 <nextPart>
+Tue Jun  7 19:13:41 2016 TICK 18:11 Part RATTLE with length 163 sec and transition free 
+Tue Jun  7 19:14:42 2016 <nextPart>
+Tue Jun  7 19:14:44 2016 <cancelled>
+Tue Jun  7 19:14:44 2016 TICK 19:15 Part RATTLE with length 84 sec and transition free 
+Tue Jun  7 19:14:45 2016 <nextPart>
+Tue Jun  7 19:14:46 2016 <cancelled>
+Tue Jun  7 19:14:46 2016 TICK 19:16 Part RATTLE with length 65 sec and transition hardcut 
+Tue Jun  7 19:14:49 2016 <nextPart>
+Tue Jun  7 19:14:51 2016 <cancelled>
+Tue Jun  7 19:14:51 2016 TICK 19:22 Part RATTLE with length 68 sec and transition hardcut 
+Tue Jun  7 19:15:27 2016 <nextPart>
+Tue Jun  7 19:15:30 2016 <cancelled>
+Tue Jun  7 19:15:30 2016 TICK 20:00 Part RATTLE with length 83 sec and transition hardcut 
+Tue Jun  7 19:15:31 2016 <nextPart>
+Tue Jun  7 19:15:46 2016 TICK 20:14 Part END with length 315 sec and transition free 
+Tue Jun  7 19:15:47 2016 Generator stopped
+
+Tue Jun  7 22:07:42 2016 Generator started
+Tue Jun  7 22:07:46 2016 Generator stopped
+
+Tue Jun  7 22:07:52 2016 Generator started
+Tue Jun  7 22:07:54 2016 Generator stopped
+
+Tue Jun  7 22:29:17 2016 Generator started
+Tue Jun  7 22:29:32 2016 TICK 00:14 Part STUMBLE with length 122 sec and transition crossfade 
+Tue Jun  7 22:31:05 2016 <nextPart>
+Tue Jun  7 22:31:06 2016 <cancelled>
+Tue Jun  7 22:31:06 2016 TICK 01:49 Part STUMBLE with length 74 sec and transition free 
+Tue Jun  7 22:31:09 2016 <nextPart>
+Tue Jun  7 22:31:24 2016 TICK 02:07 Part RATTLE with length 157 sec and transition free 
+Tue Jun  7 22:32:37 2016 <nextPart>
+Tue Jun  7 22:32:46 2016 <cancelled>
+Tue Jun  7 22:32:46 2016 TICK 03:29 Part RATTLE with length 63 sec and transition free 
+Tue Jun  7 22:32:59 2016 <nextPart>
+Tue Jun  7 22:33:02 2016 <cancelled>
+Tue Jun  7 22:33:02 2016 TICK 03:44 Part RATTLE with length 69 sec and transition crossfade 
+Tue Jun  7 22:33:04 2016 <nextPart>
+Tue Jun  7 22:33:06 2016 <cancelled>
+Tue Jun  7 22:33:06 2016 TICK 03:49 Part RATTLE with length 71 sec and transition free 
+Tue Jun  7 22:33:08 2016 <nextPart>
+Tue Jun  7 22:33:23 2016 TICK 04:06 Part RIPP with length 195 sec and transition free 
+Tue Jun  7 22:34:53 2016 <nextPart>
+Tue Jun  7 22:35:08 2016 TICK 05:51 Part SCRATCH with length 95 sec and transition free 
+Tue Jun  7 22:36:32 2016 <cancelled>
+Tue Jun  7 22:36:32 2016 TICK 07:15 Part SCRATCH with length 64 sec and transition free 
+Tue Jun  7 22:37:36 2016 TICK 08:19 Part SLIDE with length 132 sec and transition hardcut 
+Tue Jun  7 22:39:06 2016 <nextPart>
+Tue Jun  7 22:39:14 2016 <cancelled>
+Tue Jun  7 22:39:14 2016 TICK 09:56 Part SLIDE with length 75 sec and transition free 
+Tue Jun  7 22:39:20 2016 <nextPart>
+Tue Jun  7 22:39:22 2016 <cancelled>
+Tue Jun  7 22:39:22 2016 TICK 10:05 Part SLIDE with length 66 sec and transition crossfade 
+Tue Jun  7 22:39:23 2016 <nextPart>
+Tue Jun  7 22:39:25 2016 <cancelled>
+Tue Jun  7 22:39:25 2016 TICK 10:08 Part SLIDE with length 68 sec and transition crossfade 
+Tue Jun  7 22:39:28 2016 <nextPart>
+Tue Jun  7 22:39:30 2016 <cancelled>
+Tue Jun  7 22:39:30 2016 TICK 10:12 Part SLIDE with length 55 sec and transition free 
+Tue Jun  7 22:39:32 2016 <nextPart>
+Tue Jun  7 22:39:33 2016 <cancelled>
+Tue Jun  7 22:39:33 2016 TICK 10:16 Part SLIDE with length 68 sec and transition crossfade 
+Tue Jun  7 22:39:34 2016 <nextPart>
+Tue Jun  7 22:39:36 2016 <cancelled>
+Tue Jun  7 22:39:36 2016 TICK 10:19 Part SLIDE with length 56 sec and transition crossfade 
+Tue Jun  7 22:39:38 2016 <nextPart>
+Tue Jun  7 22:39:39 2016 <cancelled>
+Tue Jun  7 22:39:39 2016 TICK 10:22 Part SLIDE with length 46 sec and transition crossfade 
+Tue Jun  7 22:39:42 2016 <nextPart>
+Tue Jun  7 22:39:57 2016 TICK 10:40 Part BOLT with length 153 sec and transition free 
+Tue Jun  7 22:41:33 2016 <nextPart>
+Tue Jun  7 22:41:48 2016 TICK 12:31 Part PATTERN with length 162 sec and transition free 
+Tue Jun  7 22:42:43 2016 <nextPart>
+Tue Jun  7 22:42:51 2016 <cancelled>
+Tue Jun  7 22:42:51 2016 TICK 13:34 Part PATTERN with length 77 sec and transition hardcut 
+Tue Jun  7 22:43:35 2016 <nextPart>
+Tue Jun  7 22:43:50 2016 TICK 14:33 Part VIBRA with length 97 sec and transition crossfade 
+Tue Jun  7 22:45:27 2016 TICK 16:10 Part JML with length 80 sec and transition hardcut 
+Tue Jun  7 22:45:44 2016 <nextPart>
+Tue Jun  7 22:45:59 2016 TICK 16:42 Part FUNERAL with length 143 sec and transition hardcut 
+Tue Jun  7 22:47:56 2016 <nextPart>
+Tue Jun  7 22:48:03 2016 <cancelled>
+Tue Jun  7 22:48:03 2016 TICK 18:46 Part FUNERAL with length 83 sec and transition free 
+Tue Jun  7 22:48:05 2016 <nextPart>
+Tue Jun  7 22:48:20 2016 TICK 19:03 Part SLIDE with length 85 sec and transition free 
+Tue Jun  7 22:48:42 2016 <nextPart>
+Tue Jun  7 22:48:46 2016 <cancelled>
+Tue Jun  7 22:48:46 2016 TICK 19:29 Part SLIDE with length 70 sec and transition hardcut 
+Tue Jun  7 22:48:47 2016 <nextPart>
+Tue Jun  7 22:49:02 2016 TICK 19:44 Part STUMBLE with length 156 sec and transition free 
+Tue Jun  7 22:49:19 2016 <nextPart>
+Tue Jun  7 22:49:34 2016 TICK 20:15 Part END with length 315 sec and transition hardcut 
+Tue Jun  7 22:49:35 2016 Generator stopped

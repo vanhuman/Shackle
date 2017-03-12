@@ -1,0 +1,57 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*INTRO>
+[ Cmmaj7 ]
+
+laptop solo: 
+drones and Sauer organ notes 
+C-G liggen, speel B-C-D-Es
+stop before HANDE starts
+
+<*H€NDE>
+
+voice and Verschuren:
+In Deine Hande from the balcony
+At the end start green11 (keyset3)
+
+<*EDNAH>
+
+laptop solo:
+reverse version In Deine Hande
+stop green11 / start green12 (keyset3)
+
+<*PATTERNS>
+
+laptop: pulse
+voice and chest organ: 
+    PATTERNS score
+
+<*STATIC>
+[ Gmmaj7 ]
+
+cello, voice and Sauer:
+    long notes with internal movement 
+laptop: live sampling
+ 
+<*LISPER>
+[ Cmmaj7  Cm7  C#maj7/E# ]
+
+voice: cut-up text
+Sauer: LISPER score
+laptop: live sampling
+
+<*LAMENT>
+[ Cm7 ]
+
+cello & voice: meditative loop
+Sauer: LAMENT score
+laptop: joystick modulation
+
+<*END>
+ 
++++
+
+
+

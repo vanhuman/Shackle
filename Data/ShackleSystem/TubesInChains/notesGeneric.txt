@@ -1,0 +1,79 @@
+<*CANCEL>
+
+<*NEXT>
+
+<*BAR>
+BAR: drifting drone
+Sauer:  
+note C# on manual II
+lowest C C# D D# E on man I
+use motor ab
+possibly distortion
+
+<*FETTER>
+FETTER: free and wild 
+Sauer: 
+percussive, staccato
+leave gaps
+
+<*TRAMMEL>
+TRAMMEL: a song
+Chest organ: 
+play song with 8vt only
+together with flute
+pause randomly
+when paused play with Lp
+
+<*CURB>
+CURB: quiet, mechanical 
+Chest organ (distortion
+play with volume on pedal): 
+mechanical, percussive
+non-tonal
+key clicks
+
+<*BILBOES>
+BILBOES: airy whisper
+Chest organ (bit of distortion): 
+only 8vt
+create rhythms with noise 
+with the lowest notes
+ 
+<*CRCKDWN>
+CRACKDOWN: David Lynch
+Molzer: 
+G7 NO 3rd 
+
+<*HOG-TIE>
+HOG-TIE: big sound
+Sauer: dirty registers
+at the end: SWITCH OFF WALZ
+
+<*TETHER>
+TETHER: noisy noodle
+Chest organ: 
+light doodle over higher part 
+of the keyboard
+play with different registers
+        
+<*YOKE>
+YOKE: PJ Harvey 
+SWITCH OFF WALZ
+Sauer: 
+notated chord progression 
+with different registers
+
+<*HALTER>
+HALTER: heavy metal drone
+Leave chord on Sauer
+to be switched off by Anne
+Verstraaten organ: 
+long notes Bminor
+
+<*END>
+END: make an ending
+
++++
+
+
+

@@ -1,0 +1,268 @@
+
+Tue Oct 23 14:58:11 2012 Generator started
+Tue Oct 23 14:58:14 2012 <cancelled>
+Tue Oct 23 14:58:14 2012 Part DELICATE with length 109 sec and transition hardcut 
+Tue Oct 23 14:58:15 2012 <next_part>
+Tue Oct 23 14:58:29 2012 Generator stopped
+
+Tue Oct 23 14:58:55 2012 Generator started
+Tue Oct 23 14:59:01 2012 <cancelled>
+Tue Oct 23 14:59:01 2012 Part DELICATE with length 62 sec and transition free 
+Tue Oct 23 14:59:51 2012 <cancelled>
+Tue Oct 23 14:59:51 2012 Part DELICATE with length 98 sec and transition hardcut 
+Tue Oct 23 15:01:29 2012 Part RIG with length 121 sec and transition free 
+Tue Oct 23 15:03:30 2012 Part THIMBLE with length 117 sec and transition hardcut 
+Tue Oct 23 15:05:27 2012 Part BOLT with length 93 sec and transition free 
+Tue Oct 23 15:07:00 2012 Part RIG with length 212 sec and transition hardcut 
+Tue Oct 23 15:10:33 2012 Part CLIP with length 85 sec and transition free 
+Tue Oct 23 15:11:58 2012 Part CUFF with length 123 sec and transition crossfade 
+Tue Oct 23 15:13:57 2012 <cancelled>
+Tue Oct 23 15:13:57 2012 Part CUFF with length 72 sec and transition hardcut 
+Tue Oct 23 15:14:56 2012 <cancelled>
+Tue Oct 23 15:14:56 2012 Part CUFF with length 63 sec and transition free 
+Tue Oct 23 15:15:50 2012 <cancelled>
+Tue Oct 23 15:15:50 2012 Part CUFF with length 63 sec and transition free 
+Tue Oct 23 15:16:27 2012 <next_part>
+Tue Oct 23 15:16:30 2012 <cancelled>
+Tue Oct 23 15:16:30 2012 Part CUFF with length 86 sec and transition free 
+Tue Oct 23 15:16:31 2012 <next_part>
+Tue Oct 23 15:16:36 2012 <cancelled>
+Tue Oct 23 15:16:36 2012 Part CUFF with length 69 sec and transition crossfade 
+Tue Oct 23 15:16:37 2012 <next_part>
+Tue Oct 23 15:16:52 2012 Part BOLT with length 124 sec and transition free 
+Tue Oct 23 15:18:29 2012 <next_part>
+Tue Oct 23 15:18:31 2012 <cancelled>
+Tue Oct 23 15:18:31 2012 Part BOLT with length 70 sec and transition crossfade 
+Tue Oct 23 15:19:41 2012 Part RIG with length 125 sec and transition free 
+Tue Oct 23 15:21:33 2012 <cancelled>
+Tue Oct 23 15:21:33 2012 Part RIG with length 65 sec and transition crossfade 
+Tue Oct 23 15:22:32 2012 <cancelled>
+Tue Oct 23 15:22:32 2012 Part RIG with length 70 sec and transition hardcut 
+Tue Oct 23 15:23:42 2012 Part CLIP with length 99 sec and transition free 
+Tue Oct 23 15:25:22 2012 Part BOW with length 182 sec and transition free 
+Tue Oct 23 15:28:12 2012 <cancelled>
+Tue Oct 23 15:28:12 2012 Part BOW with length 84 sec and transition crossfade 
+Tue Oct 23 15:28:13 2012 <next_part>
+Tue Oct 23 15:28:16 2012 <cancelled>
+Tue Oct 23 15:28:16 2012 Part BOW with length 104 sec and transition free 
+Tue Oct 23 15:28:17 2012 <next_part>
+Tue Oct 23 15:28:24 2012 <cancelled>
+Tue Oct 23 15:28:24 2012 Part BOW with length 70 sec and transition free 
+Tue Oct 23 15:28:27 2012 <next_part>
+Tue Oct 23 15:28:32 2012 <cancelled>
+Tue Oct 23 15:28:32 2012 Part BOW with length 113 sec and transition hardcut 
+Tue Oct 23 15:28:35 2012 <next_part>
+Tue Oct 23 15:28:37 2012 <cancelled>
+Tue Oct 23 15:28:37 2012 Part BOW with length 104 sec and transition free 
+Tue Oct 23 15:28:39 2012 <next_part>
+Tue Oct 23 15:28:54 2012 Part LIMIT with length 224 sec and transition crossfade 
+Tue Oct 23 15:32:29 2012 <cancelled>
+Tue Oct 23 15:32:29 2012 Part LIMIT with length 46 sec and transition hardcut 
+Tue Oct 23 15:33:15 2012 Part BOLT with length 88 sec and transition hardcut 
+Tue Oct 23 15:34:43 2012 Part ANCHOR with length 265 sec and transition hardcut 
+Tue Oct 23 15:39:08 2012 Part IMAGINE with length 240 sec and transition hardcut 
+Tue Oct 23 15:41:26 2012 <next_part>
+Tue Oct 23 15:41:41 2012 Part LOOP with length 129 sec and transition free 
+Tue Oct 23 15:43:50 2012 Part THIMBLE with length 198 sec and transition free 
+Tue Oct 23 15:46:50 2012 <next_part>
+Tue Oct 23 15:47:05 2012 Part CUFF with length 119 sec and transition free 
+Tue Oct 23 15:47:31 2012 <next_part>
+Tue Oct 23 15:47:46 2012 Part ANCHOR with length 196 sec and transition crossfade 
+Tue Oct 23 15:47:55 2012 <next_part>
+Tue Oct 23 15:48:10 2012 Part CLIP with length 103 sec and transition free 
+Tue Oct 23 15:49:53 2012 Part BOW with length 175 sec and transition hardcut 
+Tue Oct 23 15:52:48 2012 Part THIMBLE with length 143 sec and transition hardcut 
+Tue Oct 23 15:52:54 2012 Generator stopped
+
+Tue Oct 23 16:32:34 2012 Generator started
+Tue Oct 23 16:32:37 2012 <cancelled>
+Tue Oct 23 16:32:37 2012 Part DELICATE with length 110 sec and transition crossfade 
+Tue Oct 23 16:34:27 2012 Part LOOP with length 149 sec and transition hardcut 
+Tue Oct 23 16:36:56 2012 Part RIG with length 185 sec and transition crossfade 
+Tue Oct 23 16:40:00 2012 Part IMAGINE with length 210 sec and transition crossfade 
+Tue Oct 23 16:42:22 2012 <next_part>
+Tue Oct 23 16:42:37 2012 Part CUFF with length 88 sec and transition hardcut 
+Tue Oct 23 16:43:53 2012 <cancelled>
+Tue Oct 23 16:43:53 2012 Part CUFF with length 88 sec and transition hardcut 
+Tue Oct 23 16:45:21 2012 Part THIMBLE with length 126 sec and transition free 
+Tue Oct 23 16:47:27 2012 Part RIG with length 141 sec and transition free 
+Tue Oct 23 16:48:23 2012 Generator stopped
+
+Fri Oct 26 10:35:56 2012 Generator started
+Fri Oct 26 10:35:59 2012 Generator stopped
+
+Fri Oct 26 10:36:02 2012 Generator started
+Fri Oct 26 10:36:17 2012 Part ANCHOR with length 193 sec and transition hardcut 
+Fri Oct 26 10:36:52 2012 <next_part>
+Fri Oct 26 10:37:07 2012 Part RIG with length 205 sec and transition free 
+Fri Oct 26 10:39:05 2012 <next_part>
+Fri Oct 26 10:39:09 2012 Generator stopped
+
+Fri Oct 26 10:46:10 2012 Generator started
+Fri Oct 26 10:46:11 2012 Generator stopped
+
+Fri Oct 26 10:46:43 2012 Generator started
+Fri Oct 26 10:46:51 2012 <cancelled>
+Fri Oct 26 10:46:51 2012 Part DELICATE with length 88 sec and transition free 
+Fri Oct 26 10:47:24 2012 Generator stopped
+
+Fri Oct 26 10:47:26 2012 Generator started
+Fri Oct 26 10:47:30 2012 <cancelled>
+Fri Oct 26 10:47:30 2012 Part DELICATE with length 83 sec and transition crossfade 
+Fri Oct 26 10:48:41 2012 <cancelled>
+Fri Oct 26 10:48:41 2012 Part DELICATE with length 99 sec and transition hardcut 
+Fri Oct 26 10:50:08 2012 <cancelled>
+Fri Oct 26 10:50:08 2012 Part DELICATE with length 97 sec and transition hardcut 
+Fri Oct 26 10:51:45 2012 Part RIG with length 207 sec and transition crossfade 
+Fri Oct 26 10:55:03 2012 <cancelled>
+Fri Oct 26 10:55:03 2012 Part RIG with length 104 sec and transition free 
+Fri Oct 26 10:56:35 2012 <cancelled>
+Fri Oct 26 10:56:35 2012 Part RIG with length 104 sec and transition free 
+Fri Oct 26 10:58:08 2012 <cancelled>
+Fri Oct 26 10:58:08 2012 Part RIG with length 87 sec and transition hardcut 
+Fri Oct 26 10:58:50 2012 <next_part>
+Fri Oct 26 10:59:05 2012 Part LOOP with length 137 sec and transition crossfade 
+Fri Oct 26 11:01:17 2012 <cancelled>
+Fri Oct 26 11:01:17 2012 Part LOOP with length 101 sec and transition free 
+Fri Oct 26 11:02:58 2012 Part LIMIT with length 146 sec and transition free 
+Fri Oct 26 11:05:23 2012 Part BOW with length 204 sec and transition free 
+Fri Oct 26 11:08:37 2012 <cancelled>
+Fri Oct 26 11:08:37 2012 Part BOW with length 96 sec and transition hardcut 
+Fri Oct 26 11:10:13 2012 Part CLIP with length 125 sec and transition hardcut 
+Fri Oct 26 11:12:06 2012 <cancelled>
+Fri Oct 26 11:12:06 2012 Part CLIP with length 73 sec and transition free 
+Fri Oct 26 11:13:19 2012 Part LIMIT with length 184 sec and transition hardcut 
+Fri Oct 26 11:15:07 2012 Generator stopped
+
+Fri Oct 26 11:43:01 2012 Generator started
+Fri Oct 26 11:43:03 2012 <cancelled>
+Fri Oct 26 11:43:03 2012 Part DELICATE with length 99 sec and transition free 
+Fri Oct 26 11:44:42 2012 Part LIMIT with length 155 sec and transition free 
+Fri Oct 26 11:47:17 2012 Part RIG with length 175 sec and transition free 
+Fri Oct 26 11:48:21 2012 <next_part>
+Fri Oct 26 11:48:36 2012 Part ANCHOR with length 251 sec and transition crossfade 
+Fri Oct 26 11:52:47 2012 Part BOLT with length 146 sec and transition hardcut 
+Fri Oct 26 11:52:54 2012 Generator stopped
+
+Fri Oct 26 12:20:07 2012 Generator started
+Fri Oct 26 12:20:22 2012 Part LOOP with length 182 sec and transition free 
+Fri Oct 26 12:23:24 2012 Part IMAGINE with length 149 sec and transition hardcut 
+Fri Oct 26 12:25:53 2012 Part RIG with length 210 sec and transition free 
+Fri Oct 26 12:29:23 2012 Part BOW with length 184 sec and transition hardcut 
+Fri Oct 26 12:32:19 2012 <cancelled>
+Fri Oct 26 12:32:19 2012 Part BOW with length 124 sec and transition free 
+Fri Oct 26 12:34:14 2012 <cancelled>
+Fri Oct 26 12:34:14 2012 Part BOW with length 121 sec and transition free 
+Fri Oct 26 12:36:15 2012 Part THIMBLE with length 180 sec and transition free 
+Fri Oct 26 12:39:05 2012 <cancelled>
+Fri Oct 26 12:39:05 2012 Part THIMBLE with length 75 sec and transition hardcut 
+Fri Oct 26 12:40:13 2012 <cancelled>
+Fri Oct 26 12:40:13 2012 Part THIMBLE with length 73 sec and transition hardcut 
+Fri Oct 26 12:41:26 2012 Part BOW with length 222 sec and transition free 
+Fri Oct 26 12:42:01 2012 <next_part>
+Fri Oct 26 12:42:03 2012 <cancelled>
+Fri Oct 26 12:42:03 2012 Part BOW with length 121 sec and transition free 
+Fri Oct 26 12:42:04 2012 <next_part>
+Fri Oct 26 12:42:08 2012 <cancelled>
+Fri Oct 26 12:42:08 2012 Part BOW with length 119 sec and transition free 
+Fri Oct 26 12:42:16 2012 <next_part>
+Fri Oct 26 12:42:31 2012 Part BOLT with length 129 sec and transition hardcut 
+Fri Oct 26 12:44:32 2012 <cancelled>
+Fri Oct 26 12:44:32 2012 Part BOLT with length 99 sec and transition free 
+Fri Oct 26 12:46:07 2012 <cancelled>
+Fri Oct 26 12:46:07 2012 Part BOLT with length 65 sec and transition crossfade 
+Fri Oct 26 12:46:11 2012 <next_part>
+Fri Oct 26 12:46:26 2012 Part DELICATE with length 143 sec and transition free 
+Fri Oct 26 12:48:38 2012 <cancelled>
+Fri Oct 26 12:48:38 2012 Part DELICATE with length 80 sec and transition free 
+Fri Oct 26 12:49:04 2012 <next_part>
+Fri Oct 26 12:49:19 2012 Part CUFF with length 188 sec and transition free 
+Fri Oct 26 12:52:27 2012 Part LOOP with length 152 sec and transition hardcut 
+Fri Oct 26 12:54:47 2012 <cancelled>
+Fri Oct 26 12:54:47 2012 Part LOOP with length 89 sec and transition hardcut 
+Fri Oct 26 12:54:50 2012 <next_part>
+Fri Oct 26 12:54:53 2012 <cancelled>
+Fri Oct 26 12:54:53 2012 Part LOOP with length 94 sec and transition crossfade 
+Fri Oct 26 12:54:55 2012 <next_part>
+Fri Oct 26 12:54:57 2012 <cancelled>
+Fri Oct 26 12:54:57 2012 Part LOOP with length 90 sec and transition free 
+Fri Oct 26 12:54:58 2012 <next_part>
+Fri Oct 26 12:55:13 2012 Part CLIP with length 98 sec and transition hardcut 
+Fri Oct 26 12:56:41 2012 <cancelled>
+Fri Oct 26 12:56:41 2012 Part CLIP with length 84 sec and transition hardcut 
+Fri Oct 26 12:56:45 2012 <next_part>
+Fri Oct 26 12:57:00 2012 Part BOW with length 179 sec and transition free 
+Fri Oct 26 12:57:32 2012 Generator stopped
+
+Fri Oct 26 20:18:58 2012 Generator started
+Fri Oct 26 20:19:02 2012 <cancelled>
+Fri Oct 26 20:19:02 2012 Part DELICATE with length 105 sec and transition hardcut 
+Fri Oct 26 20:19:04 2012 <next_part>
+Fri Oct 26 20:19:19 2012 Part RIG with length 219 sec and transition hardcut 
+Fri Oct 26 20:22:58 2012 Part BOW with length 171 sec and transition hardcut 
+Fri Oct 26 20:25:49 2012 Part ANCHOR with length 207 sec and transition crossfade 
+Fri Oct 26 20:26:52 2012 Generator stopped
+
+Fri Oct 26 22:03:05 2012 Generator started
+Fri Oct 26 22:03:10 2012 <cancelled>
+Fri Oct 26 22:03:10 2012 Part DELICATE with length 108 sec and transition free 
+Fri Oct 26 22:04:46 2012 <cancelled>
+Fri Oct 26 22:04:46 2012 Part DELICATE with length 87 sec and transition free 
+Fri Oct 26 22:06:03 2012 <cancelled>
+Fri Oct 26 22:06:03 2012 Part DELICATE with length 86 sec and transition free 
+Fri Oct 26 22:07:29 2012 Part CLIP with length 117 sec and transition crossfade 
+Fri Oct 26 22:09:14 2012 <cancelled>
+Fri Oct 26 22:09:14 2012 Part CLIP with length 74 sec and transition free 
+Fri Oct 26 22:10:28 2012 Part THIMBLE with length 181 sec and transition free 
+Fri Oct 26 22:12:43 2012 <next_part>
+Fri Oct 26 22:12:58 2012 Part IMAGINE with length 151 sec and transition free 
+Fri Oct 26 22:15:20 2012 <cancelled>
+Fri Oct 26 22:15:20 2012 Part IMAGINE with length 100 sec and transition hardcut 
+Fri Oct 26 22:15:23 2012 <next_part>
+Fri Oct 26 22:15:38 2012 Part CUFF with length 187 sec and transition crossfade 
+Fri Oct 26 22:18:35 2012 <cancelled>
+Fri Oct 26 22:18:35 2012 Part CUFF with length 76 sec and transition crossfade 
+Fri Oct 26 22:19:11 2012 <next_part>
+Fri Oct 26 22:19:13 2012 <cancelled>
+Fri Oct 26 22:19:13 2012 Part CUFF with length 105 sec and transition hardcut 
+Fri Oct 26 22:19:14 2012 <next_part>
+Fri Oct 26 22:19:29 2012 Part ANCHOR with length 185 sec and transition crossfade 
+Fri Oct 26 22:22:23 2012 <cancelled>
+Fri Oct 26 22:22:23 2012 Part ANCHOR with length 90 sec and transition hardcut 
+Fri Oct 26 22:23:53 2012 Part LOOP with length 144 sec and transition free 
+Fri Oct 26 22:26:13 2012 <cancelled>
+Fri Oct 26 22:26:13 2012 Part LOOP with length 87 sec and transition crossfade 
+Fri Oct 26 22:27:40 2012 Part RIG with length 207 sec and transition free 
+Fri Oct 26 22:29:29 2012 Generator stopped
+
+Fri Oct 26 22:38:38 2012 Generator started
+Fri Oct 26 22:38:52 2012 Part LOOP with length 156 sec and transition hardcut 
+Fri Oct 26 22:41:28 2012 Part BOW with length 211 sec and transition crossfade 
+Fri Oct 26 22:44:59 2012 Part RIG with length 208 sec and transition hardcut 
+Fri Oct 26 22:48:27 2012 Part THIMBLE with length 171 sec and transition free 
+Fri Oct 26 22:51:18 2012 Part ANCHOR with length 216 sec and transition crossfade 
+Fri Oct 26 22:54:54 2012 Part RIG with length 236 sec and transition hardcut 
+Fri Oct 26 22:55:08 2012 Generator stopped
+
+Fri Feb  7 10:55:21 2014 Generator started
+Fri Feb  7 10:55:26 2014 Part DELICATE with length 21 sec and transition free 
+Fri Feb  7 10:55:28 2014 <nextPart>
+Fri Feb  7 10:55:29 2014 Generator stopped
+
+Fri Feb  7 11:35:50 2014 Generator started
+Fri Feb  7 11:35:55 2014 Part DELICATE with length 22 sec and transition free 
+Fri Feb  7 11:36:00 2014 <nextPart>
+Fri Feb  7 11:36:05 2014 Part BOW with length 24 sec and transition crossfade 
+Fri Feb  7 11:36:09 2014 Generator stopped
+
+Sat May 10 09:54:23 2014 Generator started
+Sat May 10 09:54:24 2014 Generator stopped
+
+Sat May 10 09:54:25 2014 Generator started
+Sat May 10 09:54:26 2014 Generator stopped
+
+Sat May 10 09:54:29 2014 Generator started
+Sat May 10 09:54:30 2014 Generator stopped
+
+Sat May 10 09:54:33 2014 Generator started
+Sat May 10 09:54:35 2014 Generator stopped
