@@ -29,8 +29,8 @@ Set 2
 
 ///////////////////////////////////////////// variables //////////////////////////////////////
 
-var imageCtrlOnline = 1, imageSendCtrlActive = 0, imageCtrlAddr = NetAddrMon("169.254.0.9", 7777);
-var anneOnline = 1, anneAddr = NetAddrMon("169.254.0.1", 57121);
+var imageCtrlOnline = 0, imageSendCtrlActive = 0, imageCtrlAddr = NetAddrMon("169.254.0.9", 7777);
+var anneOnline = 0, anneAddr = NetAddrMon("169.254.0.1", 57121);
 var countDownEnabled = 1, countNbr = 10; // enable countdown of countNbr steps
 var delayInChannel = 1; // input hardware channel for delay effect
 
@@ -112,7 +112,7 @@ SynthDef(\curvesDelay, {
 		LFNoise0.ar(0.5).range(0.5,10)
 	);
 
-	Out.ar(~aBus.outMain, sig * env * In.kr(volDelayBus,1));
+	Out.ar(~aBus.outMain, 0.2 * sig * env * In.kr(volDelayBus,1));
 }).add;
 
 
@@ -215,7 +215,8 @@ OSCdef(\curvesNOF, { |msg|
 OSCdef(\Slider1, { |msg|
 	// msg.postln;
 	{ sDelay.valueAction_(msg[1]) }.defer;
-}, "/Slider1").fix;
+}, "/1/fader1").fix;
+// }, "/Slider1").fix;
 
 OSCdef(\Slider2, { |msg|
 	// msg.postln;
@@ -257,7 +258,8 @@ OSCdef(\Button1, { |msg|
 	// msg.postln;
 	fDelay.value(msg[1]);
 	bDelay.value_(msg[1]);
-}, "/Button1").fix;
+}, "/1/toggle1").fix;
+// }, "/Button1").fix;
 
 OSCdef(\Button2, { |msg|
 	// msg.postln;
@@ -313,7 +315,7 @@ fReadData = { arg value;
 fReadDataLoop = {
 	var mags = Array.rand(100,0.0,1);
 	var hues = Array.rand(100,0.0,1);
-	var fileRead = FilePlayer.new(Document.dir++"Shackle/Curves/Data/DataDump.txt", delimiter: $;);
+	var fileRead = FilePlayer.new(Document.dir++"Shackle/Data/Curves/DataDump.txt", delimiter: $;);
 	var line = 0;
 	inf.do {
 		mags = fileRead.readAtLine(2*line)[0];
@@ -449,7 +451,7 @@ wCurves.view.keyDownAction_({
 		},{
 			localAddr.sendMsg("/transition", scenes[sceneCount], "no-count");
 		});
-	});
+    });
 });
 
 wCurves.onClose = {
@@ -466,8 +468,10 @@ wCurves.onClose = {
 	if(readData==1, {tReadData.stop});
 	taskCountDown.stop;
 	lapisStat.stop;
+	~wCurves = nil;
 };
 wCurves.front;
+~wCurves = wCurves;
 
 
 ///////////////////////////////////////////// initialize //////////////////////////////////////

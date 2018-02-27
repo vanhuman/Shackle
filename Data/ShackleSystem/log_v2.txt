@@ -1,0 +1,318 @@
+
+Sun Dec  3 15:02:47 2017 Generator started
+Sun Dec  3 15:02:52 2017 TICK 00:05 Action: develop with length 71 sec and transition: hardcut with length 6 sec
+Sun Dec  3 15:03:01 2017 Generator stopped
+
+Mon Dec 25 20:38:22 2017 Generator started
+Mon Dec 25 20:38:27 2017 TICK 00:05 Action: develop with length 66 sec and transition: crossfade with length 49 sec
+Mon Dec 25 20:39:20 2017 <nextAction>
+Mon Dec 25 20:39:25 2017 TICK 01:02 Action: stay with length 54 sec and transition: crossfade with length 12 sec
+Mon Dec 25 20:39:39 2017 Generator stopped
+
+Mon Dec 25 20:39:46 2017 Generator started
+Mon Dec 25 20:39:51 2017 TICK 00:04 Action: develop with length 81 sec and transition: crossfade with length 44 sec
+Mon Dec 25 20:40:04 2017 Generator stopped
+
+Mon Dec 25 20:40:10 2017 Generator started
+Mon Dec 25 20:40:15 2017 TICK 00:04 Action: develop with length 60 sec and transition: crossfade with length 44 sec
+
+Sun Jan 14 15:06:43 2018 Generator started
+Sun Jan 14 15:06:48 2018 TICK 00:05 Action: change with length 73 sec and transition: crossfade with length 34 sec
+Sun Jan 14 15:07:59 2018 <cancelled>
+Sun Jan 14 15:07:59 2018 TICK 01:15 Action: change with length 29 sec and transition: hardcut with length 34 sec
+Sun Jan 14 15:08:28 2018 TICK 01:45 Action: change with length 95 sec and transition: crossfade with length 30 sec
+Sun Jan 14 15:08:43 2018 Generator stopped
+
+Sun Jan 14 15:09:10 2018 Generator started
+Sun Jan 14 15:09:25 2018 TICK 00:15 Action: change with length 88 sec and transition: crossfade with length 41 sec
+Sun Jan 14 15:10:53 2018 TICK 01:43 Action: develop with length 119 sec and transition: crossfade with length 41 sec
+Sun Jan 14 15:12:52 2018 TICK 03:42 Action: change with length 120 sec and transition: hardcut with length 9 sec
+
+Sun Jan 14 16:16:42 2018 Generator started
+Sun Jan 14 16:16:44 2018 Generator stopped
+
+Sun Jan 14 16:16:55 2018 Generator started
+Sun Jan 14 16:17:09 2018 Generator stopped
+
+Sun Jan 14 16:17:14 2018 Generator started
+Sun Jan 14 16:17:29 2018 TICK 00:15 Action: change with length 101 sec and transition: hardcut with length 8 sec
+Sun Jan 14 16:17:42 2018 Generator stopped
+
+Sun Jan 14 16:17:58 2018 Generator started
+Sun Jan 14 16:18:13 2018 Action: change with length 108 sec and transition: hardcut with length 8 sec
+Sun Jan 14 16:18:22 2018 Generator stopped
+
+Sun Jan 14 16:18:29 2018 Generator started
+Sun Jan 14 16:18:44 2018 Action: change with length 82 sec and transition: hardcut with length 9 sec
+Sun Jan 14 16:18:49 2018 Generator stopped
+
+Sun Jan 14 16:18:54 2018 Generator started
+Sun Jan 14 16:19:09 2018 Action: change with length 87 sec and transition: hardcut with length 7 sec
+Sun Jan 14 16:19:18 2018 <nextAction>
+Sun Jan 14 16:19:33 2018 Action: stay with length 96 sec and transition: hardcut with length 9 sec
+Sun Jan 14 16:19:48 2018 <nextAction>
+Sun Jan 14 16:19:59 2018 <cancelled>
+Sun Jan 14 16:19:59 2018 Action: stay with length 73 sec and transition: crossfade with length 9 sec
+Sun Jan 14 16:20:48 2018 <nextAction>
+Sun Jan 14 16:21:03 2018 Action: change with length 126 sec and transition: crossfade with length 24 sec
+Sun Jan 14 16:22:16 2018 <nextAction>
+Sun Jan 14 16:22:25 2018 Generator stopped
+
+Sun Jan 14 16:24:38 2018 Generator started
+Sun Jan 14 16:24:39 2018 Generator stopped
+
+Tue Jan 16 10:27:07 2018 Generator started
+Tue Jan 16 10:27:22 2018 Action: develop with length 79 sec and transition: hardcut with length 10 sec
+Tue Jan 16 10:28:41 2018 Action: stay with length 127 sec and transition: crossfade with length 13 sec
+Tue Jan 16 10:30:48 2018 Action: develop with length 105 sec and transition: hardcut with length 8 sec
+Tue Jan 16 10:32:33 2018 Action: change with length 84 sec and transition: crossfade with length 39 sec
+Tue Jan 16 10:32:35 2018 Generator stopped
+
+Tue Jan 16 10:32:55 2018 Generator started
+Tue Jan 16 10:33:10 2018 Action: change with length 77 sec and transition: crossfade with length 12 sec
+Tue Jan 16 10:34:27 2018 Action: stay with length 125 sec and transition: crossfade with length 42 sec
+Tue Jan 16 10:36:32 2018 Action: develop with length 118 sec and transition: crossfade with length 39 sec
+Tue Jan 16 10:38:30 2018 Action: change with length 132 sec and transition: hardcut with length 7 sec
+Tue Jan 16 10:40:42 2018 Action: stay with length 98 sec and transition: hardcut with length 10 sec
+Tue Jan 16 10:42:20 2018 Action: develop with length 110 sec and transition: hardcut with length 10 sec
+Tue Jan 16 10:44:03 2018 <cancelled>
+Tue Jan 16 10:44:03 2018 Action: develop with length 72 sec and transition: hardcut with length 10 sec
+Tue Jan 16 10:45:15 2018 Action: stay with length 91 sec and transition: crossfade with length 22 sec
+Tue Jan 16 10:46:46 2018 Action: develop with length 95 sec and transition: crossfade with length 32 sec
+Tue Jan 16 10:48:21 2018 Action: change with length 84 sec and transition: hardcut with length 8 sec
+Tue Jan 16 10:49:45 2018 Action: change with length 96 sec and transition: hardcut with length 5 sec
+Tue Jan 16 10:51:21 2018 Action: stay with length 122 sec and transition: crossfade with length 33 sec
+Tue Jan 16 10:53:23 2018 Action: change with length 79 sec and transition: crossfade with length 47 sec
+Tue Jan 16 10:54:14 2018 Generator stopped
+
+Tue Jan 16 18:56:48 2018 Generator started
+Tue Jan 16 18:56:51 2018 Generator stopped
+
+Tue Jan 16 18:56:53 2018 Generator started
+Tue Jan 16 18:56:58 2018 Generator stopped
+
+Tue Jan 16 19:00:16 2018 Generator started
+Tue Jan 16 19:00:21 2018 Action: change with length 124 sec and transition: crossfade with length 44 sec
+Tue Jan 16 19:00:24 2018 <nextAction>
+
+Tue Jan 16 19:02:02 2018 Generator started
+Tue Jan 16 19:02:10 2018 Action: develop with length 122 sec and transition: hardcut with length 10 sec
+Tue Jan 16 19:02:23 2018 <nextAction>
+Tue Jan 16 19:02:38 2018 Action: change with length 82 sec and transition: hardcut with length 6 sec
+Tue Jan 16 19:02:47 2018 Generator stopped
+
+Tue Jan 16 19:33:08 2018 Generator started
+Tue Jan 16 19:33:13 2018 Action: develop with length 75 sec and transition: crossfade with length 24 sec
+Tue Jan 16 19:33:22 2018 <nextAction>
+
+Tue Jan 16 19:35:20 2018 Generator started
+Tue Jan 16 19:35:35 2018 Action: change with length 110 sec and transition: crossfade with length 35 sec
+Tue Jan 16 19:37:25 2018 Action: change with length 132 sec and transition: hardcut with length 7 sec
+Tue Jan 16 19:39:37 2018 Action: change with length 96 sec and transition: hardcut with length 7 sec
+Tue Jan 16 19:41:13 2018 Action: stay with length 111 sec and transition: crossfade with length 14 sec
+Tue Jan 16 19:43:04 2018 Action: develop with length 134 sec and transition: hardcut with length 6 sec
+Tue Jan 16 19:43:28 2018 <nextAction>
+Tue Jan 16 19:43:43 2018 Action: stay with length 120 sec and transition: hardcut with length 5 sec
+Tue Jan 16 19:45:43 2018 Action: change with length 83 sec and transition: hardcut with length 10 sec
+Tue Jan 16 19:47:06 2018 Action: develop with length 105 sec and transition: crossfade with length 47 sec
+Tue Jan 16 19:47:42 2018 <nextAction>
+Tue Jan 16 19:47:57 2018 Action: stay with length 125 sec and transition: crossfade with length 37 sec
+Tue Jan 16 19:48:48 2018 Generator stopped
+
+Tue Jan 16 19:48:54 2018 Generator started
+Tue Jan 16 19:48:59 2018 Action: develop with length 124 sec and transition: crossfade with length 12 sec
+
+Tue Jan 16 19:49:50 2018 Generator started
+Tue Jan 16 19:49:55 2018 Action: change with length 86 sec and transition: hardcut with length 7 sec
+Tue Jan 16 19:50:33 2018 <nextAction>
+Tue Jan 16 19:50:48 2018 Action: change with length 133 sec and transition: crossfade with length 38 sec
+Tue Jan 16 19:51:43 2018 Generator stopped
+
+Tue Jan 16 19:53:34 2018 Generator started
+Tue Jan 16 19:53:49 2018 Action: change with length 132 sec and transition: hardcut with length 7 sec
+Tue Jan 16 19:54:16 2018 <nextAction>
+Tue Jan 16 19:54:21 2018 <cancelled>
+Tue Jan 16 19:54:21 2018 Action: change with length 55 sec and transition: crossfade with length 7 sec
+Tue Jan 16 19:54:25 2018 <nextAction>
+Tue Jan 16 19:54:40 2018 Action: stay with length 129 sec and transition: hardcut with length 6 sec
+Tue Jan 16 19:56:42 2018 <cancelled>
+Tue Jan 16 19:56:42 2018 Action: stay with length 55 sec and transition: hardcut with length 6 sec
+Tue Jan 16 19:57:37 2018 Action: develop with length 93 sec and transition: hardcut with length 7 sec
+Tue Jan 16 19:59:09 2018 <cancelled>
+Tue Jan 16 19:59:09 2018 Action: develop with length 73 sec and transition: crossfade with length 7 sec
+Tue Jan 16 20:00:22 2018 Action: stay with length 84 sec and transition: crossfade with length 19 sec
+Tue Jan 16 20:01:44 2018 <cancelled>
+Tue Jan 16 20:01:44 2018 Action: stay with length 74 sec and transition: hardcut with length 19 sec
+Tue Jan 16 20:02:58 2018 Action: develop with length 107 sec and transition: hardcut with length 5 sec
+Tue Jan 16 20:04:45 2018 Action: stay with length 127 sec and transition: hardcut with length 8 sec
+Tue Jan 16 20:06:42 2018 Generator stopped
+
+Tue Jan 16 20:07:14 2018 Generator started
+Tue Jan 16 20:07:29 2018 Action: develop with length 132 sec and transition: crossfade with length 22 sec
+Tue Jan 16 20:09:41 2018 Action: stay with length 88 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:10:14 2018 <nextAction>
+Tue Jan 16 20:10:16 2018 <cancelled>
+Tue Jan 16 20:10:16 2018 Action: stay with length 63 sec and transition: crossfade with length 10 sec
+Tue Jan 16 20:10:20 2018 <nextAction>
+Tue Jan 16 20:10:35 2018 Action: develop with length 90 sec and transition: crossfade with length 36 sec
+Tue Jan 16 20:11:16 2018 <nextAction>
+Tue Jan 16 20:11:31 2018 Action: stay with length 131 sec and transition: crossfade with length 40 sec
+Tue Jan 16 20:13:42 2018 Action: develop with length 101 sec and transition: crossfade with length 14 sec
+Tue Jan 16 20:15:23 2018 Action: stay with length 82 sec and transition: hardcut with length 9 sec
+Tue Jan 16 20:16:45 2018 Action: change with length 109 sec and transition: crossfade with length 47 sec
+Tue Jan 16 20:18:34 2018 Action: develop with length 89 sec and transition: crossfade with length 16 sec
+Tue Jan 16 20:19:54 2018 <cancelled>
+Tue Jan 16 20:19:54 2018 Action: develop with length 51 sec and transition: hardcut with length 16 sec
+Tue Jan 16 20:20:45 2018 Action: change with length 131 sec and transition: crossfade with length 37 sec
+Tue Jan 16 20:22:46 2018 <cancelled>
+Tue Jan 16 20:22:46 2018 Action: change with length 61 sec and transition: hardcut with length 37 sec
+Tue Jan 16 20:23:37 2018 <cancelled>
+Tue Jan 16 20:23:37 2018 Action: change with length 75 sec and transition: crossfade with length 37 sec
+Tue Jan 16 20:23:41 2018 <nextAction>
+Tue Jan 16 20:23:56 2018 Action: stay with length 90 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:25:26 2018 Action: develop with length 110 sec and transition: hardcut with length 7 sec
+Tue Jan 16 20:27:16 2018 Action: stay with length 129 sec and transition: hardcut with length 6 sec
+Tue Jan 16 20:28:35 2018 <nextAction>
+Tue Jan 16 20:28:50 2018 Action: develop with length 76 sec and transition: hardcut with length 5 sec
+Tue Jan 16 20:30:06 2018 Action: change with length 76 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:31:22 2018 Action: change with length 129 sec and transition: hardcut with length 5 sec
+Tue Jan 16 20:33:31 2018 Action: develop with length 130 sec and transition: crossfade with length 22 sec
+Tue Jan 16 20:35:41 2018 Action: change with length 93 sec and transition: crossfade with length 33 sec
+Tue Jan 16 20:37:14 2018 Action: change with length 110 sec and transition: hardcut with length 5 sec
+Tue Jan 16 20:39:04 2018 Action: develop with length 96 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:40:40 2018 Action: stay with length 98 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:42:18 2018 Action: change with length 106 sec and transition: crossfade with length 14 sec
+Tue Jan 16 20:44:04 2018 Action: develop with length 80 sec and transition: hardcut with length 7 sec
+Tue Jan 16 20:45:24 2018 Action: stay with length 76 sec and transition: crossfade with length 23 sec
+Tue Jan 16 20:46:40 2018 Action: develop with length 119 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:48:32 2018 <cancelled>
+Tue Jan 16 20:48:32 2018 Action: develop with length 75 sec and transition: crossfade with length 10 sec
+Tue Jan 16 20:49:47 2018 Action: change with length 102 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:51:29 2018 Action: stay with length 130 sec and transition: hardcut with length 10 sec
+Tue Jan 16 20:53:39 2018 Action: develop with length 108 sec and transition: crossfade with length 41 sec
+
+Tue Jan 16 20:57:07 2018 Generator started
+Tue Jan 16 20:57:22 2018 Action: change with length 231 sec and transition: crossfade with length 35 sec
+Tue Jan 16 20:58:04 2018 <nextAction>
+Tue Jan 16 20:58:19 2018 Action: develop with length 217 sec and transition: hardcut with length 7 sec
+
+Tue Jan 16 20:59:33 2018 Generator started
+Tue Jan 16 20:59:48 2018 Action: develop with length 200 sec and transition: hardcut with length 9 sec
+Tue Jan 16 21:00:05 2018 <nextAction>
+Tue Jan 16 21:00:20 2018 Action: switch with length 238 sec and transition: crossfade with length 49 sec
+Tue Jan 16 21:00:45 2018 Generator stopped
+
+Tue Jan 16 21:00:57 2018 Generator started
+Tue Jan 16 21:01:12 2018 Action: develop with length 248 sec and transition: crossfade with length 27 sec
+Tue Jan 16 21:02:17 2018 <nextAction>
+Tue Jan 16 21:02:32 2018 Action: stay with length 230 sec and transition: hardcut with length 8 sec
+Tue Jan 16 21:03:12 2018 <nextAction>
+Tue Jan 16 21:03:27 2018 Action: develop with length 247 sec and transition: hardcut with length 9 sec
+Tue Jan 16 21:03:51 2018 <nextAction>
+Tue Jan 16 21:03:56 2018 <cancelled>
+Tue Jan 16 21:03:56 2018 Action: develop with length 123 sec and transition: crossfade with length 9 sec
+Tue Jan 16 21:04:02 2018 <nextAction>
+Tue Jan 16 21:04:17 2018 Action: switch with length 224 sec and transition: hardcut with length 6 sec
+Tue Jan 16 21:08:01 2018 Action: stay with length 239 sec and transition: crossfade with length 24 sec
+Tue Jan 16 21:12:00 2018 Action: switch with length 206 sec and transition: crossfade with length 25 sec
+Tue Jan 16 21:14:31 2018 <nextAction>
+Tue Jan 16 21:14:46 2018 Action: switch with length 212 sec and transition: crossfade with length 28 sec
+Tue Jan 16 21:18:18 2018 Action: switch with length 219 sec and transition: crossfade with length 10 sec
+Tue Jan 16 21:19:35 2018 <nextAction>
+Tue Jan 16 21:19:50 2018 Action: develop with length 205 sec and transition: hardcut with length 5 sec
+Tue Jan 16 21:23:05 2018 <cancelled>
+Tue Jan 16 21:23:05 2018 Action: develop with length 132 sec and transition: crossfade with length 5 sec
+Tue Jan 16 21:25:17 2018 Action: switch with length 233 sec and transition: hardcut with length 6 sec
+Tue Jan 16 21:29:10 2018 Action: develop with length 215 sec and transition: hardcut with length 10 sec
+Tue Jan 16 21:32:45 2018 Action: stay with length 244 sec and transition: crossfade with length 16 sec
+
+Tue Jan 16 21:35:23 2018 Generator started
+Tue Jan 16 21:35:31 2018 Action: switch with length 222 sec and transition: hardcut with length 10 sec
+Tue Jan 16 21:35:42 2018 <nextAction>
+Tue Jan 16 21:35:47 2018 Action: stay with length 188 sec and transition: crossfade with length 15 sec
+
+Tue Jan 16 21:36:28 2018 Generator started
+Tue Jan 16 21:36:33 2018 Action: develop with length 245 sec and transition: crossfade with length 10 sec
+Tue Jan 16 21:36:45 2018 <nextAction>
+Tue Jan 16 21:36:50 2018 Action: stay with length 244 sec and transition: hardcut with length 5 sec
+Tue Jan 16 21:36:57 2018 <nextAction>
+Tue Jan 16 21:37:02 2018 Action: switch with length 185 sec and transition: crossfade with length 28 sec
+
+Tue Jan 16 22:26:30 2018 Generator started
+Tue Jan 16 22:26:45 2018 Action: switch with length 252 sec and transition: hardcut with length 5 sec
+Tue Jan 16 22:26:53 2018 Generator stopped
+
+Tue Jan 16 22:27:16 2018 Generator started
+Tue Jan 16 22:27:25 2018 Generator stopped
+
+Tue Jan 16 22:29:15 2018 Generator started
+Tue Jan 16 22:29:30 2018 Action: switch with length 197 sec and transition: crossfade with length 16 sec
+Tue Jan 16 22:29:48 2018 <nextAction>
+Tue Jan 16 22:29:52 2018 <cancelled>
+Tue Jan 16 22:29:52 2018 Action: switch with length 119 sec and transition: hardcut with length 16 sec
+Tue Jan 16 22:29:55 2018 <nextAction>
+Tue Jan 16 22:30:07 2018 <cancelled>
+Tue Jan 16 22:30:07 2018 Action: switch with length 107 sec and transition: crossfade with length 16 sec
+
+Wed Jan 17 19:11:13 2018 Generator started
+Wed Jan 17 19:11:28 2018 Action: develop with length 246 sec and transition: crossfade with length 23 sec
+Wed Jan 17 19:11:53 2018 <nextAction>
+Wed Jan 17 19:11:56 2018 <cancelled>
+Wed Jan 17 19:11:56 2018 Action: develop with length 108 sec and transition: crossfade with length 23 sec
+
+Tue Jan 30 19:43:15 2018 Generator started
+Tue Jan 30 19:43:20 2018 Action: develop with length 221 sec and transition: crossfade with length 25 sec
+
+Mon Feb 19 19:24:41 2018 Generator started
+Mon Feb 19 19:24:56 2018 Action: switch with length 221 sec and transition: crossfade with length 20 sec
+Mon Feb 19 19:25:49 2018 <nextAction>
+Mon Feb 19 19:26:04 2018 Action: stay with length 198 sec and transition: crossfade with length 28 sec
+Mon Feb 19 19:26:35 2018 <nextAction>
+Mon Feb 19 19:26:41 2018 <cancelled>
+Mon Feb 19 19:26:41 2018 Action: stay with length 128 sec and transition: hardcut with length 28 sec
+Mon Feb 19 19:28:49 2018 Action: switch with length 232 sec and transition: crossfade with length 13 sec
+Mon Feb 19 19:32:41 2018 Action: develop with length 203 sec and transition: crossfade with length 25 sec
+Mon Feb 19 19:35:21 2018 <nextAction>
+Mon Feb 19 19:35:23 2018 <cancelled>
+Mon Feb 19 19:35:23 2018 Action: develop with length 108 sec and transition: hardcut with length 25 sec
+Mon Feb 19 19:36:59 2018 <cancelled>
+Mon Feb 19 19:36:59 2018 Action: develop with length 125 sec and transition: crossfade with length 25 sec
+Mon Feb 19 19:37:57 2018 <nextAction>
+Mon Feb 19 19:37:59 2018 <cancelled>
+Mon Feb 19 19:37:59 2018 Action: develop with length 119 sec and transition: crossfade with length 25 sec
+Mon Feb 19 19:39:58 2018 Action: stay with length 212 sec and transition: crossfade with length 11 sec
+Mon Feb 19 19:43:30 2018 Action: develop with length 218 sec and transition: hardcut with length 10 sec
+Mon Feb 19 19:44:06 2018 <nextAction>
+Mon Feb 19 19:44:21 2018 Action: switch with length 225 sec and transition: hardcut with length 6 sec
+Mon Feb 19 19:48:06 2018 Action: stay with length 238 sec and transition: crossfade with length 10 sec
+Mon Feb 19 19:52:03 2018 <cancelled>
+Mon Feb 19 19:52:03 2018 Action: stay with length 130 sec and transition: hardcut with length 10 sec
+Mon Feb 19 19:52:07 2018 <nextAction>
+Mon Feb 19 19:52:22 2018 Action: develop with length 239 sec and transition: hardcut with length 7 sec
+Mon Feb 19 19:56:21 2018 Action: stay with length 202 sec and transition: crossfade with length 30 sec
+Mon Feb 19 19:56:33 2018 <nextAction>
+Mon Feb 19 19:56:48 2018 Action: develop with length 203 sec and transition: crossfade with length 18 sec
+Mon Feb 19 20:00:11 2018 Action: switch with length 214 sec and transition: hardcut with length 5 sec
+Mon Feb 19 20:03:45 2018 Action: develop with length 223 sec and transition: hardcut with length 9 sec
+Mon Feb 19 20:07:28 2018 Action: stay with length 206 sec and transition: hardcut with length 8 sec
+Mon Feb 19 20:10:54 2018 Action: develop with length 222 sec and transition: hardcut with length 8 sec
+Mon Feb 19 20:14:36 2018 Action: switch with length 223 sec and transition: hardcut with length 8 sec
+Mon Feb 19 20:18:19 2018 Action: develop with length 246 sec and transition: crossfade with length 29 sec
+Mon Feb 19 20:22:25 2018 Action: switch with length 235 sec and transition: crossfade with length 24 sec
+Mon Feb 19 20:26:20 2018 Action: switch with length 248 sec and transition: hardcut with length 8 sec
+Mon Feb 19 20:30:28 2018 Action: stay with length 211 sec and transition: crossfade with length 14 sec
+Mon Feb 19 20:33:59 2018 Action: develop with length 212 sec and transition: crossfade with length 13 sec
+Mon Feb 19 20:37:31 2018 Action: stay with length 200 sec and transition: hardcut with length 10 sec
+Mon Feb 19 20:40:51 2018 Action: develop with length 223 sec and transition: hardcut with length 8 sec
+Mon Feb 19 20:44:34 2018 Action: switch with length 195 sec and transition: hardcut with length 5 sec
+Mon Feb 19 20:47:49 2018 Action: switch with length 199 sec and transition: crossfade with length 27 sec
+Mon Feb 19 20:51:08 2018 Action: stay with length 237 sec and transition: hardcut with length 6 sec
+Mon Feb 19 20:55:05 2018 Action: switch with length 218 sec and transition: hardcut with length 7 sec
+Mon Feb 19 20:58:44 2018 Action: switch with length 233 sec and transition: crossfade with length 26 sec
+Mon Feb 19 21:02:37 2018 Action: stay with length 222 sec and transition: crossfade with length 24 sec
+Mon Feb 19 21:06:19 2018 Action: switch with length 228 sec and transition: hardcut with length 6 sec
+Mon Feb 19 21:10:07 2018 Action: switch with length 232 sec and transition: hardcut with length 6 sec
+Mon Feb 19 21:13:59 2018 Action: stay with length 199 sec and transition: hardcut with length 5 sec
+Mon Feb 19 21:17:18 2018 Action: switch with length 203 sec and transition: hardcut with length 7 sec
+Mon Feb 19 21:20:41 2018 Action: develop with length 216 sec and transition: hardcut with length 5 sec
+Mon Feb 19 21:24:17 2018 Action: stay with length 233 sec and transition: hardcut with length 10 sec
